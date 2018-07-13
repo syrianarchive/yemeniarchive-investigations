@@ -1,5 +1,5 @@
 prose:
-  rooturl: 'investigations'
+  rooturl: ''
   media: '/assets/investigations'
   metadata:
     investigations:
