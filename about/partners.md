@@ -1,11 +1,11 @@
 ---
 layout: contentwithsiblings.html
 title: Partners
-image: "/assets/about/partners.png"
+image: /assets/about/partners.png
+published: true
 ---
-The Syrian Archive has partnered or collaborated with various organisations and nonprofits working in the human rights and citizen journalist sectors, as well as international institutions and universities since its founding in 2014. These include:
+The Yemani Archive has partnered or collaborated with various organisations and nonprofits working in the human rights and citizen journalist sectors, as well as international institutions and universities since its founding in 2014. These include:
 
-- [The United Nations Office for High Commissioner of Human Right: Inquiry on Syria](http://www.ohchr.org/EN/HRBodies/HRC/IICISyria/Pages/IndependentInternationalCommission.aspx)
 - [Witness](https://witness.org/)
 - [Bellingcat](https://www.bellingcat.com/)
 - [Enigio](https://www.enigio.com/)
@@ -16,8 +16,3 @@ The Syrian Archive has partnered or collaborated with various organisations and 
 - [Human Rights Watch](https://www.hrw.org/)
 
 We have been also collaborating with a diverse network of Syrian human rights organisations, journalists, lawyers, and human rights defenders in order to preserve and verify their visual documentation. These groups include:
-
-- [The Syrian Network for Human Rights](http://sn4hr.org/)
-- [Sham News Agency](https://www.facebook.com/ShaamNetwork.Arabic/)
-- [Baladi News Agency](https://www.baladi-news.com/ar/)
-- [Step News Agency](http://stepagency-sy.net/)
