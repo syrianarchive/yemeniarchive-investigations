@@ -4,7 +4,7 @@ title: Partners
 image: /assets/about/partners.png
 published: true
 ---
-The Yemani Archive has partnered or collaborated with various organisations and nonprofits working in the human rights and citizen journalist sectors, as well as international institutions and universities since its founding in 2014. These include:
+The Yemani Archive has partnered or collaborated with various organisations and nonprofits working in the human rights and citizen journalist sectors, as well as international institutions and universities. These include:
 
 - [Witness](https://witness.org/)
 - [Bellingcat](https://www.bellingcat.com/)
@@ -15,4 +15,4 @@ The Yemani Archive has partnered or collaborated with various organisations and 
 - [Tactical Technology Collective](https://tacticaltech.org/)
 - [Human Rights Watch](https://www.hrw.org/)
 
-We have been also collaborating with a diverse network of Syrian human rights organisations, journalists, lawyers, and human rights defenders in order to preserve and verify their visual documentation. These groups include:
+We have been also collaborating with a diverse network of Yemeni human rights organisations, journalists, lawyers, and human rights defenders in order to preserve and verify their visual documentation.
