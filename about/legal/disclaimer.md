@@ -19,7 +19,7 @@ Our website contains links to the websites of third parties ("external links"). 
 
 # Limitation of liability for technical damage and data loss
 
-**a.** The Syrian Archive website accepts no liability in the event that all or part of the material is lost.
+**a.** The Yemeni Archive website accepts no liability in the event that all or part of the material is lost.
 
-**b.** The Syrian Archive website accepts no liability for any damage or losses resulting from acts or omissions by third parties to whom the website has made the materials available.
-However, The Syrian Archive website will keep the digital material under optimal circumstances as much as possible.
+**b.** The Yemeni Archive website accepts no liability for any damage or losses resulting from acts or omissions by third parties to whom the website has made the materials available.
+However, The Yemeni Archive website will keep the digital material under optimal circumstances as much as possible.
