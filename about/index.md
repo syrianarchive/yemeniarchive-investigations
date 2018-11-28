@@ -6,7 +6,7 @@ image: "/assets/about/about3.jpg"
 ---
 # Mission
 
-The Yemeni Archive aims to support human rights investigators, advocates, media reporters, and journalists in their efforts to document human rights violations in Syria and worldwide through developing new open source tools as well as providing a transparent and replicable methodology for collecting, preserving, verifying and investigating visual documentation in conflict areas.
+The Yemeni Archive aims to support human rights investigators, advocates, media reporters, and journalists in their efforts to document human rights violations in Yemen and worldwide through developing new open source tools as well as providing a transparent and replicable methodology for collecting, preserving, verifying and investigating visual documentation in conflict areas.
 
 We believe that visual documentation of human rights violations that is transparent, detailed, and reliable are critical towards providing accountability and can positively contribute to post-conflict reconstruction and stability. Such documentation can humanise victims, reduce the space for dispute over numbers killed, help societies understand the true human costs of war, and support truth and reconciliation efforts.
 
@@ -18,7 +18,7 @@ Visual documentation is also valuable during conflict as it can feed into:
 
 User-generated content is valuable during times of conflict. Verified visual documentation can feed into humanitarian response planning by helping to identify areas of risk and need as well as contributing to the protection of civilians.
 
-Furthermore, visual documentation allows the Yemeni Archive to tell untold stories through amplifying the voices of witnesses, victims and others who risked their lives to capture and document human rights violations in Syria. Not every incident in the Yemeni conflict has been reported by journalists. The very challenging conditions have made it extremely difficult for local and especially international media to work in Syria, meaning the many incidents have been missed or under-reported.
+Furthermore, visual documentation allows the Yemeni Archive to tell untold stories through amplifying the voices of witnesses, victims and others who risked their lives to capture and document human rights violations in Yemen. Not every incident in the Yemeni conflict has been reported by journalists. The very challenging conditions have made it extremely difficult for local and especially international media to work in Yemen, meaning the many incidents have been missed or under-reported.
 
 Visual documentation aims to strengthen political campaigns of human rights advocates by providing content that supports their campaign. This could include content on the violation of children’s rights; sexual and gender based violence; violations against specifically protected persons and objects, or the use of illegal weapons.
 
@@ -26,7 +26,7 @@ Additionally, visual documentation aims to help human rights activists and Yemen
 
 # Vision
 
-Through collecting, verifying, preserving, and investigating visual documentation of human rights violations in Syria, the Yemeni Archive aims to preserve data as a digital memory, to establish a verified database of human rights violations, and to act as an evidence tool for legally implementing justice and accountability as concept and practice in Syria.
+Through collecting, verifying, preserving, and investigating visual documentation of human rights violations in Yemen, the Yemeni Archive aims to preserve data as a digital memory, to establish a verified database of human rights violations, and to act as an evidence tool for legally implementing justice and accountability as concept and practice in Yemen.
 
 ### Research methodology is based on the following core principles:
 
@@ -39,11 +39,11 @@ The Yemeni Archive discovers relevant sources of information and aggregates them
 
 #### Second: Secure long term preservation
 
-The Yemeni Archive preserves visual documentation of human rights abuses in Syria committed by all actors by storing them on a secure server online and with offline backups. Working with low-cost and reliable hosting partners, in addition to open source software will help to ensure the long-term sustainability of the storage, ensuring the material will continue to be available for analysis now and in the future to advance justice, accountability and reconciliation efforts.
+The Yemeni Archive preserves visual documentation of human rights abuses in Yemen committed by all actors by storing them on a secure server online and with offline backups. Working with low-cost and reliable hosting partners, in addition to open source software will help to ensure the long-term sustainability of the storage, ensuring the material will continue to be available for analysis now and in the future to advance justice, accountability and reconciliation efforts.
 
 #### Third: Verification, cataloging and metadata enrichment
 
-The Yemeni Archive organises preserved materials by cataloging content according the categories used by the Independent International Commission of Inquiry on the Yemeni Arab Republic set up by the UN Office of the High Commissioner for Human Rights (OHCHR). The categories include:
+The Yemeni Archive organises preserved materials by cataloging content according the categories used by the Independent International Commission of Inquiry on the Republic of Yemen set up by the UN Office of the High Commissioner for Human Rights (OHCHR). The categories include:
 
 - Massacres and other unlawful killing
 - Arbitrary arrest and unlawful detention
@@ -76,32 +76,8 @@ The materials are also organised in collections based on the type of the violati
 - Civilian casualties as a result of alleged attacks by Yemeni government forces
 - Civilian casualties as a result of alleged attacks by pro-Yemeni government forces
 - Plunder and theft
-- Coalition airstrikes in Syria
-- Russian airstrikes in Syria
-
-The materials can be filtered according to the identified weapons used in the incident. The weapons list include:
-
-- Chemical Weapons
-- Chlorine Gas
-- Mustard Gas
-- Sarin
-- Cluster Munition
-- Incendiary Weapons
-- ZAB-2.5S
-- ShOAB-0.5
-- AO-2.5RT/RTM
-- SPBE
-- ZAB-2.5SM
-- PTAB-1M
-- RBK-500
-- Barrel Bomb
-- 9M79M Tochka
-- Drone
-- FAB-500 SHN
-- OFAB 250-270
-- Thermobaric weapon
-- Artillery
-- Rockets launchers
+- Coalition airstrikes in Yemen
+- Russian airstrikes in Yemen
 
 Additional value is added to the material by recording as much metadata and chain of custody information as possible, including **location, date and origin**. This contextualises material by addressing the questions of **when, where and what happened in a specific incident which will help viewers to identify and understand it**.
 
