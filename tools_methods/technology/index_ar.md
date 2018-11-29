@@ -47,4 +47,4 @@ debian / nodejs / sugarcube / python / mongodb / nginx / react
 
 ## تواصل معنا
 
-[تواصل معنا](mailto:niko@syrianarchive.org) لنرى كيف يمكننا مساعدتك في العمل على مشروعك.
+[تواصل معنا](mailto:info@yemeniarchive.org) لنرى كيف يمكننا مساعدتك في العمل على مشروعك.
