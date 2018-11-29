@@ -5,7 +5,7 @@ date: 2017-11-27
 desc: Open Source Tools and Methods for Open Source Investigations
 image: /assets/technology/technologyyy.jpg
 ---
-The Syrian Archive Identify, collect, and preserve digital content in a variety of formats from a variety of sources, and platforms. Content is stored in a centralised database and then accessed by our open-source tools to search, investigate, verify, categorise, and expand. Rather applying out-of-the-box technology solutions to the content challenges faced by the Syrian Archive team, we take a user-centered approach to developing or contributing to custom open-source modular solutions (e.g. [Sugarcube](https://gitlab.com/sucarcube)), allowing our teams of investigators to collaboratively work on our data pipeline.
+The Yemeni Archive Identify, collect, and preserve digital content in a variety of formats from a variety of sources, and platforms. Content is stored in a centralised database and then accessed by our open-source tools to search, investigate, verify, categorise, and expand. Rather applying out-of-the-box technology solutions to the content challenges faced by the Yemeni Archive team, we take a user-centered approach to developing or contributing to custom open-source modular solutions (e.g. [Sugarcube](https://gitlab.com/sucarcube)), allowing our teams of investigators to collaboratively work on our data pipeline.
 
 ## Overview
 
@@ -38,10 +38,9 @@ This website is flat html files. The database is react, calling to an api.
 
 ## Links
 
-[Syrian Archive on Github](https://github.com/syrianarchive)
 
 [Sugarcube - Data Pipeline](https://gitlab.com/sugarcube)
 
 ## Contact
 
-[Contact Us](mailto:niko@syrianarchive.org) to talk about how we could help you with your project.
+[Contact Us](mailto:info@yemeniarchive.org) to talk about how we could help you with your project.
