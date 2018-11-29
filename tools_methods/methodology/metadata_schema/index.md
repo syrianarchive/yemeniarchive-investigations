@@ -6,7 +6,7 @@ desc: Metadata Schema
 image: /assets/technology/metadata-2.png
 ---
 
-This page describes the metadata schema used by the Yemeni Archive in it's digital content preservation, verification and investigative activities. The Yemeni Archive recognised the need for a standardised metadata scheme for organising content, but also that any metadata scheme used would be a highly political choice. Given that there are no universally accepted legally admissible metadata standards as of the date of this publication, efforts were made to develop a framework in consultation with a variety of international investigative bodies. Among these include consultations with members of the International Criminal Court, with members of the United Nations Office for High Commissioner of Human Rights, with members of the International, Impartial and Independent Mechanism on international crimes committed in Syria (IIIM), with archival institutes like the NIOD Institute for War, Holocaust and Genocide Studies, with international human rights organisations like Amnesty International, Human Rights Watch, and Witness, and with research institutes like the Human Rights Center at UC Berkeley School of Law.
+This page describes the metadata schema used by the Yemeni Archive in it's digital content preservation, verification and investigative activities. The Yemeni Archive recognised the need for a standardised metadata scheme for organising content, but also that any metadata scheme used would be a highly political choice. Given that there are no universally accepted legally admissible metadata standards as of the date of this publication, efforts were made to develop a framework in consultation with a variety of international investigative bodies. Among these include consultations with members of the International Criminal Court, with members of the United Nations Office for High Commissioner of Human Rights, with archival institutes like the NIOD Institute for War, Holocaust and Genocide Studies, with international human rights organisations like Amnesty International, Human Rights Watch, and Witness, and with research institutes like the Human Rights Center at UC Berkeley School of Law.
 
 Establishing a standardised metadata schema is necessary in order to assist users in identifying and understanding when, where, and what happened in a specific incident. A review of practices by other war archival institutes, such as those of NIOD, found that additional information is helpful for contextualising raw visual evidence (e.g. location of video recording; date of video recording and upload; and the origin of the video). Metadata collected by the Yemeni Archive project includes description of the visual object as given (e.g. Youtube title); the source of the visual evidence; the original link where footage was first published; specific landmarks able to be identified; weather (which may be useful for geolocation or time identification); specific languages or regional dialects spoken; clothes or uniforms able to be identified; weapons or munitions used; device used to record the footage; and media content type. The metadata is populated automatically and manually depending on how it was collected from e.g open source or closed source.
 
@@ -353,7 +353,7 @@ PROCESSING
     <td>ANALYSIS</td>
     <td>PICK</td>
     <td>Manual</td>
-    <td>To indicate the type of violation after verifying the footage. The Yemeni Archive uses the categories identified by the UN OHCHR Inquiry on Syria and used by the Yemeni Archive project include: &nbsp;
+    <td>To indicate the type of violation after verifying the footage. The Yemeni Archive uses the categories identified by the UN OHCHR Inquiry on Yemen and used by the Yemeni Archive project include: &nbsp;
     <li>Massacres and other unlawful killing;</li>
     <li>Arbitrary arrest and unlawful detention;</li>
     <li>Hostage-taking;</li>
@@ -389,8 +389,8 @@ PROCESSING
     <li>Civilian casualties as a result of alleged attacks by Yemeni government forces</li>
     <li>Civilian casualties as a result of alleged attacks by pro-Yemeni government forces</li>
     <li>Plunder and theft</li>
-    <li>Coalition airstrikes in Syria</li>
-    <li>Russian airstrikes in Syria</li>
+    <li>Coalition airstrikes in Yemen</li>
+    <li>Russian airstrikes in Yemen</li>
     <li>Other</li>
 </td>
   </tr>
@@ -399,7 +399,7 @@ PROCESSING
     <td>ANALYSIS</td>
     <td>PICK</td>
     <td>Manual</td>
-    <td>To provide the name of the armed group that is shown in the video or reported to be responsible for committing human rights violations in Syria</td>
+    <td>To provide the name of the armed group that is shown in the video or reported to be responsible for committing human rights violations in Yemen</td>
   </tr>
 </tbody></table>
 
