@@ -383,14 +383,12 @@ PROCESSING
     <li>Attacks against civilians;</li>
     <li>Attacks against water sources;</li>
     <li>Attacks against humanitarian relief personnel and objects</li>
-    <li>Civilian casualties as a result of alleged Russian attacks;</li>
     <li>Civilian casualties as a result of alleged coalition attacks</li>
     <li>Civilian casualties as a result of alleged attacks by armed groups</li>
     <li>Civilian casualties as a result of alleged attacks by Yemeni government forces</li>
     <li>Civilian casualties as a result of alleged attacks by pro-Yemeni government forces</li>
     <li>Plunder and theft</li>
     <li>Coalition airstrikes in Yemen</li>
-    <li>Russian airstrikes in Yemen</li>
     <li>Other</li>
 </td>
   </tr>
