@@ -1,7 +1,6 @@
 ---
 layout: contentwithsiblings.html
 title: سياسية الخصوصية
-date: {}
 desc: null
 image: /assets/about/about2.jpg
 published: true

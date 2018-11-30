@@ -1,7 +1,7 @@
 ---
 layout: contentwithsiblings.html
 title: منهجية البحث
-date: {}
+date: 
 desc: أدوات وطرائق مفتوحة المصدر للتحقيقات - سير عمل الأدلة الرقميّة
 image: /assets/technology/methods-workflows.png
 published: true

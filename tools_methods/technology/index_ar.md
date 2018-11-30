@@ -1,7 +1,7 @@
 ---
 layout: contentwithsiblings.html
 title: التقنيات
-date: {}
+date: 
 desc: أدوات ومصادر مفتوحة المصدر للتحقيقات
 image: /assets/technology/technologyyy.jpg
 published: true
