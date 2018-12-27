@@ -1,7 +1,7 @@
 ---
 layout: contentwithsiblings.html
 title: Contact Us
-image: "/assets/about/contactusnew.png"
+image: "/assets/Yemen (2).jpg"
 ---
 
  Contact us:
@@ -21,4 +21,4 @@ image: "/assets/about/contactusnew.png"
 
  #### Website and Technology
 
- [niko@yemeniarchive.org](mailto:niko@yemeniarchive.org)
+ [info@yemeniarchive.org](mailto:info@yemeniarchive.org)
