@@ -1,7 +1,7 @@
 ---
 layout: contentwithsiblings.html
 title: Frequently Asked Questions
-image: "/assets/main_back.jpg"
+image: "/assets/Yemen (1).jpg "
 ---
 
 #### What does the Yemeni Archive do?
