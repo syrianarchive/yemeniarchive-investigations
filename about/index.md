@@ -2,7 +2,7 @@
 layout: contentwithsiblings.html
 title: About
 desc: "Mission, vision, and workflow"
-image: "/assets/about/about3.jpg"
+image: "/assets/about/Yemen (8).jpg"
 ---
 # Mission
 
@@ -70,14 +70,12 @@ The materials are also organised in collections based on the type of the violati
 - Attacks against civilians
 - Attacks against water sources
 - Attacks against humanitarian relief personnel and objects
-- Civilian casualties as a result of alleged Russian attacks
 - Civilian casualties as a result of alleged coalition attacks
 - Civilian casualties as a result of alleged attacks by armed groups
 - Civilian casualties as a result of alleged attacks by Yemeni government forces
 - Civilian casualties as a result of alleged attacks by pro-Yemeni government forces
 - Plunder and theft
 - Coalition airstrikes in Yemen
-- Russian airstrikes in Yemen
 
 Additional value is added to the material by recording as much metadata and chain of custody information as possible, including **location, date and origin**. This contextualises material by addressing the questions of **when, where and what happened in a specific incident which will help viewers to identify and understand it**.
 
