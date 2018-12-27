@@ -1,7 +1,7 @@
 ---
 layout: contentwithsiblings.html
 title: "تواصل معنا"
-image: "/assets/about/contactusnew.png"
+image: "/assets/about/Yemen (2).jpg"
 ---
 
  تواصل معنا:
@@ -21,4 +21,4 @@ image: "/assets/about/contactusnew.png"
 
  #### موقع
 
- [niko@yemeniarchive.org](mailto:niko@yemeniarchive.org)
+ [info@yemeniarchive.org](mailto:info@yemeniarchive.org)
