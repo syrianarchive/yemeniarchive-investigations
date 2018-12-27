@@ -1,7 +1,7 @@
 ---
 layout: contentwithsiblings.html
 title: "أسئلة شائعة"
-image: "/assets/main_back.jpg"
+image: "/assets/Yemen (1).jpg "
 ---
 
 #### ما الذي يقوم به الأرشيف اليمني؟
