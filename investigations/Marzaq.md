@@ -13,7 +13,7 @@ image: /assets/investigations/Mazraq/cam1labelled.jpg
 - Reported killed:
 - Reported injured: 42
 - Type of attack: air strike
-- Potentially responsible: Coalition Air Force
+- Potentially responsible: Air Force of the Arab Coalition
 
 This investigation aims to verify and investigate the incident by collecting and analyzing the related visual documentation in an attempt to understand the incident and the potential responsible. In this investigation, the Yemeni Archive used open source tools to verify videos, images, and reports published on the Internet.
 
