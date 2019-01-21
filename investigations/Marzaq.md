@@ -64,7 +64,7 @@ To further verify the time of the published videos and images,  Al-Mazraq weathe
 
 ![](/assets/investigations/Mazraq/image7.png)
 
-## Where did the attack take place?
+## Where did it happen?
 
 ### geolocating and landmarks
 
