@@ -1,4 +1,10 @@
-Targeting  Al-Mazraq 1 IDP camp  by air strikes
+---
+layout: investigation.html
+title: "Targeting  Al-Mazraq 1 IDP camp by air strikes"
+date: 2019-01-22
+desc: "29 civilians dead as a result of airstrikes that attacked Al-Mazraq camp"
+image: 
+---
 
 - Location: Al-Mazraq Camp 1 (Haradh Directorate, Hajjah Governorate, Yemen)
 - Date: 30 March 2015
