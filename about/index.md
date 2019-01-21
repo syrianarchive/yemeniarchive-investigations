@@ -2,7 +2,7 @@
 layout: contentwithsiblings.html
 title: About
 desc: "Mission, vision, and workflow"
-image: "/assets/about/Yemen (8).jpg"
+image: "/assets/about/yemen8.jpg"
 ---
 # Mission
 

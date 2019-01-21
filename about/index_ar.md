@@ -2,7 +2,7 @@
 layout: contentwithsiblings.html
 title: حول الأرشيف
 desc: المهمة والرؤية وطريقة العمل
-image: /assets/about/Yemen (8).jpg
+image: /assets/about/yemen8.jpg
 published: true
 ---
 # مهمتنا
