@@ -1,7 +1,7 @@
 ---
 layout: contentwithsiblings.html
 title: Support
-image: "/assets/about/about2.jpg"
+image: "/assets/about/support.jpg"
 ---
 
 

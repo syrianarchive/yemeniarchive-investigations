@@ -1,7 +1,7 @@
 ---
 layout: contentwithsiblings.html
 title: "تواصل معنا"
-image: "/assets/about/Yemen (2).jpg"
+image: "/assets/yemen02.jpg"
 ---
 
  تواصل معنا:

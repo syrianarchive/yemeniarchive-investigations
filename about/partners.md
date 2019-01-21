@@ -6,7 +6,7 @@ published: true
 ---
 The Yemani Archive has partnered or collaborated with various organisations and nonprofits working in the human rights and citizen journalist sectors, as well as international institutions and universities. These include:
 
-- [Witness](https://witness.org/)
+- [Arij](https://arij.net/)
 - [Bellingcat](https://www.bellingcat.com/)
 - [Enigio](https://www.enigio.com/)
 - [Meedan](https://meedan.com/en/)
