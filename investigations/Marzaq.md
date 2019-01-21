@@ -151,7 +151,7 @@ To verify the caused destruction in the Al-Mazraq camp, Google Earth's archive w
 
 [In an interview with Al-Hadath TV channel](https://www.youtube.com/watch?v=vjjc9J-q4K8), the Yemeni government, represented by the then Yemeni Foreign Minister Dr. Riyad Yassin, also denied the responsibility of the coalition for the attack. Instead, it blamed the targeting the camp on al-Houthis.
 
-In turn, The al-Houthi group [through its official channels](http://www.ansarollah.com/archives/tag/%D8%A7%D9%84%D9%8A%D9%85%D9%86/page/96) accused the coalition of targeting civilians in the Al-Mazraq camp.
+In turn, The al-Houthi group and the forces loyal to former President Ali Abdullah Saleh [through their official channels](http://www.ansarollah.com/archives/tag/%D8%A7%D9%84%D9%8A%D9%85%D9%86/page/96) accused the coalition of targeting civilians in the Al-Mazraq camp.
 
 The United Nations High Commissioner for Human Rights said [in its report on 7 September 2015](https://www.ohchr.org/en/hrbodies/hrc/regularsessions/session30/documents/a_hrc_30_31_aev.docx) that the information gathered by OHCHR indicated that on 30 March 2015, the coalition forces launched a number of  air strikes that hit the Al-Mazraq IDP camp, resulting in many killed and injured civilians, and that the information provided to OHCHR did not identify the presence of any military objectives in that area.
 
