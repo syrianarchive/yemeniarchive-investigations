@@ -3,7 +3,7 @@ layout: homepage.html
 title: الأرشيف اليمني
 date: {}
 desc: صون الوثائق البصرية للعدالة وحقوق الإنسان
-image: /assets/about/yemen03.png
+image: /assets/about/yemen03.jpg
 published: true
 ---
 
