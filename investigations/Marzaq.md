@@ -165,7 +165,7 @@ The response to the UN report, which condemned the coalition of targeting al-Maz
 
 ## Conclusion
 
-After collecting and analyzing the visual documents published on social media platforms and news networks, the Yemeni Archive verified that al-Mazraq camp in Hajjah governate was targeted by air strikes on 30 March 2015.
+After collecting and analyzing the visual documents published on social media platforms and news networks, the Yemeni Archive verified that al-Mazraq camp in Hajjah governorate was targeted by air strikes on 30 March 2015.
 
 According to the analyzed evidence and sources, several air strikes targeted the main gate of the Al-Mazraq camp and the registration room between 11:00 and 11:30 am on March 30, 2015, resulting in 29 killed and 42 injured, including women and children, in addition to destruction in camp buildings, the nearby medical clinic, and civilian properties.
 Coalition forces and Houthis have accused each other of responsibility for targeting the camp. Several reports have indicated Coalition forces' responsibility for targeting, including the UN High Commissioner for Human Rights report; however, the Yemeni Archive has not been able to find any evidence of the potentially responsible.
