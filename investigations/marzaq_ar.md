@@ -1,6 +1,6 @@
 ---
 layout: investigation.html
-title: "استهداف مخيم المزرق 1  للنازحين بغارات جوية"
+title: "استهداف مخيم المزرق 1 للنازحين بغارات جوية"
 date: 2019-01-22
 desc: " 29 مدنيًا قُتلوا نتيجة استهداف مخيم المزرق بالغارات الجوية"
 image: /assets/investigations/Mazraq/cam1labelled.jpg

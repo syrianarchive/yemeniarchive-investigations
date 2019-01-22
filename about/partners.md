@@ -2,7 +2,7 @@
 layout: contentwithsiblings.html
 title: Partners
 image: /assets/about/partners.png
-published: true
+drafts: true
 ---
 The Yemani Archive has partnered or collaborated with various organisations and nonprofits working in the human rights and citizen journalist sectors, as well as international institutions and universities. These include:
 
