@@ -6,4 +6,4 @@ desc: Curating visual documentation for justice and human rights
 image: /assets/about/yemen03.jpg
 ---
 
-**Yemeni Archive** is a Yemeni-led and initiated collective of human rights activists dedicated to curating visual documentation relating to human rights violations and other crimes committed by all sides during the conflict in Yemen with the goal of creating an evidence-based tool for reporting, advocacy and accountability purposes.
+**Yemeni Archive** is an initiative created by a collective of human rights activists, technologists, and journalists working to securely preserve and verify open source documentation relating to human rights violations and other crimes committed by all sides during the conflict in Yemen. Yemeni Archive aims to create an evidence-based tool for reporting, advocacy and accountability purposes.
