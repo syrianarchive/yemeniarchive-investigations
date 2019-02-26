@@ -19,14 +19,14 @@ In this investigation, Yemeni Archive used open source tools and techniques to v
 
 ## Introduction
 
-Al-Mazraq camp is located in the Al-Mazraq area: next to the Al-Mazraq market in Haradh district of [Hajjah governorate](https://goo.gl/maps/UrdCc7LnA792). It was established in 2009 by the United Nations (source ??????) to accommodate civilians displaced from areas of conflict in the Sa'dah governorate due to the many attacks taking place in the area. The camp houses roughly 12,500 displaced people, mostly women and children. At the end of March 2015, and due to the escalation of the situation in the north - especially in Sa'dah governorate as a result of multiple incidents between the Houthis and the government (source ?????) many families (roughly 500) fled the area and arrived at Al Mazraq Camp.
+Al-Mazraq camp is located in the Al-Mazraq area: next to the Al-Mazraq market in Haradh district of [Hajjah governorate](https://goo.gl/maps/UrdCc7LnA792). It was established in 2009 [by the United Nations](https://reliefweb.int/report/yemen/yemen-idprefugee-camps-facts-and-figures) to accommodate civilians displaced from areas of conflict in the Sa'dah governorate due to the many attacks taking place in the area. The camp houses roughly 12,500 displaced people, mostly women and children. At the end of March 2015, and due to the escalation of the situation in the north - especially in Sa'dah governorate as a result of multiple incidents [between the Houthis and the government](https://www.kuna.net.kw/ArticlePrintPage.aspx?id=2031730&language=en) many families (roughly 500) fled the area and arrived at Al Mazraq Camp.
 
 ![](/assets/investigations/Mazraq/image17.png)
 *Satellite image showing the location of Hajjah governorate*
 
 ## What Happened?
 
-On 30 March 30 2015 after 11:00 Yemen time, several news networks and activist pages reported (source ?????????) that Saudi airstrikes targeted the main gate of [al-Mazraq 1 camp](https://goo.gl/maps/eCqyHGsrJ3U2) and the room where IDPs were registered, resulting in deaths and injuries among the displaced persons who were gathering at the gate.
+On 30 March 30 2015 after 11:00 Yemen time, several news networks and activist pages [1](https://www.washingtonpost.com/world/saudi-led-airstrikes-shake-sanaa-for-fifth-day-as-rebels-push-towards-aden/2015/03/30/0f3b3b76-d6bf-11e4-8103-fa84725dbf9d_story.html?noredirect=on&utm_term=.3b87a235adb7), [2](https://www.aljazeera.com/news/2015/03/dead-airstrike-refugee-camp-north-yemen-150330131111582.html), [3](https://www.nytimes.com/2015/03/31/world/middleeast/yemen-camp-air-raid.html), [4](https://www.nbcnews.com/news/world/yemen-air-strike-hits-part-mazraq-refugee-camp-n332466), [5](https://www.theguardian.com/world/2015/mar/30/air-strike-refugee-camp-houthi-controlled-northern-yemen-kills-at-least-21) reported that Saudi airstrikes targeted the main gate of [al-Mazraq 1 camp](https://goo.gl/maps/eCqyHGsrJ3U2) and the room where IDPs were registered, resulting in deaths and injuries among the displaced persons who were gathering at the gate.
 
 ![](/assets/investigations/Mazraq/image3.png)
 *Satellite image of the Al-Mazraq camp's gate*
@@ -48,7 +48,9 @@ On 31 March 2015, Yemen Today TV channel [published a video report on the target
 On 5 April 2015, the Yemen Today TV channel [published a video that included testimonies](https://www.youtube.com/watch?v=Rcm4JDSvu3Q) of those injured and civilians from the Al-Mazraq camp. One of those interviewed stated:
 “The first aircraft targeted the mosque; I was worried about my father. When we were leaving the camp, the aircraft targeted the gate of Al-Mazraq camp, and the third strike targeted the camp as we were fleeing.”
 
-?????include the other 2 statements from the video as they are important
+In the same video at 0:49, another witness stated: "The Saudi air force flew over, then launched the first air strike here at the gate of the camp, resulting in more than 50 killed people. Women and children fled.  Some people were killed while others fled. The aviation flew again and hit AL-Mazraq bridge here, and hit two cars of unarmed civilians who were passing through looking for their livelihood.
+
+Another witness testified at 1:50 in the same report: "Now we are all displaced in Wadi Haradh, our children are lying on the ground, some of us are killed, and we are still looking for them, and we have found them neither in mortuary nor in the same cemetery where they were buried by the aviation. Where can we go? There is no power or strength save in Allah, this coalition has no right, and we have no power to be fought for no reason. we are civilians
 
 ## When did it happen?
 
@@ -139,11 +141,15 @@ To assess the structural damage in the camp, Google Earth's historical imagery w
 ![](/assets/investigations/Mazraq/image20.jpg)
 *The gate, and the guard and registration building in Al-Mazraq camp before and after the airstrike. The first picture was taken after the strike on 29 January 2016, the second was taken before the attack on 18 September 2013, Source: Google Earth*
 
-![](/assets/investigations/Mazraq/image2.png) ????link this image to the sattelite image
+![](/assets/investigations/Mazraq/image2.png)
 *Footage showing the destruction of the registration room as a result of the strike that targeted Al-Mazraq camp, Source: Yemen Today's Report on YouTube*
 
-![](/assets/investigations/Mazraq/image1.png) ????? link both images above and below together
+![](/assets/investigations/Mazraq/image1.png)
 *Additional footage showing the destruction of the registration room. Source: Video published by NCTP channel on YouTube*
+
+![](/assets/investigations/Mazraq/image22.png)
+
+![](/assets/investigations/Mazraq/image21.png)
 
 ## Positions of different parties about the incident
 
@@ -169,7 +175,7 @@ After collecting and analysing visual documentation published on social media pl
 
 According to the analysed evidence and sources, several air strikes targeted the main gate of the Al-Mazraq camp and the registration room between 11:00 am and 11:30 am on March 30th, 2015, resulting in 29 killed and 42 injured, including women and children. Camp buildings, the nearby medical clinic, and civilian properties were additionally destroyed.
 
-Coalition forces and Houthis have accused each other of responsibility for targeting the camp. Several reports have indicated Coalition forces’ responsibility for targeting, including the UN High Commissioner for Human Rights report. Despite that the Yemeni Archive didn't find open source content indicating forces allegedly responsible for the attack, conducting airstrikes and destroying the Houthi controlled airports and aircrafts?????? is this TRUE (source?) several days earlier at the start of coalition led interventions strongly indicates coalition forces are responsible for the attack.
+Coalition forces and Houthis have accused each other of responsibility for targeting the camp. Several reports have indicated Coalition forces’ responsibility for targeting, including the UN High Commissioner for Human Rights report. Despite that the Yemeni Archive didn't find open source content indicating forces allegedly responsible for the attack, conducting airstrikes and [destroying the Houthi controlled airports and aircrafts](https://www.presstv.com/Detail/2015/03/30/404030/Saudiled-jets-target-Sanaa-airport) several days earlier at the start of coalition led interventions strongly indicates coalition forces are responsible for the attack.
 
 
 
