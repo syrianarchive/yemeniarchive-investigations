@@ -8,9 +8,9 @@ image: /assets/investigations/Mazraq/cam1labelled.jpg
 
 - Location: Al-Mazraq Camp 1 (Haradh Directorate, Hajjah Governorate, Yemen)
 - Date: 30 March 2015
-- Time of attack: 11:00 - 11:00 Yemen local time (UTC +3)?????
+- Time of attack: 11:00 - 11:22 Yemen local time (UTC +3)
 - The alleged targets: Al-Mazraq 1 IDP Camp
-- Reported killed: ?????
+- Reported killed: 25
 - Reported injured: 42
 - Type of attack: air strike
 - Potentially responsible: Air Force of the Arab Coalition
@@ -19,14 +19,14 @@ In this investigation, Yemeni Archive used open source tools and techniques to v
 
 ## Introduction
 
-Al-Mazraq camp is located in the Al-Mazraq area: next to the Al-Mazraq market in Haradh district of [Hajjah governorate](https://goo.gl/maps/UrdCc7LnA792), adjacent???? to Sa'dah from the west. It was established in 2009 by the United Nations (source ??????) to accommodate civilians displaced from areas of conflict in the Sa'dah governorate due to the many attacks taking place in the area. The camp houses roughly 12,500 displaced people, mostly women and children. At the end of March 2015, and due to the escalation of the situation in the north - especially in Sa'dah governorate as a result of multiple incidents between the Houthis and the government (source ?????) many families (roughly 500) fled the area and arrived at Al Mazraq Camp.
+Al-Mazraq camp is located in the Al-Mazraq area: next to the Al-Mazraq market in Haradh district of [Hajjah governorate](https://goo.gl/maps/UrdCc7LnA792). It was established in 2009 by the United Nations (source ??????) to accommodate civilians displaced from areas of conflict in the Sa'dah governorate due to the many attacks taking place in the area. The camp houses roughly 12,500 displaced people, mostly women and children. At the end of March 2015, and due to the escalation of the situation in the north - especially in Sa'dah governorate as a result of multiple incidents between the Houthis and the government (source ?????) many families (roughly 500) fled the area and arrived at Al Mazraq Camp.
 
 ![](/assets/investigations/Mazraq/image17.png)
 *Satellite image showing the location of Hajjah governorate*
 
 ## What Happened?
 
-On 30 March 30 2015 (????WHAT TIME), several news networks and activist pages reported (source ?????????) that Saudi airstrikes targeted the main gate of [al-Mazraq 1 camp](https://goo.gl/maps/eCqyHGsrJ3U2) and the room where IDPs were registered, resulting in deaths and injuries among the displaced persons who were gathering at the gate.
+On 30 March 30 2015 after 11:00 Yemen time, several news networks and activist pages reported (source ?????????) that Saudi airstrikes targeted the main gate of [al-Mazraq 1 camp](https://goo.gl/maps/eCqyHGsrJ3U2) and the room where IDPs were registered, resulting in deaths and injuries among the displaced persons who were gathering at the gate.
 
 ![](/assets/investigations/Mazraq/image3.png)
 *Satellite image of the Al-Mazraq camp's gate*
