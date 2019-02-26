@@ -150,9 +150,9 @@ image: /assets/investigations/Mazraq/cam1labelled.jpg
 ![](/assets/investigations/Mazraq/image1.png)
 *لقطة أخرى تظهر الدمار الذي لحق بغرفة التسجيل التابعة للمخيم نتيجة الضربة التي استهدفت مخيم المزرق، المصدر: فيديو نشرته قناة الحملة الوطنية لمحاكمة العملاء والخونة NCTP على يوتيوب*
 
-![](/assets/investigations/Mazraq/image22.png)
+![](/assets/investigations/Mazraq/image22.jpg)
 
-![](/assets/investigations/Mazraq/image21.png)
+![](/assets/investigations/Mazraq/image21.jpg)
 
 ## مواقف الجهات المختلفة عن الحادثة
 

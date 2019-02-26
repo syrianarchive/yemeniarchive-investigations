@@ -147,9 +147,9 @@ To assess the structural damage in the camp, Google Earth's historical imagery w
 ![](/assets/investigations/Mazraq/image1.png)
 *Additional footage showing the destruction of the registration room. Source: Video published by NCTP channel on YouTube*
 
-![](/assets/investigations/Mazraq/image22.png)
+![](/assets/investigations/Mazraq/image22.jpg)
 
-![](/assets/investigations/Mazraq/image21.png)
+![](/assets/investigations/Mazraq/image21.jpg)
 
 ## Positions of different parties about the incident
 
