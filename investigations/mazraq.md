@@ -50,7 +50,7 @@ On 5 April 2015, the Yemen Today TV channel [published a video that included tes
 
 In the same video at 0:49, another witness stated: "The Saudi air force flew over, then launched the first air strike here at the gate of the camp, resulting in more than 50 killed people. Women and children fled.  Some people were killed while others fled. The aviation flew again and hit AL-Mazraq bridge here, and hit two cars of unarmed civilians who were passing through looking for their livelihood.
 
-Another witness testified at 1:50 in the same report: "Now we are all displaced in Wadi Haradh, our children are lying on the ground, some of us are killed, and we are still looking for them, and we have found them neither in mortuary nor in the same cemetery where they were buried by the aviation. Where can we go? There is no power or strength save in Allah, this coalition has no right, and we have no power to be fought for no reason. we are civilians
+Another witness testified at 1:50 in the same report: "Now we are all displaced in Wadi Haradh, our children are lying on the ground, some of us are killed, and we are still looking for them, we have found them neither in mortuary nor in the same cemetery where they were buried by the aviation. Where can we go? There is no power or strength save in Allah, this coalition has no right, and we have no power to be fought for no reason, we are civilians."
 
 ## When did it happen?
 
