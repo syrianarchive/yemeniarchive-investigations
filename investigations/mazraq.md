@@ -155,7 +155,7 @@ The registration room is geolocated using Google Earth pro as shown below
 
 ![](/assets/investigations/Mazraq/image21.jpg)
 
-## Positions of different parties about the incident
+## Statements of different parties about the incident
 
 [In a press conference held on 1 April 2015](https://www.youtube.com/watch?v=vWG2IlaUbdU), Major General Ahmad Asiri, spokesperson for the coalition forces, denied that the coalition was responsible for targeting the camp. He confirmed the coalition's knowledge of both civilian and military locaitons. Al-Asiri blamed the attack on mortar shelling by the al-Houthi group.
 
