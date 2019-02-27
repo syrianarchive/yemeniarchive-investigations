@@ -10,7 +10,7 @@ image: /assets/investigations/Mazraq/cam1labelled.jpg
 - Date: 30 March 2015
 - Time of attack: 11:00 - 11:22 Yemen local time (UTC +3)
 - The alleged targets: Al-Mazraq 1 IDP Camp
-- Reported killed: 25
+- Reported killed: 25 including 11 children
 - Reported injured: 42
 - Type of attack: air strike
 - Potentially responsible: Air Force of the Arab Coalition
