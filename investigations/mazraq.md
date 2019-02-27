@@ -147,7 +147,11 @@ To assess the structural damage in the camp, Google Earth's historical imagery w
 ![](/assets/investigations/Mazraq/image1.png)
 *Additional footage showing the destruction of the registration room. Source: Video published by NCTP channel on YouTube*
 
+Below are two images from videos published by two different sources. They both show the same landmarks that were targeted.
+
 ![](/assets/investigations/Mazraq/image22.jpg)
+
+The registration room is geolocated using Google Earth pro as shown below
 
 ![](/assets/investigations/Mazraq/image21.jpg)
 
@@ -171,7 +175,7 @@ The response to the UN report, which condemned the coalition of targeting al-Maz
 
 ## Conclusion
 
-After collecting and analysing visual documentation published on social media platforms and news networks, Yemeni Archive has been able to determine that al-Mazraq camp in Hajjah governorate was targeted by air strikes on March 30th 2015.
+After collecting and analysing visual documentation published on social media platforms and news networks, Yemeni Archive team has been able to determine that al-Mazraq camp in Hajjah governorate was targeted by air strikes on March 30th 2015.
 
 According to the analysed evidence and sources, several air strikes targeted the main gate of the Al-Mazraq camp and the registration room between 11:00 am and 11:30 am on March 30th, 2015, resulting in 29 killed and 42 injured, including women and children. Camp buildings, the nearby medical clinic, and civilian properties were additionally destroyed.
 
