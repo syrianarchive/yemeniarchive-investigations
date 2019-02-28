@@ -175,11 +175,11 @@ The response to the UN report, which condemned the coalition of targeting al-Maz
 
 ## Conclusion
 
-After collecting and analysing visual documentation published on social media platforms and news networks, Yemeni Archive team has been able to determine that al-Mazraq camp in Hajjah governorate was targeted by air strikes on March 30th 2015.
+After collecting and analysing visual documentation published on social media platforms and news networks, Yemeni Archive determined that al-Mazraq camp in Hajjah governorate was targeted by air strikes on March 30th 2015.
 
 According to the analysed evidence and sources, several air strikes targeted the main gate of the Al-Mazraq camp and the registration room between 11:00 am and 11:30 am on March 30th, 2015, resulting in 29 killed and 42 injured, including women and children. Camp buildings, the nearby medical clinic, and civilian properties were additionally destroyed.
 
-Coalition forces and Houthis have accused each other of responsibility for targeting the camp. Several reports have indicated Coalition forces’ responsibility for targeting, including the UN High Commissioner for Human Rights report. Despite that the Yemeni Archive didn't find open source content indicating forces allegedly responsible for the attack, conducting airstrikes and [destroying the Houthi controlled airports and aircrafts](https://www.presstv.com/Detail/2015/03/30/404030/Saudiled-jets-target-Sanaa-airport) several days earlier at the start of coalition led interventions strongly indicates coalition forces are responsible for the attack.
+Coalition forces and Houthis have accused each other of responsibility for targeting the camp. Several reports have indicated Coalition forces’ responsibility for targeting, including one by the UN High Commissioner for Human Rights. Despite Yemeni Archive not finding open source content indicating the forces allegedly responsible for the attack, the coalition led airstrikes and [destroying of Houthi controlled airports and aircrafts](https://www.presstv.com/Detail/2015/03/30/404030/Saudiled-jets-target-Sanaa-airport) several days earlier strongly indicates that coalition forces are responsible for the attack.
 
 
 

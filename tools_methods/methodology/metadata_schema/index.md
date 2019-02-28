@@ -10,8 +10,6 @@ This page describes the metadata schema used by the Yemeni Archive in it's digit
 
 Establishing a standardised metadata schema is necessary in order to assist users in identifying and understanding when, where, and what happened in a specific incident. A review of practices by other war archival institutes, such as those of NIOD, found that additional information is helpful for contextualising raw visual evidence (e.g. location of video recording; date of video recording and upload; and the origin of the video). Metadata collected by the Yemeni Archive project includes description of the visual object as given (e.g. Youtube title); the source of the visual evidence; the original link where footage was first published; specific landmarks able to be identified; weather (which may be useful for geolocation or time identification); specific languages or regional dialects spoken; clothes or uniforms able to be identified; weapons or munitions used; device used to record the footage; and media content type. The metadata is populated automatically and manually depending on how it was collected from e.g open source or closed source.
 
-In categorising violations, the Yemeni Archive has decided to use the violations categories used by the Office of United Nations High Commissioner for Human Rights (OHCHR). This was done because OHCHR is one of the groups in the unique position of being able to investigate incidents of human rights violations and war crimes. These categories consist of many often overlapping categories. Should potential investigations by international bodies not be pursued by the UN OHCHR and rather by another investigative body, it is anticipated that the Yemeni Archive will modify violations categories to meet the needs of those investigating.
-
 Various fields of the metadata schema are processed at various stages of the digital evidence workflow (e.g. collection, preservation, processing, verification, publication, analysis).
 
 <div class="pagebody">
@@ -348,25 +346,6 @@ PROCESSING
     <td>PICK</td>
     <td>Manual</td>
     <td>Condition of the weather in the date when the video was recorded.</td>
-  </tr>  <tr>
-   <td>Type of violation</td>
-    <td>ANALYSIS</td>
-    <td>PICK</td>
-    <td>Manual</td>
-    <td>To indicate the type of violation after verifying the footage. The Yemeni Archive uses the categories identified by the UN OHCHR Inquiry on Yemen and used by the Yemeni Archive project include: &nbsp;
-    <li>Massacres and other unlawful killing;</li>
-    <li>Arbitrary arrest and unlawful detention;</li>
-    <li>Hostage-taking;</li>
-    <li>Enforced disappearance;</li>
-    <li>Torture and ill-treatment of detainees;</li>
-    <li>Sexual and gender-based violence;</li>
-    <li>Violations of children’s rights;</li>
-    <li>Unlawful attacks;</li>
-    <li>Violations against specifically protected persons and objects;</li>
-    <li>Use of illegal weapons;</li>
-    <li>Sieges and violations of economic, social and cultural rights;</li>
-    <li>Arbitrary and forcible displacement.</li>
-</td>
   </tr>  <tr>
    <td>Collection</td>
     <td>ANALYSIS</td>
