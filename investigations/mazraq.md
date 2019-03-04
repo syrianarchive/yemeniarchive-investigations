@@ -10,7 +10,7 @@ image: /assets/investigations/Mazraq/cam1labelled.jpg
 - Date: 30 March 2015
 - Time of attack: 11:00 - 11:22 Yemen local time (UTC +3)
 - The alleged targets: Al-Mazraq 1 IDP Camp
-- Reported killed: 25
+- Reported killed: 25 including 11 children
 - Reported injured: 42
 - Type of attack: air strike
 - Potentially responsible: Air Force of the Arab Coalition
@@ -147,11 +147,15 @@ To assess the structural damage in the camp, Google Earth's historical imagery w
 ![](/assets/investigations/Mazraq/image1.png)
 *Additional footage showing the destruction of the registration room. Source: Video published by NCTP channel on YouTube*
 
+Below are two images from videos published by two different sources. They both show the same landmarks that were targeted.
+
 ![](/assets/investigations/Mazraq/image22.jpg)
+
+The registration room is geolocated using Google Earth pro as shown below
 
 ![](/assets/investigations/Mazraq/image21.jpg)
 
-## Positions of different parties about the incident
+## Statements of different parties about the incident
 
 [In a press conference held on 1 April 2015](https://www.youtube.com/watch?v=vWG2IlaUbdU), Major General Ahmad Asiri, spokesperson for the coalition forces, denied that the coalition was responsible for targeting the camp. He confirmed the coalition's knowledge of both civilian and military locaitons. Al-Asiri blamed the attack on mortar shelling by the al-Houthi group.
 
@@ -171,11 +175,11 @@ The response to the UN report, which condemned the coalition of targeting al-Maz
 
 ## Conclusion
 
-After collecting and analysing visual documentation published on social media platforms and news networks, Yemeni Archive has been able to determine that al-Mazraq camp in Hajjah governorate was targeted by air strikes on March 30th 2015.
+After collecting and analysing visual documentation published on social media platforms and news networks, Yemeni Archive determined that al-Mazraq camp in Hajjah governorate was targeted by air strikes on March 30th 2015.
 
 According to the analysed evidence and sources, several air strikes targeted the main gate of the Al-Mazraq camp and the registration room between 11:00 am and 11:30 am on March 30th, 2015, resulting in 29 killed and 42 injured, including women and children. Camp buildings, the nearby medical clinic, and civilian properties were additionally destroyed.
 
-Coalition forces and Houthis have accused each other of responsibility for targeting the camp. Several reports have indicated Coalition forces’ responsibility for targeting, including the UN High Commissioner for Human Rights report. Despite that the Yemeni Archive didn't find open source content indicating forces allegedly responsible for the attack, conducting airstrikes and [destroying the Houthi controlled airports and aircrafts](https://www.presstv.com/Detail/2015/03/30/404030/Saudiled-jets-target-Sanaa-airport) several days earlier at the start of coalition led interventions strongly indicates coalition forces are responsible for the attack.
+Coalition forces and Houthis have accused each other of responsibility for targeting the camp. Several reports have indicated Coalition forces’ responsibility for targeting, including one by the UN High Commissioner for Human Rights. Despite Yemeni Archive not finding open source content indicating the forces allegedly responsible for the attack, the coalition led airstrikes and [destroying of Houthi controlled airports and aircrafts](https://www.presstv.com/Detail/2015/03/30/404030/Saudiled-jets-target-Sanaa-airport) several days earlier strongly indicates that coalition forces are responsible for the attack.
 
 
 
