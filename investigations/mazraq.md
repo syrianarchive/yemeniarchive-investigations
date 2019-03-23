@@ -2,7 +2,7 @@
 layout: investigation.html
 title: "Targeting Al-Mazraq 1 IDP camp by air strikes"
 date: 2019-01-22
-desc: "29 civilians killed as a result of airstrikes targeting Al-Mazraq camp"
+desc: "25 civilians killed as a result of airstrikes targeting Al-Mazraq camp"
 image: /assets/investigations/Mazraq/cam1labelled.jpg
 ---
 
