@@ -3,7 +3,7 @@ layout: investigation.html
 title: "استهداف حي سوق الهنود في الحديدة بغارة جوية"
 date: 2019-03-28
 desc: "24 مدنيًا قُتلوا نتيجة استهداف حي سوق الهنود في الحديدة بغارة جوية"
-image: 
+image: /assets/investigations/Hunud/2.jpg
 drafts: true
 ---
  
