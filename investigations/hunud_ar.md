@@ -144,11 +144,11 @@ drafts: true
 
 أدناه صورة أقمار صناعية منشورة في 28 سبتمبر 2016 تظهر الأضرار في الأبنية نتيجة للغارة الجوية
 
-<iframe frameborder=“0” class=“juxtapose” width=“100%” height=“1044" src=“https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=2aeb4770-5182-11e9-8106-0edaf8f81e27“></iframe>
+<iframe frameborder="0" class="juxtapose" width="100%" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=2aeb4770-5182-11e9-8106-0edaf8f81e27"></iframe>
 
 صمّم فريق الأرشيف اليمني صورًا ثلاثية الأبعاد للمباني المدمّرة،  لإظهار الأماكن التي تعرضت للدمار بشكل أفضل.
   
-<iframe frameborder="0" class="juxtapose" width="100%" height="1832" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=2bbc2318-5182-11e9-8106-0edaf8f81e27"></iframe>
+<iframe frameborder="0" class="juxtapose" width="100%" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=2bbc2318-5182-11e9-8106-0edaf8f81e27"></iframe>
 
 ذكرت معظم الادعاءات الواردة في الأخبار والمقاطع المنشورة أن الهجوم وقع عبر غارات جويّة نفّذها طيران التحالف على عدة مواقع من بينها غارة جوية على حي سوق الهنود. توصّل الأرشيف اليمني إلى صورة واحدة توثّق إحدى بقايا الذخائر المستخدمة في الهجوم، دون التمكّن من تحديد نوعها؛ إلا أنه يُحتمل أن تكون جزءًا من صاروخ، وهو ما يتوافق مع إحدى الشهادات الواردة حول الحادثة والتي أشارت إلى صاروخ سقط في مكان العزاء، وذلك في مقطع الفيديو المنشور من قبل قناة اليمن الفضائية، [ حيث قالت إحدى السيدات في الدقيقة 2:37](https://youtu.be/soPDcABHqfk?t=157)"كنا في العزاء جالسين فجاء صاروخ دمر هذه البيوت، ما ذنب الأطفال والنساء والأبرياء؟ ما ذنبنا نحن".
 
@@ -248,7 +248,7 @@ drafts: true
 1. [تغريدة بن غالب](https://twitter.com/nogaoado_Mazz/status/778633602192007168)
 2.  [تغريدة بسام الجناني](https://twitter.com/baseem_aljenani/status/778657427289935872)  
   
-  **يوتيوب**
+**يوتيوب**
 1. [تقرير قناة اليمن اليوم](https://youtu.be/Hr8wDKdvvtc?t%3D83)
 2.  [تقرير قناة تلفزيون اليمن](https://youtu.be/soPDcABHqfk?t%3D50)
 3. [قناة بلقيس](https://www.youtube.com/watch?v%3DQKVnm3xf8tk)

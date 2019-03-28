@@ -255,7 +255,7 @@ The attack began around 19:00 that day targeting the buildings of the Central Se
 1. [Bin Ghaleb tweet](https://twitter.com/nogaoado_Mazz/status/778633602192007168)
 2.  [Baseem Al-Jinani](https://twitter.com/baseem_aljenani/status/778657427289935872)  
   
- **Youtube:**
+**Youtube:**
 1. [Yemen Today Channel](https://youtu.be/Hr8wDKdvvtc?t%3D83)
 2.  [Al-Yaman TV Channel](https://youtu.be/soPDcABHqfk?t%3D50)
 3. [Balqees Channel](https://www.youtube.com/watch?v%3DQKVnm3xf8tk)
