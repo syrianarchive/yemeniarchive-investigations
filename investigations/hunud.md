@@ -150,16 +150,13 @@ Below, images showing destruction in Al-Hunud market neighborhood, Source: [Wale
 
 To verify the caused destruction in Al-Hunud market neighborhood, the Google Earth archive was searched for images of the targeted area before and after the incident.
 
-![](/assets/investigations/Hunud/image1.png)
-
 Below, satellite image published on 28 September 2016 showing damage to buildings as a result of the air strike
 
-![](/assets/investigations/Hunud/image10.png)
+<iframe frameborder=“0” class=“juxtapose” width=“100%” height=“1044" src=“https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=2aeb4770-5182-11e9-8106-0edaf8f81e27“></iframe>
 
 To better assess the damage, Yemeni Archive team created 3D images of the buildings that were damaged.
 
-[](/assets/investigations/Hunud/image19.png)
-![](/assets/investigations/Hunud/image2.png)  
+<iframe frameborder="0" class="juxtapose" width="100%" height="1832" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=2bbc2318-5182-11e9-8106-0edaf8f81e27"></iframe>
 
 Most of the claims in the news and the visual documents reported that the attack occurred through airstrikes launched by coalition aircraft on several sites, including an airstrike on Al-Hunud market neighborhood. Yemeni Archive has found a photograph documenting one of the remnants of the munitions used in the attack, but it is not possible to determine its type; however, it is likely to be part of a rocket, which corresponds to one of the testimonies mentioned that a rocket targeted the condolence tent. [In the video published by Al-Yemen TV channel](https://youtu.be/soPDcABHqfk?t=157), a woman stated at 2:37:   "We were sitting in the condolence tent when a rocket hit and destroyed these houses, what is the guilt of the children, the women, and the innocents, what is our fault?"
 
@@ -180,7 +177,7 @@ The agency quoted a security source as saying that more than 20 bodies arrived a
 ![](/assets/investigations/Hunud/5.jpg)  
 *Al-Thawra hospital ambulance in the impact site, source: [Bisho Yaqoop on "Where is the explosion now" group](https://www.facebook.com/photo.php?fbid=896172830527276&set=gm.1104577399579536&type=3&theater)*
 
-Al-Thawra hospital published a list of the names of the killed and injured who were received in the hospital:
+Al-Thawra hospital published a [list of the names of the killed and injured](https://www.facebook.com/groups/WeenAlEnfigarAlaan/) who were received in the hospital:
 
 *Names of the civilians killed or injured due to targeting Al-Hunud neighborhood and transferred to Al-THawra hospital*
 
