@@ -1,4 +1,3 @@
-
 ---
 layout: investigation.html
 title: "Targeting AL-Hunud market neighborhood by an airstrike"
