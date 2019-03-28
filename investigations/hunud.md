@@ -1,4 +1,3 @@
-
 ---
 layout: investigation.html
 title: "Targeting AL-Hunud market neighborhood by an airstrike"
@@ -152,11 +151,11 @@ To verify the caused destruction in Al-Hunud market neighborhood, the Google Ear
 
 Below, satellite image published on 28 September 2016 showing damage to buildings as a result of the air strike
 
-<iframe frameborder=“0” class=“juxtapose” width=“100%” height=“1044" src=“https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=2aeb4770-5182-11e9-8106-0edaf8f81e27“></iframe>
+<iframe frameborder="0" class="juxtapose" width="100%" height="800px" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=2aeb4770-5182-11e9-8106-0edaf8f81e27"></iframe>
 
 To better assess the damage, Yemeni Archive team created 3D images of the buildings that were damaged.
 
-<iframe frameborder="0" class="juxtapose" width="100%" height="1832" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=2bbc2318-5182-11e9-8106-0edaf8f81e27"></iframe>
+<iframe frameborder="0" class="juxtapose" width="100%" height="800px" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=2bbc2318-5182-11e9-8106-0edaf8f81e27"></iframe>
 
 Most of the claims in the news and the visual documents reported that the attack occurred through airstrikes launched by coalition aircraft on several sites, including an airstrike on Al-Hunud market neighborhood. Yemeni Archive has found a photograph documenting one of the remnants of the munitions used in the attack, but it is not possible to determine its type; however, it is likely to be part of a rocket, which corresponds to one of the testimonies mentioned that a rocket targeted the condolence tent. [In the video published by Al-Yemen TV channel](https://youtu.be/soPDcABHqfk?t=157), a woman stated at 2:37:   "We were sitting in the condolence tent when a rocket hit and destroyed these houses, what is the guilt of the children, the women, and the innocents, what is our fault?"
 
@@ -256,7 +255,7 @@ The attack began around 19:00 that day targeting the buildings of the Central Se
 1. [Bin Ghaleb tweet](https://twitter.com/nogaoado_Mazz/status/778633602192007168)
 2.  [Baseem Al-Jinani](https://twitter.com/baseem_aljenani/status/778657427289935872)  
   
- **Youtube:**
+**Youtube:**
 1. [Yemen Today Channel](https://youtu.be/Hr8wDKdvvtc?t%3D83)
 2.  [Al-Yaman TV Channel](https://youtu.be/soPDcABHqfk?t%3D50)
 3. [Balqees Channel](https://www.youtube.com/watch?v%3DQKVnm3xf8tk)
