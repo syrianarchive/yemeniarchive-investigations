@@ -82,8 +82,6 @@ To determine the exact targeted location, Yemeni Archive identified the landmark
 
 Below is a Satellite image showing the locations of [القصر الجمهوري](https://www.google.com/maps/place/%25D8%25A7%25D9%2584%25D9%2582%25D8%25B5%25D8%25B1%2B%25D8%25A7%25D9%2584%25D8%25AC%25D9%2585%25D9%2587%25D9%2588%25D8%25B1%25D9%258A-%2B%25D8%25A7%25D9%2584%25D8%25AD%25D8%25AF%25D9%258A%25D8%25AF%25D9%2587%25D8%258C%2BAl%2BHudaydah,%2BYemen%25E2%2580%25AD/@14.7947361,42.9483276,772m/data%3D!3m2!1e3!4b1!4m5!3m4!1s0x16053be544dc0d9d:0xf17062f1e68fbd80!8m2!3d14.7947309!4d42.9505163)  [and Al-Hunud market neighborhood](https://www.google.com/maps/place/%25D9%2585%25D8%25B3%25D8%25AC%25D8%25AF%2B%25D8%25A7%25D9%2584%25D8%25AC%25D8%25B9%25D9%258A%25D8%25B4%25D9%258A%25D8%25A9%25E2%2580%25AD/@14.7919815,42.9469721,327a,35y,90h/data%3D!3m1!1e3!4m5!3m4!1s0x16053be6abda3359:0x31fef7d39addc404!8m2!3d14.7916452!4d42.946845) and distance between them, which is about half a kilometer.
 
-![](/assets/investigations/Hunud/image21.jpg)
-
 ![](/assets/investigations/Hunud/image5.png)
 
 A minaret of a mosque repeatedly appeared in a lot of incident-related visual documentation. After the research; it is ascertained that the minaret belonged to  [Al-Jaishiyyah Mosque in Hudaydah](https://www.google.com/maps/place/%25D9%2585%25D8%25B3%25D8%25AC%25D8%25AF%2B%25D8%25A7%25D9%2584%25D8%25AC%25D8%25B9%25D9%258A%25D8%25B4%25D9%258A%25D8%25A9%25E2%2580%25AD/@14.7919815,42.9469721,327a,35y,90h/data%3D!3m1!1e3!4m5!3m4!1s0x16053be6abda3359:0x31fef7d39addc404!8m2!3d14.7916452!4d42.946845)
@@ -115,10 +113,8 @@ The minaret of Jaishiyyah Mosque from a different perspective (in red) [ in a ph
 The building that appeared in Balqees channel report near AL- Jaishiyyah Mosque reappeared in [ a photo published by Karrar Al-Muayyad](https://www.facebook.com/photo.php?fbid%3D1044758422309621%26set%3Dpcb.1044762415642555%26type%3D3%26theater)  from another perspective ( in blue), in addition to the rubble of destroyed buildings on the opposite side (in black)
 
 After identifying the marked landmarks, Yemeni Archive evaluated the location of the camera as well as the direction of the photographer (towards the impact site) using Google Earth.
-
-![](/assets/investigations/Hunud/image25.png)  
   
-![](/assets/investigations/Hunud/image20.jpg)  
+![](/assets/investigations/Hunud/image21.jpg)  
 
 According to reports published about the incident, witnesses statements, and after matching the landmarks appeared in the incident-related visual documents and satellite images, Yemeni Archive was able to determine the location of the targeted buildings in this attack, using Google Maps.
 
@@ -284,3 +280,6 @@ The attack began around 19:00 that day targeting the buildings of the Central Se
 6. We identified the impact of the attack on civilians by collecting the names of the victims posted on the social media platforms, verifying and analyzing the materials using the [checkmedia tool](http://checkmedia.org) tool.
 
 7. Yemeni Archive team created 3D images of the buildings that were targeted to better assess the damage and to calculate the total destroyed area, in an attempt to determine the type of the used weapon by weapons experts.
+
+*This investigation was supported through the MENA-Investigative Fund*
+
