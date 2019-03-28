@@ -1,3 +1,4 @@
+
 ---
 layout: investigation.html
 title: "Targeting AL-Hunud market neighborhood by an airstrike"
@@ -51,7 +52,8 @@ The attack on Al-Hunud market neighborhood was part of several airstrikes target
 
 To further verify the time of the attack; we analysed the timestamp of the published Facebook posts using the [4webhelp](http://www.4webhelp.net/us/timestamp.php) tool to determine the international time difference and to verify the source
 ![](/assets/investigations/Hunud/image11.png)
-![](/assets/investigations/Hunud/image18.png)  
+![](/assets/investigations/Hunud/image18.png)
+*4webhelp tool shows that post published on Facebook at 19:18 Yemen time*
 
 The user "Bin Ghaleb"  [posted the first tweet about targeting the Republican Palace](https://twitter.com/nogaoado_Mazz/status/778633602192007168) at 19:34 Yemen time, stated that "targeting the presidential palace in Hudaydah now by Saudi Air Force "
 
@@ -106,11 +108,17 @@ The minaret of Jaishiyyah Mosque appeared again in [a video published by Balqees
 
 ![](/assets/investigations/Hunud/image15.png)
 
-The minaret of Jaishiyyah Mosque from a different perspective (in red) [ in a photo published by Karrar Al-Muayyad](https://www.facebook.com/photo.php?fbid%3D1044756922309771%26set%3Dpcb.1044762415642555%26type%3D3%26theater)  
+The minaret of Jaishiyyah Mosque from a different perspective in addition to the a number of buildings (in yellow) [ in a photo published by Karrar Al-Muayyad](https://www.facebook.com/photo.php?fbid%3D1044756922309771%26set%3Dpcb.1044762415642555%26type%3D3%26theater)
   
 ![](/assets/investigations/Hunud/image13.png)
 
 The building that appeared in Balqees channel report near AL- Jaishiyyah Mosque reappeared in [ a photo published by Karrar Al-Muayyad](https://www.facebook.com/photo.php?fbid%3D1044758422309621%26set%3Dpcb.1044762415642555%26type%3D3%26theater)  from another perspective ( in blue), in addition to the rubble of destroyed buildings on the opposite side (in black)
+
+Below, photos showing matching between the nightly recorded video [which published by Ahmad Abdullah on his YouTube channel](https://www.youtube.com/watch?v=7K2v0_W2a2I) and photos of the trail of destruction posted by [Waleed AlAreefi on the "Where is the explosion now" Facebook group](Https://www.facebook.com/photo.php?fbid=10153744883367041&set=pcb.1104976582872951&type=3&theater)
+
+![](/assets/investigations/Hunud/12.png)
+
+![](/assets/investigations/Hunud/13.png)
 
 After identifying the marked landmarks, Yemeni Archive evaluated the location of the camera as well as the direction of the photographer (towards the impact site) using Google Earth.
   
@@ -160,7 +168,7 @@ Image showing one of the remnants of ammunition used in the attack, source: [Kar
 
 ![](/assets/investigations/Hunud/image6.png)
 
-Yemeni Archive used the satellite images to calculate the affected area by the attack, and it was approximately 2,800 square meters. By asking weapons experts; it was observed that the area and the scale of the destruction in the area corresponded to the impact usually caused by airstrikes, as ground or artillery bombing can not cause similar destruction.
+Yemeni Archive used the satellite images to calculate the affected area by the attack, and it was approximately 2,800 square meters. By asking one of the weapons experts; it was observed that the area and the scale of the destruction in the area corresponded to the impact usually caused by airstrikes, as ground or artillery bombing can not cause similar destruction.
 
 ### Civilian casualties caused by the attack
 
