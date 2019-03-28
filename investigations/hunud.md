@@ -5,6 +5,7 @@ title: "Targeting AL-Hunud market neighborhood by an airstrike"
 date: 2019-03-28
 desc: "24 civilians killed as a result of airstrikes targeting AL-Hunud market neighborhood"
 image: 
+drafts: true
 ---
 
 - Location: AL-Hunud market neighborhood (Al-Hawk district - Hudaydah governorate - West of Yemen)
