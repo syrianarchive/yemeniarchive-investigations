@@ -15,7 +15,7 @@ drafts: true
 - Reported killed: 24
 - Reported injured: 115
 - Type of attack: air strike
-- Potentially responsible: Air Force of the Arab Coalition
+- Potentially responsible: Arab coalition forces led by Saudi Arabia
 
 In this investigation, Yemeni Archive used open source tools and techniques to verify videos, images, and reports published online about AL-Hunud market neighborhood incident.
 
