@@ -39,34 +39,20 @@ That same day, Khabar news agency [reported that](http://khabaragency.net/news72
 ![](/assets/investigations/Hunud/image17.png)  
 *Paragraph of the report issued by Al-Khabar agency about Al-Hunud neighborhood incident*
 
-<<<<<<< HEAD
-On 22 Septembe 2016, Yemen Today channel on YouTube published a  [report on the funeral of the victims], (https://youtu.be/Hr8wDKdvvtc?t%3D83), the video contains several testimonies of residents, at 1:22 one of them stated "We are attending the funeral of about 20 martyrs, who (were killed) between night and day, some of the martyrs are still in the mortuary and some are under the rubble".
-=======
 On September 22, 2016, the Yemen Today Youtube channel published a [report on the funeral of the victims](https://youtu.be/Hr8wDKdvvtc?t%3D83). The video contains several testimonies of residents. At 1:22 in the video, one of them stated "We are attending the funeral of about 20 martyrs, who (were killed) between night and day, some of the martyrs are still in the mortuary and some are under the rubble".
->>>>>>> 9d0a0e8f1692f714d5713402b08e5ddfbe3680b6
 
 That same day, Al-Yemen TV channel published [a report on the incident on YouTube](https://youtu.be/soPDcABHqfk?t%3D50), in which several testimonies were recorded, among them the testimony of a person who stated at 0:50: "We have a condolence tent in the neighbourhoods of Siddiqiyeh and Al-Hunud, they have bombed us to kill innocent people, children, women and old people ... We do not have weapons and there is no leader among us."
 
-<<<<<<< HEAD
-On 22 September 2016, the Balqees channel on YouTube [published a report on the incident](https://www.youtube.com/watch?v%3DQKVnm3xf8tk) showing a number of victims and injured in a hospital, in addition to extracting victims from under the rubble at night.
-
-On 23 September 2016, Ahmad Abdullah posted  [a video on his YouTube channel](https://www.youtube.com/watch?v=7K2v0_W2a2I) which was recorded at the night of the attack, showing the destruction in the area, the photographer said at the beginning of the video: "This is the rocket which hit just after the Republican Palace attack, here is Al-Hunud market neighborhood in Al-Hudaydah, a fully populated residential neighborhood."
-=======
 On September 22, 2016, the Balqees channel on YouTube [published a report on the incident](https://www.youtube.com/watch?v%3DQKVnm3xf8tk) showing a number of victims and injured in a hospital. The report also showed victims being extracted from under the rubble at night.
 
 On September 23, 2016, Ahmad Abdullah posted [a video on his YouTube channel](https://www.youtube.com/watch?v=7K2v0_W2a2I) that he recorded at the night of the attack, showing the destruction in the area. The photographer said at the beginning of the video: "This is the rocket which hit just after the Republican Palace attack, here is Al-Hunud market neighborhood in Al-Hudaydah, a fully populated residential neighborhood."
->>>>>>> 9d0a0e8f1692f714d5713402b08e5ddfbe3680b6
 
 ## When did it happen?
 
 The attack on Al-Hunud market neighbourhood was part of several airstrikes targeted the area over two hours. News networks and activist pages started reporting on the attack of the Republican Palace at about 7 pm on September 21, 2016. The first was [a Facebook post by Ayman Ali Numan](https://www.facebook.com/groups/WeenAlEnfigarAlaan/permalink/1104468042923805/) (resident in Hudaydah) at 19:18 local time, which pointed to the start of targeting the surroundings of the Presidential Palace, the Air Defense and the Criminal Investigation Buildings in Hudaydah, in addition to an airstrike targeted a house in Al-Hunud market neighborhood.
 
-<<<<<<< HEAD
-To further verify the time of the attack; we analysed the timestamp of the published Facebook posts using the [4webhelp](http://www.4webhelp.net/us/timestamp.php) tool to determine the international time difference and to verify the source
-
-=======
 To further verify the time of the attack, we analysed the timestamp of the published Facebook posts using the [4webhelp](http://www.4webhelp.net/us/timestamp.php) tool to determine the international time difference and to verify the source
->>>>>>> 9d0a0e8f1692f714d5713402b08e5ddfbe3680b6
+
 ![](/assets/investigations/Hunud/image11.png)
 ![](/assets/investigations/Hunud/image18.png)
 *4webhelp tool shows that post published on Facebook at 19:18 Yemen time*
