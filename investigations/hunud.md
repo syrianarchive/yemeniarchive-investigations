@@ -37,20 +37,22 @@ On 21 September 2016 [Ayman Ali Numan published on "Where is the explosion now" 
 That same day, Khabar news agency [reported that](http://khabaragency.net/news72474.html) Saudi air strikes targeted a condolence tent in AL-Hunud market neighborhood in Al-Hudaydah, west of Yemen, on the evening of Wednesday, 21 September 2016.
 
 ![](/assets/investigations/Hunud/image17.png)  
+*Paragraph of the report issued by Al-Khabar agency about Al-Hunud neighborhood incident*
 
-On September 22, 2016, Yemen Today channel on YouTube published a  [report on the funeral of the victims], (https://youtu.be/Hr8wDKdvvtc?t%3D83), the video contains several testimonies of residents, at 1:22 one of them stated "We are attending the funeral of about 20 martyrs, who (were killed) between night and day, some of the martyrs are still in the mortuary and some are under the rubble".
+On 22 Septembe 2016, Yemen Today channel on YouTube published a  [report on the funeral of the victims], (https://youtu.be/Hr8wDKdvvtc?t%3D83), the video contains several testimonies of residents, at 1:22 one of them stated "We are attending the funeral of about 20 martyrs, who (were killed) between night and day, some of the martyrs are still in the mortuary and some are under the rubble".
 
 That same day, Al-Yemen TV channel published [a report on the incident on YouTube](https://youtu.be/soPDcABHqfk?t%3D50), in which several testimonies were recorded, among them the testimony of a person who stated at 0:50: "We have a condolence tent in the neighborhoods of Siddiqiyeh and Al-Hunud, they have bombed us to kill innocent people, children, women and old people ... We do not have weapons and there is no leader among us."
 
-On September 22, 2016, the Balqees channel on YouTube [published a report on the incident](https://www.youtube.com/watch?v%3DQKVnm3xf8tk) showing a number of victims and injured in a hospital, in addition to extracting victims from under the rubble at night.
+On 22 September 2016, the Balqees channel on YouTube [published a report on the incident](https://www.youtube.com/watch?v%3DQKVnm3xf8tk) showing a number of victims and injured in a hospital, in addition to extracting victims from under the rubble at night.
 
-On September 23, 2016, Ahmad Abdullah posted  [a video on his YouTube channel](https://www.youtube.com/watch?v=7K2v0_W2a2I) which was recorded at the night of the attack, showing the destruction in the area, the photographer said at the beginning of the video: "This is the rocket which hit just after the Republican Palace attack, here is Al-Hunud market neighborhood in Al-Hudaydah, a fully populated residential neighborhood."
+On 23 September 2016, Ahmad Abdullah posted  [a video on his YouTube channel](https://www.youtube.com/watch?v=7K2v0_W2a2I) which was recorded at the night of the attack, showing the destruction in the area, the photographer said at the beginning of the video: "This is the rocket which hit just after the Republican Palace attack, here is Al-Hunud market neighborhood in Al-Hudaydah, a fully populated residential neighborhood."
 
 ## When did it happen?
 
 The attack on Al-Hunud market neighborhood was part of several airstrikes targeted the area over two hours. News networks and activist pages started reporting on the attack of the Republican Palace at about 7 pm on September 21, 2016. The first was [ a Facebook post by Ayman Ali Numan](https://www.facebook.com/groups/WeenAlEnfigarAlaan/permalink/1104468042923805/) (resident in Hudaydah) at 19:18 local time, which pointed to the start of targeting the surroundings of the Presidential Palace, the Air Defense and the Criminal Investigation Buildings in Hudaydah, in addition to an airstrike targeted a house in Al-Hunud market neighborhood.
 
 To further verify the time of the attack; we analysed the timestamp of the published Facebook posts using the [4webhelp](http://www.4webhelp.net/us/timestamp.php) tool to determine the international time difference and to verify the source
+
 ![](/assets/investigations/Hunud/image11.png)
 ![](/assets/investigations/Hunud/image18.png)
 *4webhelp tool shows that post published on Facebook at 19:18 Yemen time*
@@ -58,7 +60,7 @@ To further verify the time of the attack; we analysed the timestamp of the publi
 The user "Bin Ghaleb"  [posted the first tweet about targeting the Republican Palace](https://twitter.com/nogaoado_Mazz/status/778633602192007168) at 19:34 Yemen time, stated that "targeting the presidential palace in Hudaydah now by Saudi Air Force "
 
 ![](/assets/investigations/Hunud/image7.png)
-*Bin Ghaleb tweet*
+*Bin Ghaleb tweet about targeting the Republican Palace*
 
 The first tweet about targeting Al-Hunud market neighborhood was published [by Baseem Al-Jinani](https://twitter.com/baseem_aljenani/status/778657427289935872) at 21:09, stated:  "Eyewitnesses:  A second airstrike by the aviation is targeting a house in Al-Hunud market neighborhood, victims are still under the rubble of the house "
 
@@ -88,7 +90,7 @@ Below is a Satellite image showing the locations of [القصر الجمهوري
 
 A minaret of a mosque repeatedly appeared in a lot of incident-related visual documentation. After the research; it is ascertained that the minaret belonged to  [Al-Jaishiyyah Mosque in Hudaydah](https://www.google.com/maps/place/%25D9%2585%25D8%25B3%25D8%25AC%25D8%25AF%2B%25D8%25A7%25D9%2584%25D8%25AC%25D8%25B9%25D9%258A%25D8%25B4%25D9%258A%25D8%25A9%25E2%2580%25AD/@14.7919815,42.9469721,327a,35y,90h/data%3D!3m1!1e3!4m5!3m4!1s0x16053be6abda3359:0x31fef7d39addc404!8m2!3d14.7916452!4d42.946845)
 
-[](/assets/investigations/Hunud/7.jpg)
+![](/assets/investigations/Hunud/7.jpg)
 *Photo shows Al-Jaishiyyah Mosque in Al-Hunud market neighborhood in 1956 and 2016, source : [Osama Al-Hubayli on Facebook](https://www.facebook.com/photo.php?fbid=1431327100266265&set=a.384677704931215&type=3&theater)*
 
 ![](/assets/investigations/Hunud/image4.png)
@@ -130,7 +132,8 @@ According to reports published about the incident, witnesses statements, and aft
 
 ![](/assets/investigations/Hunud/image6.png)
 
-##The aftermath of the attack
+
+## The aftermath of the attack
 
 
 ### Impact of attack on buildings and the used weapon
@@ -171,6 +174,9 @@ Yemeni Archive used the satellite images to calculate the affected area by the a
 
 At 23:38 on 21 September 2016 [Al-Khabar news agency published](http://khabaragency.net/news72474.html0) a report stated that on the evening of the same day; Saudi airstrikes targeted a condolence tent in Al-Hunud market neighborhood in Hudaydah city, resulting in about 90 civilians were killed and injured in an initial death toll, then the report was updated indicating that the number rose to 22 killed and 131 injured according to a statement from a source in the health operations.
 
+![](/assets/investigations/Hunud/image17.png)  
+*Paragraph of the report issued by Al-Khabar agency about Al-Hunud neighborhood incident*
+
 The agency quoted a security source as saying that more than 20 bodies arrived at the hospitals of the city, including 13 bodies transferred to Al-Thawra hospital, where Dr. Khalid Suhail, the head of the Al-Thawra Hospital, told Al-Khabar agency that they received 13 martyrs and 76 injured, including 23 injuries were described as "they are in serious condition and need to remain in the hospital"
 
 ![](/assets/investigations/Hunud/5.jpg)  
@@ -178,9 +184,9 @@ The agency quoted a security source as saying that more than 20 bodies arrived a
 
 Al-Thawra hospital published a [list of the names of the killed and injured](https://www.facebook.com/groups/WeenAlEnfigarAlaan/) who were received in the hospital:
 
-*Names of the civilians killed or injured due to targeting Al-Hunud neighborhood and transferred to Al-THawra hospital*
+**Names of the civilians killed or injured due to targeting Al-Hunud neighborhood and transferred to Al-THawra hospital**
 
-Names of the injured:
+**Names of the injured:**
 
 - Alya Ali Mizjaji
 - Hasan Abdullah Maajem Al-Abi
@@ -203,7 +209,7 @@ Names of the injured:
 - Abdullah Mohammed Abdullah Amwah
 - Futoun Mohammed Thabet
 
-Names of the killed:
+**Names of the killed:**
 
 - Salem Heba Qabih
 - Salem Heba Qabihs wife
@@ -254,7 +260,7 @@ The attack began around 19:00 that day targeting the buildings of the Central Se
 **Twitter:**
 1. [Bin Ghaleb tweet](https://twitter.com/nogaoado_Mazz/status/778633602192007168)
 2.  [Baseem Al-Jinani](https://twitter.com/baseem_aljenani/status/778657427289935872)  
-  
+
 **Youtube:**
 1. [Yemen Today Channel](https://youtu.be/Hr8wDKdvvtc?t%3D83)
 2.  [Al-Yaman TV Channel](https://youtu.be/soPDcABHqfk?t%3D50)
@@ -266,7 +272,7 @@ The attack began around 19:00 that day targeting the buildings of the Central Se
 8. [Ahmed Abdullah](https://www.youtube.com/watch?v%3D9lLKkQLCCDA)
 9. [https://www.youtube.com/watch?v=FjlhPas6ees](https://www.youtube.com/watch?v%3DFjlhPas6ees)
 10. [Ahmad Abdullah](https://www.youtube.com/watch?v=7K2v0_W2a2I)
-  
+
 **Websites**:
 1. [Khabar news agency](http://khabaragency.net/news72474.html)
 
