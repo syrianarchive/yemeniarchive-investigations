@@ -104,7 +104,7 @@ A minaret of a mosque repeatedly appeared in a much of incident-related visual d
 
 ![](/assets/investigations/Hunud/image12.png)
 
-The minaret of Jaishiyyah Mosque as it appeared in photos  [published by Karrar Al-Muayyad on Facebook](https://www.facebook.com/photo.php?fbid%3D1044759625642834%26set%3Dpcb.1044762415642555%26type%3D3%26theater
+The minaret of Jaishiyyah Mosque as it appeared in photos [published by Karrar Al-Muayyad on Facebook](https://www.facebook.com/photo.php?fbid%3D1044759625642834%26set%3Dpcb.1044762415642555%26type%3D3%26theater)
 
 ![](/assets/investigations/Hunud/image9.png)
 
