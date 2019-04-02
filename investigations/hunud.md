@@ -3,14 +3,14 @@ layout: investigation.html
 title: "Targeting Al-Hunud market neighbourhood by an airstrike"
 date: 2019-03-28
 desc: "24 civilians killed as a result of airstrikes targeting Al-Hunud market neighbourhood"
-image: /assets/investigations/Hunud/2.jpg
+image: /assets/investigations/Hunud/7.jpg
 drafts: true
 ---
 
 - Location: AL-Hunud market neighbourhood (Al-Hawk district - Hudaydah governorate - West of Yemen)
 - Date: 21 September 2016
 - Time of attack: 18:40 - 21:00 Yemen local time (UTC +3)
-- The alleged targets: [Republican Palace،](https://www.google.com/maps/place/%D8%A7%D9%84%D9%82%D8%B5%D8%B1+%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A-+%D8%A7%D9%84%D8%AD%D8%AF%D9%8A%D8%AF%D9%87%D8%8C+Al+Hudaydah,+Yemen%E2%80%AD/@14.7947309,42.9489251,561m/data=!3m2!1e3!4b1!4m5!3m4!1s0x16053be544dc0d9d:0xf17062f1e68fbd80!8m2!3d14.7947309!4d42.9505163),   [Central Security Forces،](https://www.google.com/maps/place/Central%2BSecurity%2BForces,%2BAl%2BHudaydah,%2BYemen/@14.7823865,42.9484187,2573m/data%3D!3m1!1e3!4m13!1m7!3m6!1s0x16053bc44b2507dd:0xc0b5975d5357b417!2sCentral%2BSecurity%2BForces,%2BAl%2BHudaydah,%2BYemen!3b1!8m2!3d14.7779985!4d42.9544689!3m4!1s0x16053bc44b2507dd:0xc0b5975d5357b417!8m2!3d14.7779985!4d42.9544689),  [Air Defense،](https://www.google.com/maps/place/14%25C2%25B048'29.1%2522N%2B43%25C2%25B003'14.4%2522E/@14.7411224,42.975081,49404m/data%3D!3m1!1e3!4m5!3m4!1s0x0:0x0!8m2!3d14.808082!4d43.054007), and AL-Hunud market neighbourhood
+- The alleged targets: [Republican Palace،](https://www.google.com/maps/place/%D8%A7%D9%84%D9%82%D8%B5%D8%B1+%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A-+%D8%A7%D9%84%D8%AD%D8%AF%D9%8A%D8%AF%D9%87%D8%8C+Al+Hudaydah,+Yemen%E2%80%AD/@14.7947309,42.9489251,561m/data=!3m2!1e3!4b1!4m5!3m4!1s0x16053be544dc0d9d:0xf17062f1e68fbd80!8m2!3d14.7947309!4d42.9505163),   [Central Security Forces،](https://www.google.com/maps/place/Central%2BSecurity%2BForces,%2BAl%2BHudaydah,%2BYemen/@14.7823865,42.9484187,2573m/data%3D!3m1!1e3!4m13!1m7!3m6!1s0x16053bc44b2507dd:0xc0b5975d5357b417!2sCentral%2BSecurity%2BForces,%2BAl%2BHudaydah,%2BYemen!3b1!8m2!3d14.7779985!4d42.9544689!3m4!1s0x16053bc44b2507dd:0xc0b5975d5357b417!8m2!3d14.7779985!4d42.9544689),  [Air Defense](https://www.google.com/maps/place/14%25C2%25B048'29.1%2522N%2B43%25C2%25B003'14.4%2522E/@14.7411224,42.975081,49404m/data%3D!3m1!1e3!4m5!3m4!1s0x0:0x0!8m2!3d14.808082!4d43.054007), and AL-Hunud market neighbourhood
 - Reported killed: 24
 - Reported injured: 115
 - Type of attack: air strike
@@ -60,22 +60,26 @@ To further verify the time of the attack, we analysed the timestamp of the publi
 The user "Bin Ghaleb"  [posted the first tweet about targeting the Republican Palace](https://twitter.com/nogaoado_Mazz/status/778633602192007168) at 19:34 Yemen time, stated that "targeting the presidential palace in Hudaydah now by Saudi Air Force "
 
 ![](/assets/investigations/Hunud/image7.png)
+
 *Bin Ghaleb tweet about targeting the Republican Palace*
 
 The first tweet about targeting Al-Hunud market neighbourhood was published [by Baseem Al-Jinani](https://twitter.com/baseem_aljenani/status/778657427289935872) at 21:09, stated:  "Eyewitnesses:  A second airstrike by the aviation is targeting a house in Al-Hunud market neighborhood, victims are still under the rubble of the house "
 
 ![](/assets/investigations/Hunud/image8.png)
+
 *Baseem Al-Jinani tweet*
 
 Another post related to the attack was published at 21:12 [by Amjad Zaim](https://www.facebook.com/amgd.zaeem/posts/1144458005600810) (a user from Hudaydah city) on his Facebook account, stated that "Al-Hudaydah Now, an airstrike by the Saudi Air Force targeted a condolence tent in Al-Hunud market neighborhood, many civilians were killed, and houses collapsed above its inhabitants, mass fleeing of residents of Al-Hunud market, Al-Shahariyeh and Al-Sham neighborhoods."
 
 ![](/assets/investigations/Hunud/image3.png)
+
 *Amjad Zaim Facebook post*
 
 At 20:59 on the same day, [a photo was published on Facebook by Fahd Salah](https://www.facebook.com/photo.php?fbid=10209201461827418&set=p.10209201461827418&type=3&theater) showing columns of smoke rising from the Republican Palace area.
 
 ![](/assets/investigations/Hunud/6.jpg)
 ![](/assets/investigations/Hunud/8.png)
+
 *Fahad Salah Facebook post*
 
 ## Where did it happen?
@@ -91,9 +95,11 @@ Below is a Satellite image showing the locations of [القصر الجمهوري
 A minaret of a mosque repeatedly appeared in a much of incident-related visual documentation. After the discovery phase, it was ascertained that the minaret belonged to [Al-Jaishiyyah Mosque in Hudaydah](https://www.google.com/maps/place/%25D9%2585%25D8%25B3%25D8%25AC%25D8%25AF%2B%25D8%25A7%25D9%2584%25D8%25AC%25D8%25B9%25D9%258A%25D8%25B4%25D9%258A%25D8%25A9%25E2%2580%25AD/@14.7919815,42.9469721,327a,35y,90h/data%3D!3m1!1e3!4m5!3m4!1s0x16053be6abda3359:0x31fef7d39addc404!8m2!3d14.7916452!4d42.946845)
 
 ![](/assets/investigations/Hunud/7.jpg)
+
 *Photo shows Al-Jaishiyyah Mosque in Al-Hunud market neighborhood in 1956 and 2016, source : [Osama Al-Hubayli on Facebook](https://www.facebook.com/photo.php?fbid=1431327100266265&set=a.384677704931215&type=3&theater)*
 
 ![](/assets/investigations/Hunud/image4.png)
+
 *Satellite image showing the location of Al- Jaishiyyah Mosque, source: [Google Earth](https://www.google.com/maps/place/%25D9%2585%25D8%25B3%25D8%25AC%25D8%25AF%2B%25D8%25A7%25D9%2584%25D8%25AC%25D8%25B9%25D9%258A%25D8%25B4%25D9%258A%25D8%25A9%25E2%2580%25AD/@14.7919815,42.9469721,327a,35y,90h/data%3D!3m1!1e3!4m5!3m4!1s0x16053be6abda3359:0x31fef7d39addc404!8m2!3d14.7916452!4d42.946845)*
 
 ![](/assets/investigations/Hunud/image12.png)
@@ -130,8 +136,6 @@ According to reports published about the incident, witnesses statements, and aft
 
 ![](/assets/investigations/Hunud/image23.png)
 
-![](/assets/investigations/Hunud/image6.png)
-
 
 ## The aftermath of the attack
 
@@ -140,7 +144,7 @@ According to reports published about the incident, witnesses statements, and aft
 
 Al-Hunud market neighbourhood is one of the old areas in Al-Hudaydah city. [some reports mentioned that](http://khabaragency.net/news72474.html) the attack on the neighbourhood on 21 September 2016 destroyed more than 20 houses, in addition to damage to the Thawra Hospital and its ambulance as a result of the renewed shelling of the Central Security building, according to the report.
 
-Below, images showing destruction in Al-Hunud market neighbourhood, Source: [Waleed Al-Areefi on the "Where is the Explosion now" group] (https://www.facebook.com/photo.php?fbid=10153744883367041&set=pcb.1104976582872951&type=3&theater)
+Below, images showing destruction in Al-Hunud market neighbourhood, Source: [Waleed Al-Areefi on the Where is the Explosion now group](https://www.facebook.com/photo.php?fbid=10153744883367041&set=pcb.1104976582872951&type=3&theater)
 
 ![](/assets/investigations/Hunud/1.jpg)
 ![](/assets/investigations/Hunud/2.jpg)
