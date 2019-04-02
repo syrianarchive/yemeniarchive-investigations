@@ -3,10 +3,9 @@ layout: investigation.html
 title: "استهداف حي سوق الهنود في الحديدة بغارة جوية"
 date: 2019-03-28
 desc: "24 مدنيًا قُتلوا نتيجة استهداف حي سوق الهنود في الحديدة بغارة جوية"
-image: /assets/investigations/Hunud/2.jpg
-drafts: true
+image: /assets/investigations/Hunud/7.jpg
 ---
- 
+
 - الموقع حي سوق الهنود (مديرية الحوك \- محافظة الحديدة \- غرب اليمن)
 - التاريخ: 21 سبتمبر 2016
 - التوقيت: بين الساعة 18:40 - 21:00 مساء بتوقيت اليمن ( UTC+3)
@@ -17,16 +16,16 @@ drafts: true
 - المسؤول المحتمل عن الهجوم: قوات التحالف العربي بقيادة السعودية
 
 استخدم الأرشيف اليمني في هذا التحقيق أدوات مفتوحة المصدر للتحقق من مقاطع فيديو وصور وتقارير منشورة على شبكة الانترنت.  
-  
+
 ## مقدمة  
 
 يقع حي سوق الهنود غرب مدينة [الحديدة](https://goo.gl/maps/6LSUkcbUESk) الواقعة على ساحل البحر الأحمر، وتبعد عن العاصمة صنعاء حوالي 226 كيلو متراً. وهي مركز محافظة الحديدة في مديرية الحوك. سيطرت قوات تابعة لجماعة الحوثي والقوات الموالية للرئيس الأسبق علي عبد الله صالح على محافظة الحديدة في أكتوبر 2014.  
-  
-![](/assets/investigations/Hunud/image14.png) 
+
+![](/assets/investigations/Hunud/image14.png)
 *خريطة توضح موقع مدينة الحديدة*
-  
+
 ## ماذا حدث؟
-  
+
 مساء يوم 21 سبتمبر 2016 تداولت العديد من الشبكات الإخبارية وصفحات الناشطين أنباءً حول عدة غارات جوية استهدفت محيط القصر الجمهوري في مدينة الحديدة، لتطال الغارة الأخيرة مجلس عزاء في سوق الهنود الشعبي؛ وتدمر عدة منازل للمدنيين فيه، ما أسفر عن سقوط قتلى وجرحى في صفوفهم.
 
 في 21 سبتمبر 2016 نشر [أيمن علي نعمان على مجموعة "وين الانفجار الآن"](https://www.facebook.com/groups/WeenAlEnfigarAlaan/permalink/1104468042923805/) على فيسبوك أن طيران التحالف قصف بأربع غارات جوية محيط القصر الجمهوري، استهدفت الأخيرة منها سوق الهنود، ليضيف أن القصف طال بعدة غارات الأمن المركزي والدفاع الجوي ومبنى البحث الجنائي في الحديدة.
@@ -106,19 +105,19 @@ drafts: true
 ![](/assets/investigations/Hunud/image15.png)
 
 مئذنة مسجد الجعيشية من زاوية مختلفة، إضافة إلى مجموعة أبنية (بالاصفر) في صورة نشرها [كرار المؤيد](https://www.facebook.com/photo.php?fbid%3D1044756922309771%26set%3Dpcb.1044762415642555%26type%3D3%26theater)  
-  
+
 ![](/assets/investigations/Hunud/image13.png)
 
 البناء الذي ظهر في تقرير قناة بلقيس قريبًا من مسجد الجعيشية (بالأزرق) يظهر مجددًا في [صور كرار المؤيد](https://www.facebook.com/photo.php?fbid%3D1044758422309621%26set%3Dpcb.1044762415642555%26type%3D3%26theater) من زاوية أخرى، إضافة إلى ركام أبنية مدمرة بالكامل في الجهة المقابلة (باللون الأسود)
-  
-أدناه، صور تظهر المطابقة بين لقطات من مقطع الفيديو الليلي المنشور [من قبل أحمد عبد الله على قناته على يوتيوب ](https://www.youtube.com/watch?v=7K2v0_W2a2I)  وصور لآثار الدمار التقطت صباح اليوم التالي ونشرت على فيسبوك من قبل المستخدم [ Waleed AlAreefi على مجموعة "وين الانفجار الآن".](https://www.facebook.com/photo.php?fbid=10153744883367041&set=pcb.1104976582872951&type=3&theater) 
+
+أدناه، صور تظهر المطابقة بين لقطات من مقطع الفيديو الليلي المنشور [من قبل أحمد عبد الله على قناته على يوتيوب ](https://www.youtube.com/watch?v=7K2v0_W2a2I)  وصور لآثار الدمار التقطت صباح اليوم التالي ونشرت على فيسبوك من قبل المستخدم [ Waleed AlAreefi على مجموعة "وين الانفجار الآن".](https://www.facebook.com/photo.php?fbid=10153744883367041&set=pcb.1104976582872951&type=3&theater)
   ![](/assets/investigations/Hunud/12.png)
 
   ![](/assets/investigations/Hunud/13.png)
 
-  
+
   بعد تحديد المعالم البارزة المبينة أعلاه، قام الأرشيف اليمني بتقدير موقع الكاميرا وكذلك واتجاه المصور (نحو موقع الضربة) باستخدام غوغل إيرث.
-  
+
 ![](/assets/investigations/Hunud/image21.jpg)  
 
 وفقًا للتقارير المنشورة حول الحادثة وإفادات الشهود، وبعد المطابقة بين المعالم البارزة الظاهرة في الوثائق البصرية المرتبطة بالحادثة وصور الأقمار الصناعية؛ تمكن الأرشيف اليمني من تحديد  موقع الأبنية المستهدفة في الهجوم باستخدام خرائط جوجل.
@@ -150,7 +149,7 @@ drafts: true
 <iframe frameborder="0" class="juxtapose" width="100%" height="800px" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=2aeb4770-5182-11e9-8106-0edaf8f81e27"></iframe>
 
 صمّم فريق الأرشيف اليمني صورًا ثلاثية الأبعاد للمباني المدمّرة،  لإظهار الأماكن التي تعرضت للدمار بشكل أفضل.
-  
+
 <iframe frameborder="0" class="juxtapose" width="100%" height="800px" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=2bbc2318-5182-11e9-8106-0edaf8f81e27"></iframe>
 
 ذكرت معظم الادعاءات الواردة في الأخبار والمقاطع المنشورة أن الهجوم وقع عبر غارات جويّة نفّذها طيران التحالف على عدة مواقع من بينها غارة جوية على حي سوق الهنود. توصّل الأرشيف اليمني إلى صورة واحدة توثّق إحدى بقايا الذخائر المستخدمة في الهجوم، دون التمكّن من تحديد نوعها؛ إلا أنه يُحتمل أن تكون جزءًا من صاروخ، وهو ما يتوافق مع إحدى الشهادات الواردة حول الحادثة والتي أشارت إلى صاروخ سقط في مكان العزاء، وذلك في مقطع الفيديو المنشور من قبل قناة اليمن الفضائية، [ حيث قالت إحدى السيدات في الدقيقة 2:37](https://youtu.be/soPDcABHqfk?t=157)"كنا في العزاء جالسين فجاء صاروخ دمر هذه البيوت، ما ذنب الأطفال والنساء والأبرياء؟ ما ذنبنا نحن".
@@ -165,7 +164,7 @@ drafts: true
 ### خسائر المدنيين الناجمة عن الهجوم
 
 في الساعة 23:38 من مساء 21 سبتمبر 2016 [نشرت وكالة أنباء خبر](http://khabaragency.net/news72474.html0) تقريرًا تقول فيه أن غارات سعودية استهدفت تجمعًا للعزاء في حي "سوق الهنود" بمدينة الحديدة مساء الأربعاء 21 سبتمبر/ أيلول 2016، وأن الحصيلة الأولية للخسائر البشرية تقدّر بحوالي 90 مدنيًا سقطوا بين قتيل وجريح ، لتنشر تحديثًا تشير فيه إلى أن العدد ارتفع إلى 22 شهيداً و 131 مصاباً في تصريح للوكالة من مصدر في عمليات الصحة.
-  
+
 ![](/assets/investigations/Hunud/image17.png)  
 فقرة من الخبر الذي نشرته وكالة الخبر حول استهداف سوق الهنود في الحديدة  
 
@@ -215,7 +214,7 @@ drafts: true
 - ابن علوان محمد يحيى حشيبري
 
 نُشرت الصور أدناه في مجموعة "وين الانفجار الآن" على فيسبوك، وتحتوي قوائم بأسماء الحالات المُستقبلة من قبل مستشفى الثورة العام في الحديدة بتاريخ 21 أيلول 2016، مع تشخيص الإصابة وتحديد العمر، إضافة إلى مكان الحادث الذي أدى للإصابة. وفقًا للبلاغ فإن المشفى استقبلت 73 حالة، واحتوت الجداول على 32 اسمًا من بينهم 12 شهيدًا، فيما جرى علاج 50 شخصًا وغادروا المستشفى. يُشار إلى أن 19 من بين 20 اسم وارد في الجدول وقعت إصابتهم في حي سوق الهنود، فيما تم استقبال إصابة واحدة من مبنى الأمن المركزي.  
-  
+
 ![](/assets/investigations/Hunud/image24.png)
 
 ![](/assets/investigations/Hunud/image22.png)  
@@ -231,10 +230,10 @@ drafts: true
 بدأ الهجوم قرابة الساعة 19:00 مساء ذلك اليوم حيث استهدف مباني كلًا من الأمن المركزي، الدفاع الجوي، والبحث الجنائي، أما سوق الهنود فقد استُهدف قرابة الساعة 21:00 مساء يوم 21 سبتمبر 2016؛ ما أسفر عن سقوط 24 ضحية و115 مصابًا من بينهم نساء وأطفال، إضافة إلى الدمار في أبنية المدنيين، وأضرار طالت سيارات الإسعاف أثناء عمليات الإنقاذ.
 
 أشارت العديد من التقارير إلى مسؤولية قوات التحالف عن الاستهداف، على الرغم من أن الأرشيف اليمني لم يعثر على محتوى مفتوح المصدر يشير إلى قوات يُزعم أنها مسؤولة عن الحادثة؛ إلا أن تنفيذ الهجوم بالغارات الجوية عقب  [تدمير المطارات والطائرات التي يسيطر عليها الحوثيون](https://www.presstv.com/Detail/2015/03/30/404030/Saudiled-jets-target-Sanaa-airport0) في بداية التدخل العسكري الذي تقوده قوات التحالف يشير بقوة إلى أن قوات التحالف مسؤولة عن الهجوم.
- 
+
 ## منهجية التحقق من المصادر :    
 
-### المصادر 
+### المصادر
 
 **فيسبوك:**
 1. [أيمن علي نعمان](https://www.facebook.com/groups/WeenAlEnfigarAlaan/permalink/1104468042923805/0)
@@ -243,7 +242,7 @@ drafts: true
 4. [قائمة أسماء الضحايا، وين الانفجار اليوم](https://www.facebook.com/groups/WeenAlEnfigarAlaan/)
 5. [Bisho Yaqoop في مجموعة وين الانفجار الآن](https://www.facebook.com/photo.php?fbid=896172830527276&set=gm.1104577399579536&type=3&theater)
 6. [ Waleed AlAreefi على مجموعة "وين الانفجار الآن".](https://www.facebook.com/photo.php?fbid=10153744883367041&set=pcb.1104976582872951&type=3&theater)  
-7.  [Emad Alhadhri](https://www.facebook.com/photo.php?fbid=1163073857091471&set=basw.AboSrU2luuXcY3g9P94nCX7HhwWdCr5Hda7s_u-tPmeY5PIFpDxzEQZhrJleWs5LtwfuczVyUXYoMYbxsFTOwUrIW8QajClMsMEefatLhKYr3_8ykAUb6JM_p4F1dYO9NBEq-9jFoVYv6h7zAvKbHjj4TkDikqAQUd-xjU3eR1LCTu_WIc5gvn--O_ddp_v0FeaRr3A6RAwLq9auU0k9d3-ZkPDUK-6RdXilrkod3gg5wOetPxE3epzC3QGnMhkKXB8.249726822089996.854979264601642.640571742771226.1163073857091471.947008305444955.886019684866890&type=1&opaqueCursor=Abo_SVZJPNW-00K2EsznNHYYCFg3yM8UCnBeDLcuMyUm4KlTFOKHKYgu-NXteTNs8uFDcaxeUcdZYTnAFbPZtEA8j5uJQLC9sCAwhzn8NNjMS5YXYVHIE20eo0TlcglXC3dk4eFWKEQHOo4TQg5JyZ3hgbd3_wdq_m-0lNY1q6mHNcrh6P7ijYDkcR2WY3Tpf6eW9SvOEvAh9aDuamDjR2Cd7_qpqIGfppwCpqYaOW4oot7MCMpCuEK8Xsu8IBJampMy323y7TP4ccWNMyVU0DRjxB2XeUCJTtHu4VaD6SpSlc7ftN2Ew6qgEL1Rdw7g6oZQjbc1J9KpYijM8PNN-hqbXwVbIFAxfHM7_yCqGF18Jc7HIjxYUMj3REDn0j1hGkIZeSI4_wptWWpekbSK9KuUpIJDFrnunx1-LFrc4LLNbkuKj9JSitdlB1nZGMTek2pxLHKOOu7pMOuJRg8wh1DV8KQ30fzE-l4M9wehJ1YLwU-KtNfpuasnsqk6x5-LUPXsH1fULTE0NZgy29Xy944i9JkpwDnYAG1vhDfjgRlE0lIs9sXuhmePf7_C8-fDZhE&theater) 
+7.  [Emad Alhadhri](https://www.facebook.com/photo.php?fbid=1163073857091471&set=basw.AboSrU2luuXcY3g9P94nCX7HhwWdCr5Hda7s_u-tPmeY5PIFpDxzEQZhrJleWs5LtwfuczVyUXYoMYbxsFTOwUrIW8QajClMsMEefatLhKYr3_8ykAUb6JM_p4F1dYO9NBEq-9jFoVYv6h7zAvKbHjj4TkDikqAQUd-xjU3eR1LCTu_WIc5gvn--O_ddp_v0FeaRr3A6RAwLq9auU0k9d3-ZkPDUK-6RdXilrkod3gg5wOetPxE3epzC3QGnMhkKXB8.249726822089996.854979264601642.640571742771226.1163073857091471.947008305444955.886019684866890&type=1&opaqueCursor=Abo_SVZJPNW-00K2EsznNHYYCFg3yM8UCnBeDLcuMyUm4KlTFOKHKYgu-NXteTNs8uFDcaxeUcdZYTnAFbPZtEA8j5uJQLC9sCAwhzn8NNjMS5YXYVHIE20eo0TlcglXC3dk4eFWKEQHOo4TQg5JyZ3hgbd3_wdq_m-0lNY1q6mHNcrh6P7ijYDkcR2WY3Tpf6eW9SvOEvAh9aDuamDjR2Cd7_qpqIGfppwCpqYaOW4oot7MCMpCuEK8Xsu8IBJampMy323y7TP4ccWNMyVU0DRjxB2XeUCJTtHu4VaD6SpSlc7ftN2Ew6qgEL1Rdw7g6oZQjbc1J9KpYijM8PNN-hqbXwVbIFAxfHM7_yCqGF18Jc7HIjxYUMj3REDn0j1hGkIZeSI4_wptWWpekbSK9KuUpIJDFrnunx1-LFrc4LLNbkuKj9JSitdlB1nZGMTek2pxLHKOOu7pMOuJRg8wh1DV8KQ30fzE-l4M9wehJ1YLwU-KtNfpuasnsqk6x5-LUPXsH1fULTE0NZgy29Xy944i9JkpwDnYAG1vhDfjgRlE0lIs9sXuhmePf7_C8-fDZhE&theater)
 8. [أسامة الحبيلي](https://www.facebook.com/photo.php?fbid=1431327100266265&set=a.384677704931215&type=3&theater)*
 9. [فهد صالح](https://www.facebook.com/photo.php?fbid=10209201461827418&set=p.10209201461827418&type=3&theater )
 
@@ -285,4 +284,3 @@ drafts: true
 
 
 *تمّ دعم هذا التحقيق من قبل صندوق الشرق الأوسط وشمال إفريقيا للتحقيقات*
-
