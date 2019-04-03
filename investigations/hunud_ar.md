@@ -146,7 +146,7 @@ image: /assets/investigations/Hunud/7.jpg
 
 أدناه صورة أقمار صناعية منشورة في 28 سبتمبر 2016 تظهر الأضرار في الأبنية نتيجة للغارة الجوية
 
-<iframe frameborder="0" class="juxtapose" width="100%" height="800px" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=2aeb4770-5182-11e9-8106-0edaf8f81e27"></iframe>
+<iframe frameborder="0" class="juxtapose" width="100%" height="717" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=88e2776a-562b-11e9-8106-0edaf8f81e27"></iframe>
 
 صمّم فريق الأرشيف اليمني صورًا ثلاثية الأبعاد للمباني المدمّرة،  لإظهار الأماكن التي تعرضت للدمار بشكل أفضل.
 

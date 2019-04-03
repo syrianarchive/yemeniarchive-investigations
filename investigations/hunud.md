@@ -157,7 +157,7 @@ To verify the caused destruction in Al-Hunud market neighbourhood, the Google Ea
 
 Below, satellite image published on 28 September 2016 showing damage to buildings as a result of the air strike
 
-<iframe frameborder="0" class="juxtapose" width="100%" height="800px" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=2aeb4770-5182-11e9-8106-0edaf8f81e27"></iframe>
+<iframe frameborder="0" class="juxtapose" width="100%" height="717" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=88e2776a-562b-11e9-8106-0edaf8f81e27"></iframe>
 
 To better assess the damage, Yemeni Archive team created 3D images of the buildings that were damaged.
 
