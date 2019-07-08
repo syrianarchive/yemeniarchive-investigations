@@ -1,9 +1,9 @@
 ﻿---
 layout: investigation.html
 title: "استهداف منطقة الرقاص السكنية في صنعاء"
-date: 2019-07-8
+date: 2019-07-08
 desc: " مقتل 6 مدنيين في استهداف منطقة الرقاص السكنية في صنعاء"
-image: /assets/investigations/sanaa/Screenshot 2019-07-08 at 13.40.10.png
+image: /assets/investigations/sanaa/cover.png
 ---
 
 - الموقع: منطقة الرقاص في صنعاء، اليمن
@@ -19,7 +19,9 @@ image: /assets/investigations/sanaa/Screenshot 2019-07-08 at 13.40.10.png
 
 في 16 مايو 2019، نُشرت صور، مقاطع فيديو، وتقارير على منصات وسائل التواصل الاجتماعي حول غارة جوية شنّتها قوات التحالف العربي بقيادة المملكة العربية السعودية استهدفت منطقةً سكنيةً تدعى حيّ الرقاص في صنعاء، اليمن.
 
-\### Add Tweet [https://twitter.com/MwatanaEn/status/1129071485904150531?s=08](https://twitter.com/MwatanaEn/status/1129071485904150531?s=08)
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Mwatana for Human Rights verified 4 children killed and 33 civilians including 16 children were injured in the bloody attack carried out by <a href="https://twitter.com/hashtag/Saudi?src=hash&amp;ref_src=twsrc%5Etfw">#Saudi</a>/<a href="https://twitter.com/hashtag/UAE?src=hash&amp;ref_src=twsrc%5Etfw">#UAE</a>-led coalition on a house in al-Raqas street this morning Thursday, May 16, 2019 <a href="https://twitter.com/hashtag/Sanaa?src=hash&amp;ref_src=twsrc%5Etfw">#Sanaa</a> <a href="https://twitter.com/hashtag/Yemen?src=hash&amp;ref_src=twsrc%5Etfw">#Yemen</a></p>&mdash; Mwatana for Human Rights (@MwatanaEn) <a href="https://twitter.com/MwatanaEn/status/1129071485904150531?ref_src=twsrc%5Etfw">May 16, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 ادّعت تقارير على الإنترنت أن الهجوم أسفر عن مقتل 6 أشخاص، من بينهم 4 أطفال، إضافة إلى إصابة 33 مدنياً، من بينهم 16 طفلًا.
 
@@ -188,7 +190,7 @@ image: /assets/investigations/sanaa/Screenshot 2019-07-08 at 13.40.10.png
 
 أدناه، صورة أقمار اصطناعية التقطها جوجل إيرث برو وتعرض موقع التأثير قبل الغارة الجوية في 16 مايو 2019 وبعدها.
 
-# <iframe frameborder="0" class="juxtapose" width="100%" height="953" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=dea19466-9982-11e9-b9b8-0edaf8f81e27"></iframe>
+# <iframe frameborder="0" class="juxtapose" width="100%" height="503" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=dea19466-9982-11e9-b9b8-0edaf8f81e27"></iframe>
 
 # الذخائر
 

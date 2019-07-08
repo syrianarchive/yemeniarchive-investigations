@@ -1,9 +1,9 @@
 ﻿---
 layout: investigation.html
 title: "Targeting Al Raqas residential area in Sana’a"
-date: 2019-07-8
+date: 2019-07-08
 desc: "6 civilians killed as a result of airstrikes targeting Al Raqas residential area in Sana’a"
-image: /assets/investigations/sanaa/Screenshot 2019-07-08 at 13.40.10.png
+image: /assets/investigations/sanaa/cover.png
 ---
 
 - Location: Raqas district in Sana’a, Yemen
@@ -19,7 +19,9 @@ image: /assets/investigations/sanaa/Screenshot 2019-07-08 at 13.40.10.png
 
 On May 16th 2019, photos, videos, and statements were published online on social media platforms about an airstrike by the Arab Coalition forces led by Saudi Arabia that targeted a residential area called Al Raqas district in Sana’a, Yemen.
 
-\### Add Tweet [https://twitter.com/MwatanaEn/status/1129071485904150531?s=08](https://twitter.com/MwatanaEn/status/1129071485904150531?s=08)
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Mwatana for Human Rights verified 4 children killed and 33 civilians including 16 children were injured in the bloody attack carried out by <a href="https://twitter.com/hashtag/Saudi?src=hash&amp;ref_src=twsrc%5Etfw">#Saudi</a>/<a href="https://twitter.com/hashtag/UAE?src=hash&amp;ref_src=twsrc%5Etfw">#UAE</a>-led coalition on a house in al-Raqas street this morning Thursday, May 16, 2019 <a href="https://twitter.com/hashtag/Sanaa?src=hash&amp;ref_src=twsrc%5Etfw">#Sanaa</a> <a href="https://twitter.com/hashtag/Yemen?src=hash&amp;ref_src=twsrc%5Etfw">#Yemen</a></p>&mdash; Mwatana for Human Rights (@MwatanaEn) <a href="https://twitter.com/MwatanaEn/status/1129071485904150531?ref_src=twsrc%5Etfw">May 16, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 Reports online claimed that 6 people, 4 of which were children, died as a result of this attack. Additionally, reports claimed 33 civilians, 16 of which were children, were injured from the attack.
 
@@ -29,7 +31,7 @@ This open source investigation will verify and assess the social media materials
 
 [Video 1](https://www.youtube.com/watch?v=OIeqWnAHFq0) was posted on the YouTube account of Mohamaad Alansi and shows the first moment of the attack.
 
-####Embed video <iframe src="https://giphy.com/embed/LpFdpresfWRBHqwpWS" width="480" height="264" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/yemen-airstrike-al-raqas-LpFdpresfWRBHqwpWS">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/LpFdpresfWRBHqwpWS" width="480" height="264" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/yemen-airstrike-al-raqas-LpFdpresfWRBHqwpWS">via GIPHY</a></p>
 
 The [video](https://www.youtube.com/watch?v=OIeqWnAHFq0&feature=youtu.be&t=) shows the munition being dropped at 0:06 as shown below:
 
@@ -165,7 +167,7 @@ Because of the significant landmarks surrounding the residential area, this airs
 
 ![](/assets/investigations/sanaa/image9.png)
 
-([https://www.youtube.com/watch?v=_dcvoUYTOtk))
+([Source](https://www.youtube.com/watch?v=_dcvoUYTOtk))
 
 ![](/assets/investigations/sanaa/image38.png)
 
@@ -188,7 +190,7 @@ Inside the alleway.
 
 Below is a satellite image taken by Google Earth Pro which shows the impact site before and after the airstrike on May 16 2019.
 
-# <iframe frameborder="0" class="juxtapose" width="100%" height="953" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=dea19466-9982-11e9-b9b8-0edaf8f81e27"></iframe>
+# <iframe frameborder="0" class="juxtapose" width="100%" height="503" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=dea19466-9982-11e9-b9b8-0edaf8f81e27"></iframe>
 
 # Munitions
 
