@@ -2,7 +2,8 @@
 layout: investigation.html
 title: "Targeting Al Raqas residential area in Sana’a"
 date: 2019-07-8
-image: 
+desc: "6 civilians killed as a result of airstrikes targeting Al Raqas residential area in Sana’a"
+image: ![](/assets/investigations/sanaa/Screenshot 2019-07-08 at 13.40.10.png) 
 ---
 
 - Location: Raqas district in Sana’a, Yemen
@@ -50,7 +51,7 @@ We can also see match the terrain in the video to the location using Google Eart
 
 ![](/assets/investigations/sanaa/image35.png)
 
-Moreover, the shadow of the building in the video can be measured using [Shadow Calculator](http://shadowcalculator.eu/&sa=D&ust=1562432182818000) which further corroborates that the time of the attack was around 08:16 Sana’a local time.
+Moreover, the shadow of the building in the video can be measured using [Shadow Calculator](http://shadowcalculator.eu/) which further corroborates that the time of the attack was around 08:16 Sana’a local time.
 
 ![](/assets/investigations/sanaa/image21.png)
 
@@ -58,15 +59,15 @@ Moreover, the shadow of the building in the video can be measured using [Shadow 
 
 ![](/assets/investigations/sanaa/image19.png)
 
-[Video 3](https://web.facebook.com/laila.alali.31/videos/10215184535107639/?_rdc%3D1%26_rdr&sa=D&ust=1562432182819000) was posted on the Facebook user page of Faisal Al Jabri and shows the first moments of the attack. The sound of an aircraft can be heard in the video at 0:10.
+[Video 3](https://web.facebook.com/laila.alali.31/videos/10215184535107639/?_rdc%3D1%26_rdr) was posted on the Facebook user page of Faisal Al Jabri and shows the first moments of the attack. The sound of an aircraft can be heard in the video at 0:10.
 
 The person in the video mentions that the aircraft is flying over the attacked location. He also says that the attack is ½ KM away from his location.
 
-The mosque that appears in the video can be geolocated using Google Earth Pro. The location of the mosque which called Bilal can be [seen here](https://goo.gl/maps/5Ri9m4qLirzvX4DY6&sa=D&ust=1562432182821000).
+The mosque that appears in the video can be geolocated using Google Earth Pro. The location of the mosque which called Bilal can be [seen here](https://goo.gl/maps/5Ri9m4qLirzvX4DY6).
 
 ![](/assets/investigations/sanaa/image15.png)
 
-The shadow of the mosque’s dome indicates the time of the attack shown in the video (08:17 Sana’a local time), which is very close to the time shown on the CCTV camera capture of [Video 1](https://www.youtube.com/watch?v%3DOIeqWnAHFq0&sa=D&ust=1562432182821000).
+The shadow of the mosque’s dome indicates the time of the attack shown in the video (08:17 Sana’a local time), which is very close to the time shown on the CCTV camera capture of [Video 1](https://www.youtube.com/watch?v=OIeqWnAHFq0).
 
 ![](/assets/investigations/sanaa/image7.png)
 
@@ -77,7 +78,7 @@ The shadow of the mosque’s dome indicates the time of the attack shown in the 
 ![](/assets/investigations/sanaa/image20.png)
 ![](/assets/investigations/sanaa/image1.png)
 
-The exact upload date of the video (16-05-2019) can be checked using a [YouTube DataViewer](https://citizenevidence.amnestyusa.org/&sa=D&ust=1562432182823000) tool.
+The exact upload date of the video (16-05-2019) can be checked using a [YouTube DataViewer](https://citizenevidence.amnestyusa.org/) tool.
 
 ![](/assets/investigations/sanaa/image36.png)
 
@@ -97,7 +98,7 @@ The video also shows the entrance of Al Manar hospital, which received patients 
 
 ![](/assets/investigations/sanaa/image30.png)
 
-[Video 6](https://www.youtube.com/watch?v=UYH3pGTsOEY) published by Al Maseera official YouTube channel shows the external damage to the bombed building as well as the damage to ([Maaz Bin Jabal](https://goo.gl/maps/hxk5xo6FocFYyHD26&sa=D&ust=1562432182825000)) school that is located in front of the bombed building.
+[Video 6](https://www.youtube.com/watch?v=UYH3pGTsOEY) published by Al Maseera official YouTube channel shows the external damage to the bombed building as well as the damage to ([Maaz Bin Jabal](https://goo.gl/maps/hxk5xo6FocFYyHD26)) school that is located in front of the bombed building.
 
 ![](/assets/investigations/sanaa/image6.png)
 
@@ -109,9 +110,9 @@ The video also shows the rescue operation with individuals digging through the r
 
 One of the people interviewed in the video report said: “We got the father and the son from under the rubble. The small daughter died as something fell on her and three other children died in the second room. We are still looking for a 17 year old girl and another girl. One man was renting a room in the building whose his legs were cut. He died between my arms. They are all from the same family.” The video shows one of the killed children found under the rubble and carried to the ambulance.
 
-Maaz bin Jabal school published two posts on their [official facebook page](https://www.facebook.com/Moathbingabilyamanschool89&sa=D&ust=1562432182826000) about the airstrike.
+Maaz bin Jabal school published two posts on their [official facebook page](https://www.facebook.com/Moathbingabilyamanschool89) about the airstrike.
 
-The [first post](https://www.facebook.com/Moathbingabilyamanschool89/posts/2228686867220149&sa=D&ust=1562432182826000) includes photos of the damage inside the school as a result of the airstrike.
+The [first post](https://www.facebook.com/Moathbingabilyamanschool89/posts/2228686867220149) includes photos of the damage inside the school as a result of the airstrike.
 
 ![](/assets/investigations/sanaa/image23.jpg)
 
@@ -119,17 +120,17 @@ It also includes a photo of the protests organized by the education team of the 
 
 ![](/assets/investigations/sanaa/image2.jpg)
 
-The [second post](https://www.facebook.com/Moathbingabilyamanschool89/posts/2268218159933686&sa=D&ust=1562432182827000) includes photos of the damage to the school as a result of the airstrike. The post also mentions that the school is preparing to be a test center for students starting from 15/06/2019.
+The [second post](https://www.facebook.com/Moathbingabilyamanschool89/posts/2268218159933686) includes photos of the damage to the school as a result of the airstrike. The post also mentions that the school is preparing to be a test center for students starting from 15/06/2019.
 
 ### The Impact Site Itself and Neighboring Buildings
 
-Alongside the civilian casualties, the residential area itself as well as its surrounding buildings suffered severe damage from the airstrike. Alongside the Facebook page of (Maaz Bin Jabal school [publishing photos](https://www.facebook.com/Moathbingabilyamanschool89/photos/pcb.2228686867220149/2228686777220158/?type%3D3%26theater&sa=D&ust=1562432182828000) showing the extensive damage inside the school from the airstrike, [Video 11](https://www.youtube.com/watch?v=3_Hc_ur9sBs) published by RT and [Video 12](https://www.youtube.com/watch?time_continue=11&v=rV66l5tJCr4) published by France 24 shows the impact of the airstrike on the al-Raqas residential area.
+Alongside the civilian casualties, the residential area itself as well as its surrounding buildings suffered severe damage from the airstrike. Alongside the Facebook page of (Maaz Bin Jabal school [publishing photos](https://www.facebook.com/Moathbingabilyamanschool89/photos/pcb.2228686867220149/2228686777220158/?type=3&theater) showing the extensive damage inside the school from the airstrike, [Video 11](https://www.youtube.com/watch?v=3_Hc_ur9sBs) published by RT and [Video 12](https://www.youtube.com/watch?time_continue=11&v=rV66l5tJCr4) published by France 24 shows the impact of the airstrike on the al-Raqas residential area.
 
 ![](/assets/investigations/sanaa/image11.png)
 
 ![](/assets/investigations/sanaa/image22.png)
 
-[Video 7](https://web.facebook.com/sanaa.rohi/videos/2121505314642901/?v%3D2121505314642901&sa=D&ust=1562432182830000) published by the Facebook Page Sanaa Rohi, alongside [Video 9](https://www.youtube.com/watch?v=8F2WtiwCdUU), additionally shows more closely the direct impact site as civilians attempt to search for victims stuck under the rubble. [Video 6](https://web.facebook.com/sanaa.rohi/videos/2121505314642901/?v%3D2121505314642901&sa=D&ust=1562432182830000), published by the same page of Sanaa Rohi, shows the impact site from a forward outside angle.
+[Video 7](https://www.facebook.com/watch/?v=2121505314642901) published by the Facebook Page Sanaa Rohi, alongside [Video 9](https://www.youtube.com/watch?v=8F2WtiwCdUU), additionally shows more closely the direct impact site as civilians attempt to search for victims stuck under the rubble. [Video 7](https://www.facebook.com/watch/?v=2121505314642901), published by the same page of Sanaa Rohi, shows the impact site from a forward outside angle.
 
 ![](/assets/investigations/sanaa/image34.png)
 
@@ -152,7 +153,7 @@ The Houthi group AnsarAllah’s media outlet al-Maseera additionally published a
 
 # Where it Happened
 
-Because of the significant landmarks surrounding the residential area, this airstrike was geolocated to a [small building in the district of al-Raqas in western Sana’a](https://goo.gl/maps/qNdLzf6Rh2YL8VuPA&sa=D&ust=1562432182833000). The building stands across from the Maaz Bin Jabal school which can be seen in the background of the footage showing the aftermath of the attack. The attack site also neighbors the district’s public market and other residential buildings.
+Because of the significant landmarks surrounding the residential area, this airstrike was geolocated to a [small building in the district of al-Raqas in western Sana’a](https://goo.gl/maps/qNdLzf6Rh2YL8VuPA). The building stands across from the Maaz Bin Jabal school which can be seen in the background of the footage showing the aftermath of the attack. The attack site also neighbors the district’s public market and other residential buildings.
 
 ![](/assets/investigations/sanaa/image40.jpg)
 
@@ -195,7 +196,7 @@ Few photos about the remnants of munitions were posted on Facebook. Abdul Razaq 
 
 # Casualties and injured
 
-Yemen’s Ministry of Health [published a list](https://www.facebook.com/WeenAlEnfigarAlaan/photos/pcb.2134707486822697/2134707366822709/?type%3D3%26theater&sa=D&ust=1562432182837000) of those killed and injured as a result of the attack. This report lists around 55 individuals with identified injuries as well as 6 deaths. This matches reports, such as that by [RT](https://www.youtube.com/watch?v=3_Hc_ur9sBs), which detail a family with four children as having died as a result of the airstrike.
+Yemen’s Ministry of Health [published a list](https://www.facebook.com/WeenAlEnfigarAlaan/photos/pcb.2134707486822697/2134707366822709/?type%3D3%26theater) of those killed and injured as a result of the attack. This report lists around 55 individuals with identified injuries as well as 6 deaths. This matches reports, such as that by [RT](https://www.youtube.com/watch?v=3_Hc_ur9sBs), which detail a family with four children as having died as a result of the airstrike.
 
 # Statements/Narrative
 
@@ -218,12 +219,12 @@ Below are two frames from a video published by YamanWrath on its official Twitte
 
 ![](/assets/investigations/sanaa/image4.jpg)
 
-The anti-Hadi pro-Houthi Republic of Yemen Armed Forces broadcasted a [statement](https://www.youtube.com/watch?v=J2RfM5Kyg9M) detailing the attack and emphasizing their attempts to economically disable the enemy country of Saudi Arabia. Naming the drone strike which disabled the pipelines as an act of direct aggression, and a violation of international law, the Saudi coalition justified the [airstrikes](https://www.alarabiya.net/ar/arab-and-world/yemen/2019/05/17/%D8%A8%D8%A7%D9%84%D9%81%D9%8A%D8%AF%D9%8A%D9%88-%D8%A7%D9%84%D8%AA%D8%AD%D8%A7%D9%84%D9%81-%D9%8A%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D9%85%D9%88%D8%A7%D9%82%D8%B9-%D8%B9%D8%B3%D9%83%D8%B1%D9%8A%D8%A9-%D8%AD%D9%88%D8%AB%D9%8A%D8%A9-%D8%A8%D8%B5%D9%86%D8%B9%D8%A7%D8%A1) throughout the city claiming their aim as [“neutralizing the ability of the Houthi militia to carry out acts of aggression.”](https://www.reuters.com/article/us-yemen-security-strikes/saudi-led-coalition-in-yemen-strikes-sanaa-casualties-reported-idUSKCN1SM0F0&sa=D&ust=1562432182841000)
+The anti-Hadi pro-Houthi Republic of Yemen Armed Forces broadcasted a [statement](https://www.youtube.com/watch?v=J2RfM5Kyg9M) detailing the attack and emphasizing their attempts to economically disable the enemy country of Saudi Arabia. Naming the drone strike which disabled the pipelines as an act of direct aggression, and a violation of international law, the Saudi coalition justified the [airstrikes](https://www.alarabiya.net/ar/arab-and-world/yemen/2019/05/17/%D8%A8%D8%A7%D9%84%D9%81%D9%8A%D8%AF%D9%8A%D9%88-%D8%A7%D9%84%D8%AA%D8%AD%D8%A7%D9%84%D9%81-%D9%8A%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D9%85%D9%88%D8%A7%D9%82%D8%B9-%D8%B9%D8%B3%D9%83%D8%B1%D9%8A%D8%A9-%D8%AD%D9%88%D8%AB%D9%8A%D8%A9-%D8%A8%D8%B5%D9%86%D8%B9%D8%A7%D8%A1) throughout the city claiming their aim as [“neutralizing the ability of the Houthi militia to carry out acts of aggression.”](https://www.reuters.com/article/us-yemen-security-strikes/saudi-led-coalition-in-yemen-strikes-sanaa-casualties-reported-idUSKCN1SM0F0)
 
 Differing from the Saudi narrative, Ansarallah emphasized the innocence of victims of the May 16th attack in both a [statement](https://twitter.com/AnsarAllahMC/status/1129139703817613313) as well as a [video report](https://twitter.com/AnsarAllahMC/status/1129130054104096768). In their statement regarding the attack, Ansarallah describes the injuries from the airstrike as including the head of the Yemeni Media Union, in addition to the death of his son. The group claims the attack was an attempt to silence the voices of the Yemeni people and reaffirms the commitment of Yemeni media to continue reporting on the suffering of their people.
 
-Moreover, the medical aid organization MSF published a [statement](https://twitter.com/msf_yemen/status/1129012650728402944&sa=D&ust=1562432182842000) on Twitter noting the influx of patients in their hospitals (48 injured and 4 dead) as a result of airstrikes on the 16th. [RT](https://www.youtube.com/watch?v%3D3_Hc_ur9sBs&sa=D&ust=1562432182842000) and [France 24](https://www.youtube.com/watch?time_continue%3D11%26v%3DrV66l5tJCr4&sa=D&ust=1562432182842000) additionally detail the airstrikes led by the Saudi coalition as in response to Houthi attacks on Saudi oil pipelines.
+Moreover, the medical aid organization MSF published a [statement](https://twitter.com/msf_yemen/status/1129012650728402944) on Twitter noting the influx of patients in their hospitals (48 injured and 4 dead) as a result of airstrikes on the 16th. [RT](https://www.youtube.com/watch?v=3_Hc_ur9sBs) and [France 24](https://www.youtube.com/watch?time_continue=11&v=rV66l5tJCr4) additionally detail the airstrikes led by the Saudi coalition as in response to Houthi attacks on Saudi oil pipelines.
 
 # Conclusion
 
-Given the media verified in this report, the Yemeni Archive can conclude that an airstrike on a [residential building in al-Raqas, Sana’a](https://goo.gl/maps/qNdLzf6Rh2YL8VuPA&sa=D&ust=1562432182843000) did occur on May 16 2019. The attack most likely occurred at around 08:16 Sana’a local time and killed 6 civilians, 4 of them children, as well as injured at least 33 civilians. The attack severely damaged the targeted building as well as a neighboring school and nearby residential buildings. It led to a propagation of differing narratives regarding the attack. This attack occurred shortly after Houthi forces broke, by drone strike, 2 ARAMCO oil pipelines in Saudi Arabia. Shortly after this Houthi attack, the Kingdom claimed airstrikes in Sana’a were necessary to neutralize Houthi aggression. Ansarallah claims the attacks led by the Saudi’s on Sana’a was an attack on Yemeni freedoms and an attempt to silence the Yemeni people. Nevertheless despite the lack of open sources which fully verify who committed this attack in al-Raqas, it is likely, given statements by Saudi Arabia regarding the earlier Houthi attacks on ARAMCO pipelines, that the Saudi-led coalition is responsible for the attack.
+Given the media verified in this report, the Yemeni Archive can conclude that an airstrike on a [residential building in al-Raqas, Sana’a](https://goo.gl/maps/qNdLzf6Rh2YL8VuPA) did occur on May 16 2019. The attack most likely occurred at around 08:16 Sana’a local time and killed 6 civilians, 4 of them children, as well as injured at least 33 civilians. The attack severely damaged the targeted building as well as a neighboring school and nearby residential buildings. It led to a propagation of differing narratives regarding the attack. This attack occurred shortly after Houthi forces broke, by drone strike, 2 ARAMCO oil pipelines in Saudi Arabia. Shortly after this Houthi attack, the Kingdom claimed airstrikes in Sana’a were necessary to neutralize Houthi aggression. Ansarallah claims the attacks led by the Saudi’s on Sana’a was an attack on Yemeni freedoms and an attempt to silence the Yemeni people. Nevertheless despite the lack of open sources which fully verify who committed this attack in al-Raqas, it is likely, given statements by Saudi Arabia regarding the earlier Houthi attacks on ARAMCO pipelines, that the Saudi-led coalition is responsible for the attack.
