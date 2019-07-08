@@ -2,7 +2,7 @@
 layout: investigation.html
 title: "Targeting Al Raqas residential area in Sana’a"
 date: 2019-07-08
-desc: "6 civilians killed as a result of airstrikes targeting Al Raqas residential area in Sana’a"
+desc: "An investigation in cooperation with Bellingcat about 6 civilians killed as a result of airstrikes targeting Al Raqas residential area in Sana’a"
 image: /assets/investigations/sanaa/cover.png
 ---
 
