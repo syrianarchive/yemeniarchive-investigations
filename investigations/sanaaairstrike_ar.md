@@ -3,7 +3,7 @@ layout: investigation.html
 title: "استهداف منطقة الرقاص السكنية في صنعاء"
 date: 2019-07-8
 desc: " مقتل 6 مدنيين في استهداف منطقة الرقاص السكنية في صنعاء"
-image: ![](/assets/investigations/sanaa/Screenshot 2019-07-08 at 13.40.10.png)
+image: /assets/investigations/sanaa/Screenshot 2019-07-08 at 13.40.10.png
 ---
 
 - الموقع: منطقة الرقاص في صنعاء، اليمن

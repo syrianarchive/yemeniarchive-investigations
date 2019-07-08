@@ -3,7 +3,7 @@ layout: investigation.html
 title: "Targeting Al Raqas residential area in Sana’a"
 date: 2019-07-8
 desc: "6 civilians killed as a result of airstrikes targeting Al Raqas residential area in Sana’a"
-image: ![](/assets/investigations/sanaa/Screenshot 2019-07-08 at 13.40.10.png) 
+image: /assets/investigations/sanaa/Screenshot 2019-07-08 at 13.40.10.png
 ---
 
 - Location: Raqas district in Sana’a, Yemen
