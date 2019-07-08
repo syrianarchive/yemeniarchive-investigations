@@ -31,7 +31,7 @@ image: /assets/investigations/sanaa/cover.png
 
 ظهرت اللحظات الأولى للهجوم في [مقطع فيديو 1](https://www.youtube.com/watch?v=OIeqWnAHFq0) نُشر على حساب Mohammed Alansi على يوتيوب.
 
-####Embed video <iframe src="https://giphy.com/embed/LpFdpresfWRBHqwpWS" width="480" height="264" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/yemen-airstrike-al-raqas-LpFdpresfWRBHqwpWS">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/LpFdpresfWRBHqwpWS" width="480" height="264" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/yemen-airstrike-al-raqas-LpFdpresfWRBHqwpWS">via GIPHY</a></p>
 
 في الدقيقة 0:06، يُظهر [المقطع](https://www.youtube.com/watch?v=OIeqWnAHFq0&feature=youtu.be&t=6) القذيفة أثناء سقوطها، كما هو موضّح أدناه:
 
