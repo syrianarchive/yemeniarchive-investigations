@@ -1,26 +1,26 @@
 ---
 layout: contentwithsiblings.html
-title: "Removals of Yemeni human rights content: July 2019"
-date: 2019-07-11
-desc: "Amount of content preserved, made unavailable and restored"
+title: "إزالة المحتوى اليمني المرتبط بحقوق الإنسان: يوليو/تموز 2019)"
+date: 2019-04-29
+desc: "إحصائيات المواد الرقمية المؤرشفة والتي تم استرجاعها"
 image: /assets/takedowns.jpg
 ---
 
-To date, Yemeni Archive has preserved and processed 157,614 videos from YouTube and 49,349 Twitter posts. This demonstrates an increase of 399 videos from YouTube and 3,605 posts from Twitter since June 2019. Unfortunately, despite many documenting human rights violations, many of these videos have been [made unavailable](https://syrianarchive.org/en/tech-advocacy) for a variety of reasons. After Syrian Archive raised this issue with YouTube, over 200,000 videos were restored and made publicly viewable since July 2017.
+حتى تاريخه، تمكّن الأرشيف اليمنيّ من حفظ ومعالجة 157,614  مقطع فيديو من يوتيوب و 49,349 تغريدة من تويتر. بزيادة قدرها 399 مقطعًا فيديو و 3,605 تغريدة منذ يونيو/حزيران 2019. لسوء الحظ،  [لم يعد الكثير من هذه المقاطع متاحًا](https://syrianarchive.org/ar/tech-advocacy/) لأسباب مختلفة؛ رغم أن العديد منها يوثّق انتهاكات حقوق الإنسان.
 
-Yet 24,242 YouTube videos and 70 Twitter posts remain unavailable as of July 2019. Some of these videos include attacks on refugee camps, attacks on hospitals and medical facilities, or destruction of civilian infrastructure. These 24,242 videos and 70 Twitter posts are securely preserved by Yemeni Archive and available upon request.
+رغم ذلك، لا يزال 24,242 مقطع فيديو غير متاح حتّى يوليو/تموز  2019، يتضمن بعضها توثيقًا لهجمات على مخيمات لاجئين، هجمات على مستشفيات ومرافق طبية، أو تدمير بنى تحتيّة مدنيّة. إنّ هذه المقاطع الـ 24,242 محفوظة بأمان من قبل الأرشيف اليمني ومتاحة عند الطلب.
 
 ### Embed video:
 https://www.youtube.com/watch?v=FOGkSPT3sLE
 
-Yemeni Archive preserves content from 252 YouTube channels and 58 Twitter channels on a daily basis. This demonstrates an increase of 14 YouTube channels since June 2019. Of these, 16 YouTube channels and 9 Twitter channels have been made unavailable as of July 2019 but are preserved in Yemeni Archive infrastructure. Some of these channels are long-standing media houses that have been documenting human rights violations in Yemen since 2015.
+يحفظ الأرشيف اليمنيّ محتوى  252 قناة يوتيوب و58 حساب تويتر على أساس يومي، بزيادة قدرها 14 قناة يوتيوب منذ يونيو/ حزيران 2019. من بين تلك القنوات، لم تعد 16 قناة متاحة حتى يوليو/تموز  2019 لكن محتوياتها مخزّنة لدى الأرشيف اليمنيّ. بعض هذه القنوات تعود لمؤسساتٍ إعلاميّة لها باعٌ طويلٌ في توثيق انتهاكات حقوق الإنسان في اليمن منذ عام 2015.
 
-Between June and July 2019, 3 YouTube channels that Yemeni Archive includes in its preservation activities have been made unavailable by YouTube. This demonstrates that the problem of platforms inadvertently removing from public view documentation of human rights violations is ongoing and has not ended.
+ما بين يونيو/ حزيران ويوليو/تموز  2019، أضيفت 3 قنوات من بين القنوات المجدولة التي يعمل الأرشيف اليمني على استبقاء محتواها إلى قائمة القنوات غير المتاحة، وهو ما يدلّ على أن مشكلة الحجب غير المتعمّد لمواد توثّق انتهاكات حقوق الإنسان من قبل المنصّات مستمرة ولم تنته.
 
-While the problem of platforms inadvertently removing from public view documentation of human rights violations is ongoing and has not ended, this demonstrates YouTube is working to address this issue.
+على الرغم من أن مشكلة الحجب غير المتعمّد لمواد توثّق انتهاكات حقوق الإنسان من قبل المنصّات مستمرة ولم تنته، إلا أن أن يوتيوب يعمل على معالجتها.
 
-Social media platforms have become accidental archives, but takedowns have proven they are no place for long-term, safe storage of materials depicting human rights violations. Alternate strategies must be used to archive this material, and Syrian Archive seeks to fill this gap.
+أصبحت منصات وسائل التواصل الاجتماعي أراشيف بالصدفة، لكنّ عمليات الإزالة أثبتت أن تلك المنصات ليست المكان الأنسب للحفظ الآمن وطويل الأجل للمواد التي توثّق انتهاكات حقوق الإنسان، ما يحتّم ضرورة استخدام استراتيجيات بديلة لأرشفة هذه المواد، وهي الفجوة التي يسعى الأرشيف اليمني إلى سدّها.
 
-Get in touch if you or your media organisation has been affected by content takedowns on YouTube or other social media platforms or need assistance in securely archiving documentation materials.
+تواصل معنا إذا كنتَ أو مؤسستك الإعلامية ممّن تأثّروا بإزالة المحتوى على "يوتيوب" أو غيرها من منصات وسائل التواصل الاجتماعيّ، أو كنت بحاجة إلى المساعدة في أرشفة الوثائق بأمان.
 
-Contact: info@yemeniarchive.org
+للتواصل: info@yemeniarchive.org
