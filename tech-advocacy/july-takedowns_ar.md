@@ -1,6 +1,6 @@
 ---
 layout: contentwithsiblings.html
-title: "إزالة المحتوى اليمني المرتبط بحقوق الإنسان: يوليو/تموز 2019)"
+title: "إزالة المحتوى اليمني المرتبط بحقوق الإنسان: يوليو/تموز 2019"
 date: 2019-07-11
 desc: "إحصائيات المواد الرقمية المؤرشفة والتي تم استرجاعها"
 image: /assets/tech-advocacy/takedowns.jpg
@@ -12,7 +12,7 @@ image: /assets/tech-advocacy/takedowns.jpg
 
 <iframe src="https://player.vimeo.com/video/350706353" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-<a href="https://vimeo.com/350706353">July 2019: Yemeni Archive monthly update</a> from <a href="https://vimeo.com/user101279954">Yemeni Archive</a>
+<a href="https://vimeo.com/350706353">تموز \ يوليو 2019: الإحصائية الشهرية للمواد المؤرشفة والتي تم استرجاعها</a> من <a href="https://vimeo.com/user101279954">الأرشيف اليمني</a>
 
 
 يحفظ الأرشيف اليمنيّ محتوى  252 قناة يوتيوب و58 حساب تويتر على أساس يومي، بزيادة قدرها 14 قناة يوتيوب منذ يونيو/ حزيران 2019. من بين تلك القنوات، لم تعد 16 قناة متاحة حتى يوليو/تموز  2019 لكن محتوياتها مخزّنة لدى الأرشيف اليمنيّ. بعض هذه القنوات تعود لمؤسساتٍ إعلاميّة لها باعٌ طويلٌ في توثيق انتهاكات حقوق الإنسان في اليمن منذ عام 2014.
