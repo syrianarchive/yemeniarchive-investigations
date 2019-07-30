@@ -10,8 +10,8 @@ To date, Yemeni Archive has preserved and processed 157,614 videos from YouTube 
 
 Yet 24,242 YouTube videos and 70 Twitter posts remain unavailable as of July 2019. Some of these videos include attacks on refugee camps, attacks on hospitals and medical facilities, or destruction of civilian infrastructure. These 24,242 videos and 70 Twitter posts are securely preserved by Yemeni Archive and available upon request.
 
-### Embed video:
-https://www.youtube.com/watch?v=FOGkSPT3sLE
+<iframe src="https://player.vimeo.com/video/350706353" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/350706353">July 2019: Yemeni Archive monthly update</a> from <a href="https://vimeo.com/user101279954">Yemeni Archive</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 Yemeni Archive preserves content from 252 YouTube channels and 58 Twitter channels on a daily basis. This demonstrates an increase of 14 YouTube channels since June 2019. Of these, 16 YouTube channels and 9 Twitter channels have been made unavailable as of July 2019 but are preserved in Yemeni Archive infrastructure. Some of these channels are long-standing media houses that have been documenting human rights violations in Yemen since 2015.
 
