@@ -3,7 +3,7 @@ layout: contentwithsiblings.html
 title: "Removals of Yemeni human rights content: July 2019"
 date: 2019-07-11
 desc: "Amount of content preserved, made unavailable and restored"
-image: /assets/takedowns.jpg
+image: /assets/tech-advocacy/takedowns.jpg
 ---
 
 To date, Yemeni Archive has preserved and processed 157,614 videos from YouTube and 49,349 Twitter posts. This demonstrates an increase of 399 videos from YouTube and 3,605 posts from Twitter since June 2019. Unfortunately, despite many documenting human rights violations, many of these videos have been [made unavailable](https://Yemeniarchive.org/en/tech-advocacy) for a variety of reasons.
