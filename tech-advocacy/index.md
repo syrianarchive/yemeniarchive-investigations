@@ -23,7 +23,7 @@ We connected with the citizen reporters and media agencies who received strikes 
 
 Losing this documentation will directly affect justice and accountability efforts by Yemeni, regional and international civil society organisations as it might be the only evidence out there about war crimes that happened in Yemen.
 
-It will also risks destroying the collective Yemeni digital memory formed since 2015, which will result in ignoring the violations committed by all parties in the conflict, and prevent future generations from knowing what happened in their country.
+It will also risks destroying the collective Yemeni digital memory formed since 2014, which will result in ignoring the violations committed by all parties in the conflict, and prevent future generations from knowing what happened in their country.
 
 Get in touch if you or your media organisation has been affected by content takedowns on YouTube or other social media platforms or need assistance in securely archiving documentation materials.
 

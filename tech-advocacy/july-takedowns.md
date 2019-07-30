@@ -15,7 +15,7 @@ Yet 24,242 YouTube videos and 70 Twitter posts remain unavailable as of July 201
 <a href="https://vimeo.com/350706353">July 2019: Yemeni Archive monthly update</a> from <a href="https://vimeo.com/user101279954">Yemeni Archive</a>
 
 
-Yemeni Archive preserves content from 252 YouTube channels and 58 Twitter channels on a daily basis. This demonstrates an increase of 14 YouTube channels since June 2019. Of these, 16 YouTube channels and 9 Twitter channels have been made unavailable as of July 2019 but are preserved in Yemeni Archive infrastructure. Some of these channels are long-standing media houses that have been documenting human rights violations in Yemen since 2015.
+Yemeni Archive preserves content from 252 YouTube channels and 58 Twitter channels on a daily basis. This demonstrates an increase of 14 YouTube channels since June 2019. Of these, 16 YouTube channels and 9 Twitter channels have been made unavailable as of July 2019 but are preserved in Yemeni Archive infrastructure. Some of these channels are long-standing media houses that have been documenting human rights violations in Yemen since 2014.
 
 Between June and July 2019, 3 YouTube channels that Yemeni Archive includes in its preservation activities have been made unavailable by YouTube. This demonstrates that the problem of platforms inadvertently removing from public view documentation of human rights violations is ongoing and has not ended.
 
