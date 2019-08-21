@@ -4,7 +4,7 @@ title: "انفجار سعوان"
 date: 2019-08-22
 desc: "مقتل 14 مدني في انفجار في سعوان - صنعاء"
 image: /assets/investigations/sawan/image6.png
----﻿
+---
 
 ## مقدمة
 
