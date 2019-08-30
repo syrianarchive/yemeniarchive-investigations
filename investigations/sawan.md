@@ -8,9 +8,11 @@ image: /assets/investigations/sawan/image6.png
 
 ## Introduction
 
-On the afternoon of 7 April 2019, between 11:40 to 12:10, two explosions occurred in Sawan area, east of Sana'a, in conjunction with airstrikes launched by the Arab coalition on the perimeter of the city.
-Based on open-source tools to verify videos, photos, and reports published on the Internet, and by gathering information from eyewitnesses, as well as analysing media coverage of the incident; the Yemeni Archive found that the explosions occurred in a Houthi-controlled warehouse. The explosions destroyed houses around the warehouse and four schools. A number of reports indicate that at least fifteen students were killed, and more than 100 students were injured as a result of these explosions. The Yemeni Archive could not pinpoint the cause of the explosions, although there was much information in the reports, they were contradictory.
+On April 7, 2019, two explosions occurred in Sawan area east of the capital Sana'a in conjunction with airstrikes around the city by the Saudi-led Arab Coalition. It was not clear what happened as there were many narratives of the incident.
 
+The Yemeni Archive team headed to the impact site, inspected the place, and met residents of the neighborhood to find out the truth of the two explosions. In addition to field research, the team relied on open-source tools to verify videos, photos, and reports posted on the Internet, as well as gathering information from eyewitnesses and analysing media coverage of the incident.
+
+The team concluded that the incident was two explosions struck a Houthi-controlled warehouse on the afternoon of April 7, 2019, between 11:40 and 12:10.  The explosions destroyed houses around the warehouse and four schools. A number of reports indicate that at least fifteen students were killed, and more than 100 students were injured as a result of these explosions. The Yemeni Archive could not pinpoint the cause of the explosions, although there was much information in the reports, they were contradictory, as it turns out that the smoke of the first explosion did not indicate a missile strike.
 
 The Houthis changed the official in charge of statistics and prevented the new official from publishing any information regarding the cause of death.  The Houthis, or Ansar Allah movement, is a Zaidi religious movement based in Saada, north of Yemen, founded in the early 1990s under the name of "the Young Believers Movement" and then Ansar Allah. The movement is known by media as the Houthis after its founder Badr al-Din al-Houthi. The movement is led by Abdul Malik bin Badr al-Din al-Huthi, and it is a major party to the conflict in Yemen, and controls western Yemen from the capital Sana'a to the coast.
 
