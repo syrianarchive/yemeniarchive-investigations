@@ -104,15 +104,30 @@ Below, a photo posted by [Mohammed Al-Hussam](https://www.facebook.com/permalink
   
 ![](/assets/investigations/sawan/image8.png)  
   
-
-![](/assets/investigations/sawan/image17.png)
+<iframe frameborder="0" class="juxtapose" width="100%" height="717" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=5faf0e72-79a2-11e9-8e74-0edaf8f81e27"></iframe>
 
 During a field visit to the impact site, the Yemeni Archive team found the remains of hand grenades, and after analysing one of the used bombs, it found that it had a structure of [Mk 2A1](http://www.inert-ord.net/usa03a/usa2/mk2sp/index.html ) which was developed during World War II by the United States. Research confirms that many countries such as [Iran](http://tgrm.foxed.ca/Americangrenades/Mk%20II/The%20Mk%202%20grenade.html), [China](https://www.jmu.edu/cisr/_pages/research/iraq-oig/05-grenade.pdf?fbclid=IwAR2eaBi2mfz1z3d9sxVlyakTVHnhXU0JXbKmG7NCmrad9FLXagXCvtn-ZPs) and [Israel](http://tgrm.foxed.ca/Americangrenades/Mk%20II/The%20Mk%202%20grenade.html) redeveloped and manufactured these bombs using the same structure and work mechanism, so The Yemeni Archive could not determine the exact source of the bomb.
 
-![](/assets/investigations/sawan/image16.png)  
+![](/assets/investigations/sawan/image16.png)
 
 ![](/assets/investigations/sawan/image3.png)
 
 According to the assessment of the field investigation team; Sawan neighborhood is a newly constructed area, and the explosion caused the destruction of a nearby house inhabited by three families, in addition to severe damage to another house. The explosion also shattered doors and windows, destroyed the fence of the workshop adjacent to the warehouse, the inner room of the workshop, and damaged nearby houses on a large scale.
 
 In addition to the Yemeni Archive photos, some of the owners of the houses adjacent to the impact site publidhed photos showing the destruction in their homes. For example, [Mohammed Hamid al-Husam](https://www.facebook.com/permalink.php?story_fbid=909679816040573&id=100009956893824) posted photos on his Facebook account saying that his house, thirty meters from the site of the blasts,  suffered significant material damage.
+
+![](/assets/investigations/sawan/sawan20)
+
+![](/assets/investigations/sawan/sawan21)
+
+Exclusive photos from investigation team:
+
+![](/assets/investigations/sawan/sawan30)
+![](/assets/investigations/sawan/sawan31)
+![](/assets/investigations/sawan/sawan32)
+![](/assets/investigations/sawan/sawan33)
+![](/assets/investigations/sawan/sawan34)
+![](/assets/investigations/sawan/sawan35)
+![](/assets/investigations/sawan/sawan36)
+![](/assets/investigations/sawan/sawan37)
+![](/assets/investigations/sawan/sawan38)
