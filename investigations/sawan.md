@@ -3,7 +3,7 @@ layout: investigation.html
 title: "The hidden truth in the explosion of the Houthi warehouse in Sawan"
 date: 2019-09-09
 desc: "14 civilians killed as a result of explosions in Sawan - Sanaa"
-image: /assets/investigations/sawan/sawan-cover.png
+image: /assets/investigations/sawan/sawan-cover2.png
 ---
 
 ## Introduction
@@ -19,17 +19,21 @@ The Houthis changed the official in charge of statistics and prevented the new o
 ## Conflicting information regarding the incident
 There were conflicting reports about the explosion in social media and official and local news sites. [Ayman al-Shami](https://www.facebook.com/aymn.alshamy2/posts/2143772315710022) posted two photos on his Facebook account from [this location](https://goo.gl/maps/eXGWGdxu8FBRnCyEA) of what he said was an aerial bombardment on Sawan area.
 
-![](/assets/investigations/sawan/image18.png)
- [Ayman al-Shami](https://www.facebook.com/aymn.alshamy2/posts/2143772315710022)'s poste on Facebook
 
-![](/assets/investigations/sawan/image2.png)  
-The 4webhelp tool shows that the post was published on Facebook at 11:43 am Yemen time
+[Ayman al-Shami](https://www.facebook.com/aymn.alshamy2/posts/2143772315710022)'s posted on Facebook
+
+![](/assets/investigations/sawan/image18.png)
+
+The 4webhelp tool shows that the post was published on Facebook at 11:43 am Yemen time:
+![](/assets/investigations/sawan/image2.png)
 
 At 11:46 local time, the Facebook page of the  [ "silent individuals of Imran"](https://www.facebook.com/photo.php?fbid=409738183149944&set=a.333772017413228&type=3&theater) published a post mentioning sounds of explosions in Sawan area of ​​the capital Sana'a. Later, conflicting news and hypotheses related to the incident followed. Oon his Facebook account, [Mohammed Al-Omari](https://www.facebook.com/mohammdalomary/posts/2405497959482729) posted a video showing the aftermath of the explosion that shook his house. [Asif al-Yamani](https://www.facebook.com/nx.maged/videos/2768959806462557/), a resident of the area, also posted a video taken from [this location](https://goo.gl/maps/VN58W4AxZTopLEpx5) documenting the second explosion. [Another video](http://mubasher.aljazeera.net/news/%D9%81%D9%8A%D8%AF%D9%8A%D9%88-%D9%82%D8%B5%D9%81-%D9%8A%D9%82%D8%AA%D9%84-11-%D8%AA%D9%84%D9%85%D9%8A%D8%B0%D8%A9-%D8%A8%D8%B5%D9%86%D8%B9%D8%A7%D8%A1-%D9%88%D8%A7%D8%AA%D9%87%D8%A7%D9%85%D8%A7%D8%AA-%D9%84%D9%84%D8%AA%D8%AD%D8%A7%D9%84%D9%81-%D8%A8%D8%A7%D9%84%D9%85%D8%B3%D8%A4%D9%88%D9%84%D9%8A%D8%A9) published by Al-Jazeera shows traces of glass fragments in addition to the destruction in Al-Ra'ii School. It also shows injured people being treated in a hospital, as well as smoke rising from the debris left by the explosion in the area, which indicates that the used weapon was land-based, not an air weapon.
 
 On the same day, the Ibb governorate's media adviser published a [tweet](https://twitter.com/br3_7/status/1114874873229320192?s=21) confirming an explosion that followed a fire in a warehouse near the school. It shows that this video does not contain any sound of a rocket or any remains.
 
-On the next day; on his Facebook page, journalist Ramah al-Jabri published [a post](https://www.facebook.com/story.php?story_fbid=2352438718121040&id=100000648054657) attached with four videos filmed by different citizens from different locations ([site 1](https://goo.gl/maps/oe8HJiQwZ2jpCTmaA)، [site 2](https://goo.gl/maps/aKvpbYZ8Cmvrcyqr5)، [site 3](https://goo.gl/maps/1ZVeN2sU1JfZdKuL7)، [site 4](https://goo.gl/maps/aWwufq31brkBQDfQA)) trying to prove that what happened was not an aerial bombardment but a fire from somewhere in Sawan and followed by a vast explosion that might have been a fuel station explosion, as there was no sound of flying or shelling before it. In one of the videos, a person can be heard saying that the workshop was burned; he did not say it was bombed. [This video](https://vimeo.com/353768698) shows the explosion from four different angles.
+On the next day; on his Facebook page, journalist Ramah al-Jabri published [a post](https://www.facebook.com/story.php?story_fbid=2352438718121040&id=100000648054657) attached with four videos filmed by different citizens from different locations ([site 1](https://goo.gl/maps/oe8HJiQwZ2jpCTmaA)، [site 2](https://goo.gl/maps/aKvpbYZ8Cmvrcyqr5)، [site 3](https://goo.gl/maps/1ZVeN2sU1JfZdKuL7)، [site 4](https://goo.gl/maps/aWwufq31brkBQDfQA)) trying to prove that what happened was not an aerial bombardment but a fire from somewhere in Sawan and followed by a vast explosion that might have been a fuel station explosion, as there was no sound of flying or shelling before it. In one of the videos, a person can be heard saying that the workshop was burned; he did not say it was bombed. [This video](https://vimeo.com/353768698) shows the explosion from four different angles:
+
+<iframe src="https://player.vimeo.com/video/353768698" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 Several Yemeni websites published different information about what happened in Sawan, which increased the inconsistencies. On the day of the incident, [Suhail TV Channel](https://www.facebook.com/suhailchannel/photos/a.1418413265063121/2300881183482987/?type=3&theater) published a post on its Facebook page mentioning the death and injury of a number of female students as a  gas tanker exploded near a girls' school in Sawan neighborhood east of the capital Sana'a.[ Al-Mashhad Yemeni](https://twitter.com/mashhadyemeni/status/1114872883933847553?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1114872883933847553&ref_url=https%3A%2F%2Fwww.almashhad-alyemeni.com%2F130090) Twitter account published a video circulated by other accounts, filmed [nearby](https://goo.gl/maps/aWwufq31brkBQDfQA) the impact site. On the same day,  [Al-Masira website](https://www.almasirah.net/details.php?es_id=38012&cat_id=3) of the Ansar Allah group reported on the bombing on a school and houses in the region of Sawan by the Arab Coalition, which increased the number of victims to more than a hundred people dead and injured. A few hours after the incident, the [Arab Press](http://arabicpress.net/viewnews.asp?id=983) website published a report: "Three students were killed by a big explosion that rocked Sawan area in Sana'a. The explosion was caused by the burning of the carbon plant warehouse, located next to Al-Ra'ii Girls School in the area and close to the 40th round, and reports of high casualties due to suffocation." A source in Sanaa told "Arab Press" that a big explosion rocked the area of ​​Sawan and smoke plumes from the building of the carbon plant. He said that the factory contains chemicals, and confirmed the killing of three students and the injury of a large number of them, and pointed out that shrapnel scattered to the nearby neighborhoods by the force of the explosion and left houses damaged.
 
@@ -119,15 +123,3 @@ In addition to the Yemeni Archive photos, some of the owners of the houses adjac
 ![](/assets/investigations/sawan/sawan20.jpg)
 
 ![](/assets/investigations/sawan/sawan21.jpg)
-
-Exclusive photos from investigation team:
-
-![](/assets/investigations/sawan/sawan30.jpg)
-![](/assets/investigations/sawan/sawan31.jpg)
-![](/assets/investigations/sawan/sawan32.jpg)
-![](/assets/investigations/sawan/sawan33.jpg)
-![](/assets/investigations/sawan/sawan34.jpg)
-![](/assets/investigations/sawan/sawan35.jpg)
-![](/assets/investigations/sawan/sawan36.jpg)
-![](/assets/investigations/sawan/sawan37.jpg)
-![](/assets/investigations/sawan/sawan38.jpg)

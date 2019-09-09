@@ -3,7 +3,7 @@ layout: investigation.html
 title: "الحقيقة غائبة عن انفجار مستودع الحوثيين في سعوان"
 date: 2019-09-09
 desc: "مقتل 14 مدني في انفجار في سعوان - صنعاء"
-image: /assets/investigations/sawan/sawan-cover.png
+image: /assets/investigations/sawan/sawan-cover2.png
 ---
 
 ## مقدمة
@@ -20,17 +20,23 @@ image: /assets/investigations/sawan/sawan-cover.png
 
 تضاربت الأخبار المتعلقة بالانفجار في وسائل التواصل الاجتماعي وفي المواقع الإخباريّة الرسميّة والمحليّة، إذ نشر [أيمن الشامي](https://www.facebook.com/aymn.alshamy2/posts/2143772315710022) عبر حسابه على موقع فيسبوك صورتين من هذا [الموقع](https://goo.gl/maps/eXGWGdxu8FBRnCyEA) لما قال إنّه قصف طيران في منطقة سعوان.
 
+
+صورة منشور [أيمن الشامي](https://www.facebook.com/aymn.alshamy2/posts/2143772315710022) على فيسبوك:
+
 ![](/assets/investigations/sawan/image18.png)
-صورة منشور [أيمن الشامي](https://www.facebook.com/aymn.alshamy2/posts/2143772315710022) على فيسبوك  
   
-![](/assets/investigations/sawan/image2.png)  
 تظهر أداة 4webhelp أن الخبر نُشر على فيسبوك في الساعة 11:43 صباحاً بتوقيت اليمن
+
+![](/assets/investigations/sawan/image2.png)
+
 
 في الساعة 11:46 بالتوقيت المحلي، نشرت صفحة ["أفراد عمران الصامتة" ](https://www.facebook.com/photo.php?fbid=409738183149944&set=a.333772017413228&type=3&theater) على فيسبوك  خبرًا يذكر سماع دوي انفجارات في منطقة سعوان في العاصمة صنعاء وكانت تلك أولى الأخبار الواردة حول حي سعوان. لاحقًا تتالت الأخبار والفرضيات المتضاربة المتعلقة بالحادثة، إذ نشر [محمد العمري](https://www.facebook.com/mohammdalomary/posts/2405497959482729) عبر حسابه الشخصي فيديو لآثار الانفجار الذي هزّ منزله. كما نشر [آصف اليمني](https://www.facebook.com/nx.maged/videos/2768959806462557/)،، من سكان المنطقة، فيديو التُقط من [هذا الموقع](https://goo.gl/maps/VN58W4AxZTopLEpx5) الجغرافي لحظة حدوث الانفجار الثاني. أظهر [مقطع فيديو](http://mubasher.aljazeera.net/news/%D9%81%D9%8A%D8%AF%D9%8A%D9%88-%D9%82%D8%B5%D9%81-%D9%8A%D9%82%D8%AA%D9%84-11-%D8%AA%D9%84%D9%85%D9%8A%D8%B0%D8%A9-%D8%A8%D8%B5%D9%86%D8%B9%D8%A7%D8%A1-%D9%88%D8%A7%D8%AA%D9%87%D8%A7%D9%85%D8%A7%D8%AA-%D9%84%D9%84%D8%AA%D8%AD%D8%A7%D9%84%D9%81-%D8%A8%D8%A7%D9%84%D9%85%D8%B3%D8%A4%D9%88%D9%84%D9%8A%D8%A9) لقناة الجزيرة آثارًا لشظايا الزجاج إثر الدمار الذي لحق بمدرسة الراعي، ظهر في المقطع جرحى الانفجار وهم يتلقون العلاج داخل أحد المستشفيات. إضافة إلى ذلك،  أظهر المقطع دخانًا متصاعدًا من آثار الأنقاض التي خلفها الانفجار في المنطقة، مما يدل على أن السلاح المستعمل هو سلاح أرضي وليس سلاحًا جويًا.
 
 في اليوم ذاته، نشر مستشار محافظة إب لشؤون الإعلام [تغريدة](https://twitter.com/br3_7/status/1114874873229320192?s=21) أكد فيها  حدوث انفجار تلى حريقًا في إحدى المستودعات القريبة من المدرسة، وتبين بالمشاهدة أنّ هذا الفيديو لا يحتوي على صوت صاروخ أو أي بقايا له.
 
-في اليوم التالي للانفجار؛ نشر الصحافي رماح الجبري [منشورًا](https://www.facebook.com/story.php?story_fbid=2352438718121040&id=100000648054657) على صفحته على موقع فيسبوك مرفقًا بأربعة فيديوهات صورها مواطنون مختلفون من مواقع مختلفة ([موقع 1](https://goo.gl/maps/oe8HJiQwZ2jpCTmaA)، [موقع 2](https://goo.gl/maps/aKvpbYZ8Cmvrcyqr5)، [موقع 3](https://goo.gl/maps/1ZVeN2sU1JfZdKuL7)، [موقع 4](https://goo.gl/maps/aWwufq31brkBQDfQA)) محاولًا إثبات أن ما حدث لم يكن قصفًا جويًا بل حريقًا متصاعدًا من أحد الأماكن في سعوان أعقبه انفجار ضخم قد يكون لمحطة وقود، إذ لم يُسمع صوت طيران أو قصف قبل أن يحدث الانفجار. في أحد الفيديوهات يقول أحد الأشخاص إنّ الورشة حُرقت ولم يقل قُصفت. في هذا [الفيديو](https://vimeo.com/353768698) يمكن مشاهدة الانفجار من زوايا مختلفة.
+في اليوم التالي للانفجار؛ نشر الصحفي رماح الجبري [منشورًا](https://www.facebook.com/story.php?story_fbid=2352438718121040&id=100000648054657) على صفحته على موقع فيسبوك مرفقًا بأربعة فيديوهات صورها مواطنون مختلفون من مواقع مختلفة ([موقع 1](https://goo.gl/maps/oe8HJiQwZ2jpCTmaA)، [موقع 2](https://goo.gl/maps/aKvpbYZ8Cmvrcyqr5)، [موقع 3](https://goo.gl/maps/1ZVeN2sU1JfZdKuL7)، [موقع 4](https://goo.gl/maps/aWwufq31brkBQDfQA)) محاولًا إثبات أن ما حدث لم يكن قصفًا جويًا بل حريقًا متصاعدًا من أحد الأماكن في سعوان أعقبه انفجار ضخم قد يكون لمحطة وقود، إذ لم يُسمع صوت طيران أو قصف قبل أن يحدث الانفجار. في أحد الفيديوهات يقول أحد الأشخاص إنّ الورشة حُرقت ولم يقل قُصفت. في هذا [الفيديو](https://vimeo.com/353768698) يمكن مشاهدة الانفجار من زوايا مختلفة:
+
+<iframe src="https://player.vimeo.com/video/353768698" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 نشرت مواقع عدة يمنيّة معلومات مختلفة عمّا حدث في سعوان، مما زاد التضارب. ففي يوم الحادثة؛ نشرت  [قناة سهيل الفضائيّة](https://www.facebook.com/suhailchannel/photos/a.1418413265063121/2300881183482987/?type=3&theater) على صفحتها في فيسبوك خبر مقتل وإصابة عدد من الطالبات جراء انفجار ناقلة غاز بالقرب من إحدى مدارس البنات في حي سعوان شرق العاصمة صنعاء. كما غرد موقع [المشهد اليمني](https://twitter.com/mashhadyemeni/status/1114872883933847553?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1114872883933847553&ref_url=https%3A%2F%2Fwww.almashhad-alyemeni.com%2F130090)  على حسابه على تويتر مقطع فيديو، تداولته حسابات أخرى، مصوّر من [مكان قريب](https://goo.gl/maps/aWwufq31brkBQDfQA). في اليوم نفسه، نشر [موقع المسيرة](https://www.almasirah.net/details.php?es_id=38012&cat_id=3) التابع لجماعة أنصار الله تقريرًا عن ارتفاع عدد ضحايا قصف التحالف العربي على مدرسة ومنازل بمنطقة سعوان إلى أكثر من مئة شخص بين قتيل وجريح. بعد ساعات قليلة، نشر موقع  [عرب برس](http://arabicpress.net/viewnews.asp?id=983)  عن الحادثة خبرًا جاء في بيانه: "مقتل ثلاث طالبات بسبب انفجار كبير هزّ منطقة سعوان في صنعاء وأسفر عن التهام ألسنة اللهب هنجّر مصنع الكربون، الواقع بجوار مدرسة الراعي للبنات في المنطقة وقريب إلى جولة الأربعين، وأنباء عن ارتفاع عدد الضحايا جراء حالات الاختناق". وأكد مصدر في صنعاء لـ"عرب برس أنّ انفجاراً كبيراً هزّ منطقة سعوان وتصاعدت أعمدة الدخان من هنجّر مصنع الكربون. وقال إنّ المصنع يحتوي على مواد كيمائية، وأكد مقتل ثلاث طالبات وإصابة عدد كبير منهنّ، وأشار إلى إن قوة الانفجار أسفر عنه تطاير شظايا إلى الأحياء المجاورة وخلّف أضراراً بالمنازل.
 
@@ -122,15 +128,3 @@ image: /assets/investigations/sawan/sawan-cover.png
 ![](/assets/investigations/sawan/sawan20.jpg)
 
 ![](/assets/investigations/sawan/sawan21.jpg)
-
-صور حصرية من فريق الأرشيف اليمني:
-
-![](/assets/investigations/sawan/sawan30.jpg)
-![](/assets/investigations/sawan/sawan31.jpg)
-![](/assets/investigations/sawan/sawan32.jpg)
-![](/assets/investigations/sawan/sawan33.jpg)
-![](/assets/investigations/sawan/sawan34.jpg)
-![](/assets/investigations/sawan/sawan35.jpg)
-![](/assets/investigations/sawan/sawan36.jpg)
-![](/assets/investigations/sawan/sawan37.jpg)
-![](/assets/investigations/sawan/sawan38.jpg)
