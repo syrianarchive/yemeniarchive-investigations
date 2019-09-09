@@ -1,9 +1,9 @@
 ---
 layout: investigation.html
-title: "انفجار سعوان"
-date: 2019-08-22
+title: "الحقيقة غائبة عن انفجار مستودع الحوثيين في سعوان"
+date: 2019-09-09
 desc: "مقتل 14 مدني في انفجار في سعوان - صنعاء"
-image: /assets/investigations/sawan/image6.png
+image: /assets/investigations/sawan/sawan-cover.png
 ---
 
 ## مقدمة
@@ -107,7 +107,7 @@ image: /assets/investigations/sawan/image6.png
 ![](/assets/investigations/sawan/image8.png)  
   
 
-<iframe frameborder="0" class="juxtapose" width="100%" height="717" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=5faf0e72-79a2-11e9-8e74-0edaf8f81e27"></iframe>
+<iframe frameborder="0" class="juxtapose" width="100%" height="400px" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=5faf0e72-79a2-11e9-8e74-0edaf8f81e27"></iframe>
 
 خلال زيارة ميدانيّة لموقع الحادثة؛ عثر فريق الأرشيف اليمني على بقايا قنابل يدويّة، وتبين بعد تحليل إحدى القنابل المُستعملة أنّها تحمل هيكل [Mk 2A1](http://www.inert-ord.net/usa03a/usa2/mk2sp/index.html) الذي طُوّر خلال الحرب العالميّة الثانية من قبل الولايات المتحدة الأمريكيّة. يؤكد البحث على أنّ العديد من الدول مثل [إيران](http://tgrm.foxed.ca/Americangrenades/Mk%20II/The%20Mk%202%20grenade.html) و[الصين](https://www.jmu.edu/cisr/_pages/research/iraq-oig/05-grenade.pdf?fbclid=IwAR2eaBi2mfz1z3d9sxVlyakTVHnhXU0JXbKmG7NCmrad9FLXagXCvtn-ZPs) و[إسرائيل](http://tgrm.foxed.ca/Americangrenades/Mk%20II/The%20Mk%202%20grenade.html) أعادت تطويرها وتصنيعها باستخدام نفس الهيكل وآلية العمل، لذا لم يستطع الأرشيف اليمني تحديد مصدر القنبلة بدقة.
 
@@ -119,18 +119,18 @@ image: /assets/investigations/sawan/image6.png
 
 بالإضافة إلى صور الأرشيف اليمني، نشر بعض أصحاب البيوت المجاورة لموقع القصف صورًا تُظهر آثار الدمار الذي لحق ببيوتهم. مثلًا، نشر [محمد حميد الحسام](https://www.facebook.com/permalink.php?story_fbid=909679816040573&id=100009956893824) صورًا ضمن منشور على صفحته الشخصية في موقع فيسبوك يقول فيه إنّ بيته، الذي يبعد ثلاثين مترًا من موقع الانفجارات، أصيب بأضرار ماديّة كبيرة.
 
-![](/assets/investigations/sawan/sawan20)
+![](/assets/investigations/sawan/sawan20.jpg)
 
-![](/assets/investigations/sawan/sawan21)
+![](/assets/investigations/sawan/sawan21.jpg)
 
 صور حصرية من فريق الأرشيف اليمني:
 
-![](/assets/investigations/sawan/sawan30)
-![](/assets/investigations/sawan/sawan31)
-![](/assets/investigations/sawan/sawan32)
-![](/assets/investigations/sawan/sawan33)
-![](/assets/investigations/sawan/sawan34)
-![](/assets/investigations/sawan/sawan35)
-![](/assets/investigations/sawan/sawan36)
-![](/assets/investigations/sawan/sawan37)
-![](/assets/investigations/sawan/sawan38)
+![](/assets/investigations/sawan/sawan30.jpg)
+![](/assets/investigations/sawan/sawan31.jpg)
+![](/assets/investigations/sawan/sawan32.jpg)
+![](/assets/investigations/sawan/sawan33.jpg)
+![](/assets/investigations/sawan/sawan34.jpg)
+![](/assets/investigations/sawan/sawan35.jpg)
+![](/assets/investigations/sawan/sawan36.jpg)
+![](/assets/investigations/sawan/sawan37.jpg)
+![](/assets/investigations/sawan/sawan38.jpg)

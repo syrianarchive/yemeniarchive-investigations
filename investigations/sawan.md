@@ -1,9 +1,9 @@
 ---
 layout: investigation.html
-title: "Sawan explosions"
-date: 2019-03-28
+title: "The hidden truth in the explosion of the Houthi warehouse in Sawan"
+date: 2019-09-09
 desc: "14 civilians killed as a result of explosions in Sawan - Sanaa"
-image: /assets/investigations/sawan/image6.png
+image: /assets/investigations/sawan/sawan-cover.png
 ---
 
 ## Introduction
@@ -104,7 +104,7 @@ Below, a photo posted by [Mohammed Al-Hussam](https://www.facebook.com/permalink
   
 ![](/assets/investigations/sawan/image8.png)  
   
-<iframe frameborder="0" class="juxtapose" width="100%" height="717" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=5faf0e72-79a2-11e9-8e74-0edaf8f81e27"></iframe>
+<iframe frameborder="0" class="juxtapose" width="100%" height="400px" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=5faf0e72-79a2-11e9-8e74-0edaf8f81e27"></iframe>
 
 During a field visit to the impact site, the Yemeni Archive team found the remains of hand grenades, and after analysing one of the used bombs, it found that it had a structure of [Mk 2A1](http://www.inert-ord.net/usa03a/usa2/mk2sp/index.html ) which was developed during World War II by the United States. Research confirms that many countries such as [Iran](http://tgrm.foxed.ca/Americangrenades/Mk%20II/The%20Mk%202%20grenade.html), [China](https://www.jmu.edu/cisr/_pages/research/iraq-oig/05-grenade.pdf?fbclid=IwAR2eaBi2mfz1z3d9sxVlyakTVHnhXU0JXbKmG7NCmrad9FLXagXCvtn-ZPs) and [Israel](http://tgrm.foxed.ca/Americangrenades/Mk%20II/The%20Mk%202%20grenade.html) redeveloped and manufactured these bombs using the same structure and work mechanism, so The Yemeni Archive could not determine the exact source of the bomb.
 
@@ -116,18 +116,18 @@ According to the assessment of the field investigation team; Sawan neighborhood 
 
 In addition to the Yemeni Archive photos, some of the owners of the houses adjacent to the impact site publidhed photos showing the destruction in their homes. For example, [Mohammed Hamid al-Husam](https://www.facebook.com/permalink.php?story_fbid=909679816040573&id=100009956893824) posted photos on his Facebook account saying that his house, thirty meters from the site of the blasts,  suffered significant material damage.
 
-![](/assets/investigations/sawan/sawan20)
+![](/assets/investigations/sawan/sawan20.jpg)
 
-![](/assets/investigations/sawan/sawan21)
+![](/assets/investigations/sawan/sawan21.jpg)
 
 Exclusive photos from investigation team:
 
-![](/assets/investigations/sawan/sawan30)
-![](/assets/investigations/sawan/sawan31)
-![](/assets/investigations/sawan/sawan32)
-![](/assets/investigations/sawan/sawan33)
-![](/assets/investigations/sawan/sawan34)
-![](/assets/investigations/sawan/sawan35)
-![](/assets/investigations/sawan/sawan36)
-![](/assets/investigations/sawan/sawan37)
-![](/assets/investigations/sawan/sawan38)
+![](/assets/investigations/sawan/sawan30.jpg)
+![](/assets/investigations/sawan/sawan31.jpg)
+![](/assets/investigations/sawan/sawan32.jpg)
+![](/assets/investigations/sawan/sawan33.jpg)
+![](/assets/investigations/sawan/sawan34.jpg)
+![](/assets/investigations/sawan/sawan35.jpg)
+![](/assets/investigations/sawan/sawan36.jpg)
+![](/assets/investigations/sawan/sawan37.jpg)
+![](/assets/investigations/sawan/sawan38.jpg)
