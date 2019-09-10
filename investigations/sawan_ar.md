@@ -1,7 +1,7 @@
 ---
 layout: investigation.html
 title: "تحقيق استقصائي: الحقيقة غائبة عن انفجار مستودع الحوثيين في سعوان"
-date: 2019-09-09
+date: 2019-09-10
 desc: "مقتل 14 مدني في انفجار في سعوان - صنعاء"
 image: /assets/investigations/sawan/sawan-cover2.png
 ---

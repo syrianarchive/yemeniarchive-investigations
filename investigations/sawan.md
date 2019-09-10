@@ -1,7 +1,7 @@
 ---
 layout: investigation.html
 title: "The hidden truth in the explosion of the Houthi warehouse in Sawan"
-date: 2019-09-09
+date: 2019-09-10
 desc: "14 civilians killed as a result of explosions in Sawan - Sanaa"
 image: /assets/investigations/sawan/sawan-cover2.png
 ---
