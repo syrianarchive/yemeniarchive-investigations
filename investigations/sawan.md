@@ -8,7 +8,7 @@ image: /assets/investigations/sawan/sawan-cover2.png
 
 ## Introduction
 
-On April 7, 2019, two explosions occurred in the Sawan area east of the Yemen's capital Sana'a. The explotions coincided with  airstrikes around the city by the Saudi-led Arab Coalition. It was not immediately clear what happened as there were many narratives of the incident. Yemeni Archive went to the impact site, inspected it, and met with residents in the neighbourhood to gain a better understanding of what happened. In addition to field research, our team relied on open-source content like videos, photos and reports found online, which we verified.
+On April 7, 2019, two explosions occurred in the Sawan area east of the Yemen's capital Sana'a. The explotions coincided with airstrikes around the city by the Saudi-led Arab Coalition. It was not immediately clear what happened as there were many narratives of the incident. Yemeni Archive went to the impact site, inspected it, and met with residents in the neighbourhood to gain a better understanding of what happened. In addition to field research, our team relied on open-source content like videos, photos and reports found online, which we verified.
 
 open-source tools to verify videos, photos, and reports posted on the Internet, as well as gathering information from eyewitnesses and analysing media coverage of the incident.
 
@@ -16,7 +16,7 @@ Based on the available information, as well as interviews with eyewitnesses of t
 
 The explosions destroyed houses around the warehouse as well as four schools located nearby. A number of reports indicate that at least fifteen students were killed and more than 100 students were injured as a result of these explosions. Based on the available documentation and witness statements, Yemeni Archive was not able to determine the cause of the explosions. Reports are inconclusive, and at times contradictory with the smoke of the first explosion not clearly indicating that the warehouse was targeted in a missile strike.
 
-After the explosions, the Houthis changed the official who had been in charge of statistics, and prevented the new official from publishing any information regarding the explosions and resulting casualties. The Houthis, or Ansar Allah movement, is a Zaidi religious movement based in Saada, north of Yemen. It was founded in the early 1990s under the name of "the Young Believers Movement" and then Ansar Allah, but is more widely known by media as the Houthis after the movement's founder Badr al-Din al-Houthi. Currently led by Abdul Malik bin Badr al-Din al-Huthi, the group is a major party to the conflict in Yemen,  controlling much of western Yemen from the capital Sana'a to the coast.
+After the explosions, the Houthis changed the official who had been in charge of statistics, and prevented the new official from publishing any information regarding the explosions and resulting casualties. The Houthis, or Ansar Allah movement, is a Zaidi religious movement based in Saada, north of Yemen. It was founded in the early 1990s under the name of "the Young Believers Movement" and then Ansar Allah, but is more widely known by media as the Houthis after the movement's founder Badr al-Din al-Houthi. Currently led by Abdul Malik bin Badr al-Din al-Huthi, the group is a major party to the conflict in Yemen, controlling much of western Yemen from the capital Sana'a to the coast.
 
 ## Conflicting information regarding the incident
 There were conflicting social media, official, and local news reports about the explosion . [Ayman al-Shami](https://www.facebook.com/aymn.alshamy2/posts/2143772315710022) posted two photos on his Facebook account from [this location](https://goo.gl/maps/eXGWGdxu8FBRnCyEA) where he claimed there was an aerial bombardment on Sawan area.
@@ -29,7 +29,7 @@ There were conflicting social media, official, and local news reports about the 
 The 4webhelp tool shows that the post was published on Facebook at 11:43 am Yemen time:
 ![](/assets/investigations/sawan/image2.png)
 
-At 11:46 local time, the Facebook page of the  ["silent individuals of Imran"](https://www.facebook.com/photo.php?fbid=409738183149944&set=a.333772017413228&type=3&theater) published a post mentioning sounds of explosions in the Sawan area of ​​the capital Sana'a. Later, conflicting news and hypotheses related to the incident followed. For example on his Facebook account, [Mohammed Al-Omari](https://www.facebook.com/mohammdalomary/posts/2405497959482729) posted a video showing the aftermath of an explosion that shook his house. [Asif al-Yamani](https://www.facebook.com/nx.maged/videos/2768959806462557/), a resident of the area, also posted a video taken from [this location](https://goo.gl/maps/VN58W4AxZTopLEpx5) documenting the second explosion.
+At 11:46 local time, the Facebook page of the ["silent individuals of Imran"](https://www.facebook.com/photo.php?fbid=409738183149944&set=a.333772017413228&type=3&theater) published a post mentioning sounds of explosions in the Sawan area of ​​the capital Sana'a. Later, conflicting news and hypotheses related to the incident followed. For example on his Facebook account, [Mohammed Al-Omari](https://www.facebook.com/mohammdalomary/posts/2405497959482729) posted a video showing the aftermath of an explosion that shook his house. [Asif al-Yamani](https://www.facebook.com/nx.maged/videos/2768959806462557/), a resident of the area, also posted a video taken from [this location](https://goo.gl/maps/VN58W4AxZTopLEpx5) documenting the second explosion.
 
 [A third video](http://mubasher.aljazeera.net/news/%D9%81%D9%8A%D8%AF%D9%8A%D9%88-%D9%82%D8%B5%D9%81-%D9%8A%D9%82%D8%AA%D9%84-11-%D8%AA%D9%84%D9%85%D9%8A%D8%B0%D8%A9-%D8%A8%D8%B5%D9%86%D8%B9%D8%A7%D8%A1-%D9%88%D8%A7%D8%AA%D9%87%D8%A7%D9%85%D8%A7%D8%AA-%D9%84%D9%84%D8%AA%D8%AD%D8%A7%D9%84%D9%81-%D8%A8%D8%A7%D9%84%D9%85%D8%B3%D8%A4%D9%88%D9%84%D9%8A%D8%A9), published by Al-Jazeera, shows traces of glass fragments as well as the destruction in Al-Ra'ii School. The video also shows injured people being treated in a hospital, as well as smoke rising from the debris left by the explosion in the area. This indicates that the used weapon was land-based, rather than a result of an air weapon.
 
@@ -39,17 +39,17 @@ On his Facebook page the next day, journalist Ramah al-Jabri [published a post](
 
 <iframe src="https://player.vimeo.com/video/353768698" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-Several Yemeni websites published inconsistent information about what happened in Sawan. On the day of the incident, the [Suhail TV Channel](https://www.facebook.com/suhailchannel/photos/a.1418413265063121/2300881183482987/?type=3&theater) published a post on its Facebook page which mentioned that a number of female students had died or been injured as a result of  gas tanker exploding near a girls' school in Sawan.
+Several Yemeni websites published inconsistent information about what happened in Sawan. On the day of the incident, the [Suhail TV Channel](https://www.facebook.com/suhailchannel/photos/a.1418413265063121/2300881183482987/?type=3&theater) published a post on its Facebook page which mentioned that a number of female students had died or been injured as a result of gas tanker exploding near a girls' school in Sawan.
 
 The [Al-Mashhad Yemeni](https://twitter.com/mashhadyemeni/status/1114872883933847553?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1114872883933847553&ref_url=https%3A%2F%2Fwww.almashhad-alyemeni.com%2F130090) Twitter account published a video circulated by other accounts that was [filmed nearby](https://goo.gl/maps/aWwufq31brkBQDfQA) the impact site.
 
-On the same day, [Al-Masira website](https://www.almasirah.net/details.php?es_id=38012&cat_id=3), of the Ansar Allah group, reported on the bombing on a school and houses in  Sawan by the Arab Coalition. Their reporting increased the number of victims to more than one hundred dead and injured. A few hours after the incident, [Arab Press](http://arabicpress.net/viewnews.asp?id=983) published an article in which they stated: "Three students were killed by a big explosion that rocked Sawan area in Sana'a. The explosion was caused by the burning of the carbon plant warehouse, located next to Al-Ra'ii Girls School in the area and close to the 40th round, and reports of high casualties due to suffocation."
+On the same day, [Al-Masira website](https://www.almasirah.net/details.php?es_id=38012&cat_id=3), of the Ansar Allah group, reported on the bombing on a school and houses in Sawan by the Arab Coalition. Their reporting increased the number of victims to more than one hundred dead and injured. A few hours after the incident, [Arab Press](http://arabicpress.net/viewnews.asp?id=983) published an article in which they stated: "Three students were killed by a big explosion that rocked Sawan area in Sana'a. The explosion was caused by the burning of the carbon plant warehouse, located next to Al-Ra'ii Girls School in the area and close to the 40th round, and reports of high casualties due to suffocation."
 
 A source in Sanaa told Arab Press that a large explosion rocked ​​Sawan, and that smoke plumes from carbon plant building were visible. He said that the factory contained chemicals, and confirmed that three students had died and many had been injured. The source further pointed out that the explosion's force resulted in shrapnel being spread to the nearby neighbourhoods and damaged several houses.
 
 There have been several narratives regarding the explosion. Several news websites and TV channels, including by Al-Arabiya Al-Hadath TV (one of the Arab Coalition's media platforms), have reported that the explosion was caused by an airstrike launched by the Saudi-led Arab Coalition forces.
 
-![](/assets/investigations/sawan/image6.png)  
+![](/assets/investigations/sawan/image6.png)
 Breaking news on Al-Hadath channel after the explosion ([Source](http://www.almshhadalyemeni.net/111460/))
 
 Al-Arabiya and Al-Arabiya Al-Hadath later republished news of the explosion hourly on all its news bulletins until 1:00pm GMT. In their coverage, [Al-Arabiya](https://www.youtube.com/watch?v=oVZYQJlr-pc), [Sky News](https://www.youtube.com/watch?v=noGW2gxEkfc) and Saudi News channels each broadcast statements by the Joint Command of the Arab Coalition denying any military operations of the coalition inside Sanaa. The further stated that the operation is limited to the perimeter of the capital.
@@ -113,10 +113,10 @@ Below is a photo taken by Yemeni Archive of the impact site.
 
 Another photo, posted below, was uploaded by [Mohammed Al-Hussam](https://www.facebook.com/permalink.php?story_fbid=909679816040573&id=100009956893824), a resident living near the impact site, to his Facebook account.
 
-![](/assets/investigations/sawan/image13.png)  
+![](/assets/investigations/sawan/image13.png)
 
 
-![](/assets/investigations/sawan/image8.png)  
+![](/assets/investigations/sawan/image8.png)
 
 <iframe frameborder="0" class="juxtapose" width="100%" height="400px" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=5faf0e72-79a2-11e9-8e74-0edaf8f81e27"></iframe>
 
