@@ -93,7 +93,7 @@ The picture also depicts trees behind the wall of Al-Ra'ii School (green), Al-Ta
 
 ![](/assets/investigations/sawan/image19.jpg)
 
-Based on the source of smoke in this picture, Yemeni Archive has determined that it is likely the explosion was caused by shelling within the yellow-defined area on the following Google map.
+Looking at the source of the smoke in the previous picture, Yemeni Archive has determined that it is likely that the smoke from the explosion occurred within the area defined in yellow on the following Google map.
 
 ![](/assets/investigations/sawan/image1.png)
 
@@ -128,7 +128,7 @@ Research confirms that many countries, such as [Iran](http://tgrm.foxed.ca/Ameri
 
 ![](/assets/investigations/sawan/image3.png)
 
-Sawan neighborhood is a newly constructed neighbourhood, and the explosion caused the destruction of a nearby house inhabited by three families, as well as severe damage to an additional house. The explosion also shattered doors and windows, destroyed the fence of the workshop adjacent to the warehouse, the inner room of the workshop.
+Sawan neighbourhood is a newly constructed neighbourhood, and the explosion caused the destruction of a nearby house inhabited by three families, as well as severe damage to an additional house. The explosion also shattered doors and windows, destroyed the fence of the workshop adjacent to the warehouse, the inner room of the workshop.
 
 In addition to the photos published by Yemeni Archive, some of the owners of the houses adjacent to the impact site published photos showing the destruction in their homes. For example, [Mohammed Hamid al-Husam](https://www.facebook.com/permalink.php?story_fbid=909679816040573&id=100009956893824) posted photos on his Facebook account in which he states that his house, thirty meters from the site of the blasts, suffered significant material damage.
 
