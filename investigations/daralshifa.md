@@ -1,3 +1,11 @@
+---
+layout: investigation.html
+title: "Airstrikes Dar al Shifa Specialised Medical Centre in Saada"
+date: 2019-11-14
+desc: "Airstrikes Dar al Shifa Specialised Medical Centre in Saada"
+image: /assets/investigations/Hunud/7.jpg
+---
+
 # Airstrikes Dar al Shifa Specialised Medical Centre in Saada
 
 Yemeni Archive collected images and videos published on social media and news networks, and analysed and verified them using open source tools. Yemeni Archive found out that Dar al Shifa Specialised Medical Center, and a civilian house behind the centre, in the Masa'bah area in the Sahar district of Saada Governorate, were targeted by the Saudi-led coalition on January 22, 2018. Saada Governorate is located in northern Yemen, about 234.3 km from the capital Sana'a, and is considered to be a stronghold of Houthi movement, one of the main parties to the conflict in Yemen.
