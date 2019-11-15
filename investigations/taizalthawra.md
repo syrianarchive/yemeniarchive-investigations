@@ -6,8 +6,6 @@ desc: "Systematic Attacks on Al-Thawra Hospital in Taiz"
 image: /assets/investigations/Hunud/7.jpg
 ---
 
-## Systematic Attacks on Al-Thawra Hospital in Taiz
-
 By collecting and analysing images and videos published on social media and news networks, Yemeni Archive concluded that Al-Thawra Hospital in [Taiz](https://www.google.com/maps/place/%D9%85%D8%AF%D9%8A%D8%B1%D9%8A%D8%A9+%D8%A7%D9%84%D8%AA%D8%B9%D8%B2%D9%8A%D8%A9%D8%8C+%D8%A7%D9%84%D9%8A%D9%8E%D9%85%D9%8E%D9%86%E2%80%AD/@13.5833496,44.0506948,13z/data=!3m1!4b1!4m5!3m4!1s0x161c692afdf672bb:0x800766c2f9603088!8m2!3d13.5775886!4d44.0177989?hl=ar) was attacked on three separate occasions and targeted on each occasion multiple times with rocket-propelled grenades and other munitions. According to the evidence and sources analysed, the vicinity of Al-Thawra Hospital was struck by a number of missiles targeting medical departments, doctors' residences, the hospital gate and nearby houses. Attacks resulted in casualties from civilians, patients and medical staff working in the hospital.
 
 The [first attack](https://www.facebook.com/photo.php?fbid=996807716998543&set=a.572686366077349&type=3) began at 11:30 pm on June 20, 2015 and continued until 2:00 am the following day, meaning that the attack consisted of two and a half hours of continuous shelling on hospital departments.
