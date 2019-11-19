@@ -114,7 +114,7 @@ The first posting on the attack was a tweet by the Taiz Monitor [Twitter](https:
 
 ![](/assets/althawra-image20.png) 
  
-![](/assets/althawra-image21.png)  
+![](/assets/althawra-image21.jpg)  
 
 ## Landmarks and Geolocation
 
@@ -130,13 +130,13 @@ Satellite maps show the [location](https://www.google.com/maps/place/%D9%85%D8%B
 
 The photo published by the Media Center of the Popular Resistance - Taiz on its Facebook page, which claimed it was an exclusive picture of the fall of a shell in front of Al-Thawra Hospital also s matches with satellite images on Google Earth. The visual shows “Cafeteria Shabab Taiz” opposite to the hospital gate as well as a high-rise white building. Yemeni Archive was able to locate the site on Google Earth maps as shown in the following image:
 
-![](/assets/althawra-image25.png)  
+![](/assets/althawra-image25.jpg)  
 
 In the second attack on October 25, 2015, comparing the photos and videos published on the day of the attack with satellite images allows us to determine that the shell landed on the left side of the big building inside Al-Thawra Hospital.
 
-![](/assets/althawra-image26.png)  
+![](/assets/althawra-image26.jpg)  
 
-![](/assets/althawra-image27.png)  
+![](/assets/althawra-image27.jpg)  
 
 ## The impact of the attack and the weapons used
 
@@ -148,27 +148,27 @@ In one room said to house doctors, a comparison of [video](https://www.youtube.c
 
 The [images](https://www.icrc.org/sites/default/files/styles/document_photo_gallery_detail_file/public/document/file_list/yemen-shelling-hospital-al-thawra-taiz-2.jpg?itok=iOKAuyIS) published by the Red Cross also matched those of the scene shown in the Yemen Shabab  [video](https://www.youtube.com/watch?v=Um7mpUme8cA&t=26s).
 
-![](/assets/althawra-image29.png)  
+![](/assets/althawra-image29.jpg)  
 
 Houthi Violations also published an [image](https://www.facebook.com/Houthis.Crimes.Ye/photos/pcb.1598349507102616/1598349490435951/?type=3&theater) that matched that of Saleh al-Hakami's video.
 
-![](/assets/althawra-image30.png)  
+![](/assets/althawra-image30.jpg)  
 
 The following [pictures](https://www.facebook.com/AnadoluAgency.AR/posts/943813435739795?__xts__%5B0%5D=68.ARD3aWxLIWqJR07feyseniQzjWidj4-KAOLf25JIt3iwBXtG-RdrDqqBH1VckOLHYFrW6gX_hkdKs4-IsorKgk03dEcIdN91Mb3NzQVv59On37sOgel4qA2DQGcPZqEEu9KmpmTi3l6FQwPwEd9uIJlRaRzd10sRa37SoFX6Pj7UO4Mep_TJFaBH1I4dWiBs-vzswGheh8s1qQ8bPJ8FfcEsUa8Uvc8cTicknnJZbSib5IZGN2bAYXMnfvz8eq0eQBYYxRPCaGBXiUD8ZcMCspJSX1fVHRUvQqIrUq_ergwz5x72w3k0AWY3Ikrsd0KKGFLgGEvoZU2s-PAbzZhLFTc&__tn__=-R) are published by Anadolu News Agency on its Facebook page showing the destruction inside Al-Thawra Hospital, followed by pictures taken from news reports mentioned earlier in this investigation.
 
 Most of the allegations in news channels, videos and photos posted on social media said the attack was carried out with mortars and tank shells fired by Houthis forces. Yemeni Archive found several photographs documenting the remnants of the munitions used in the attack. The photos show a rocket-propelled grenade, while one [video](https://www.youtube.com/watch?v=a5VGpj7S7is) shows the impact of gunshots that hit the hospital's windows, which is consistent with testimonies about the attack indicating that the hospital was shelled with a number of mortar shells and tanks. There were as well as the sound of gunshots heard in another video, and one eyewitness says in this video that "ten sniper shots hit the war relief unit."
 
-![](/assets/althawra-image31.png)  
+![](/assets/althawra-image31.jpg)  
 
-![](/assets/althawra-image32.png)  
+![](/assets/althawra-image32.jpg)  
 
 In the following images, the remains and fragments of the shell structure are taken from various sources mentioned above ([source](https://www.facebook.com/Houthis.Crimes.Ye/posts/1598349507102616) 1, [source](https://www.facebook.com/photo.php?fbid=846922152058641&set=a.446969215387272&type=3) 2, [source](https://www.facebook.com/photo.php?fbid=788543347934976&set=a.372513902871258&type=3&theater) 3, [source](https://www.facebook.com/permalink.php?story_fbid=908776209202487&id=100002103506944) 4).
 
-![](/assets/althawra-image34.png)  
+![](/assets/althawra-image34.jpg)  
 
-![](/assets/althawra-image35.png)  
+![](/assets/althawra-image35.jpg)  
 
-![](/assets/althawra-image36.png)  
+![](/assets/althawra-image36.jpg)  
 
 
 Casualties resulting from attacks
