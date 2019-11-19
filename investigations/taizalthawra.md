@@ -92,7 +92,7 @@ Taha Saleh’s post, the first identified, was published at 09:45 am local time.
   
 In the post of the Media Center of the Popular Resistance - Taiz, a picture shows smoke from a shell which landed in front of the hospital gate according to the post. Using the [Shadow Calculator](http://shadowcalculator.eu/) tool, it confirms that the attack was around 9:46 am local time in Taiz.
 
-![](/assets/althawra-image16.png)  
+![](/assets/althawra-image16.jpg)  
 
 While social media reported that there was another shell and published a number of photos and a video showing rising smoke, Taiz News Network posted a [video](https://www.facebook.com/Taiz.Network.N/videos/453805174824244/) on Facebook showing the shadows of people near the scene of the bombing. Using the previous tool, we can confirm that the second shelling ]\ took place around 12:00 local time in Taiz.
 
