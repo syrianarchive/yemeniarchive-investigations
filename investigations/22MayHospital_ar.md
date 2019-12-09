@@ -3,7 +3,7 @@ layout: investigation.html
 title: "استهداف مستشفى 22 مايو الحكومي بمدينة الحديدة"
 date: 2019-12-09
 desc: "استهداف مستشفى 22 مايو الحكومي بمدينة الحديدة"
-image: /assets/daralshifaheader.png
+image: /assets/22_may_hospital.png
 ---
 
 

@@ -3,7 +3,7 @@ layout: investigation.html
 title: "Multiple attacks on 22 May Hospital in Al Hudaydah"
 date: 2019-12-09
 desc: "Multiple attacks on 22 May Hospital in Al Hudaydah"
-image: /assets/daralshifaheader.png
+image: /assets/22_may_hospital.png
 ---
 
 By collecting, verifying and analysing open source data, Yemeni Archive can conclude that 22 May Hospital was attacked on multiple occasions in 2018 and 2019. The hospital is [located](https://www.google.com/maps/place/Hospital+May+22/@14.7888878,43.0025045,20z/data=!4m5!3m4!1s0x16053b5ef48f0637:0xb5e9110a5bb284af!8m2!3d14.7890751!4d43.0025261?shorturl=1) on Al Khamseen Street in Al Hudaydah, a city in western Yemen on the Red Sea coast.

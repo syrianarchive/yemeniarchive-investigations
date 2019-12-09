@@ -3,7 +3,7 @@ layout: investigation.html
 title: "استهداف مستشفى كتاف الريفي"
 date: 2019-12-09
 desc: "استهداف مستشفى كتاف الريفي"
-image: /assets/daralshifaheader.png
+image: /assets/Kitaf_hospital.png
 ---
 
 الموقع مستشفى كتاف الريفي الذي يقع بمنطقة كتاف الواقعة على مبعدة نحو 100 كلم من محافظة صعدة التي تقع شمال غرب العاصمة صنعاء.
