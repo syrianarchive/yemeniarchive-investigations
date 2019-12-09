@@ -1,6 +1,10 @@
-# استهداف مستشفى كتاف الريفي
-
-
+---
+layout: investigation.html
+title: "استهداف مستشفى كتاف الريفي"
+date: 2019-12-09
+desc: "استهداف مستشفى كتاف الريفي"
+image: /assets/daralshifaheader.png
+---
 
 الموقع مستشفى كتاف الريفي الذي يقع بمنطقة كتاف الواقعة على مبعدة نحو 100 كلم من محافظة صعدة التي تقع شمال غرب العاصمة صنعاء.
 
@@ -15,10 +19,6 @@
 عدد الجرحى المبلغ عنهم 8 أشخاص
 
 المسؤول المحتمل عن الهجوم قوات التحالف
-
-
-
-
 
 
 تحقق الأرشيف اليمني، بعد جمع وتحليل المعلومات والصور والأدلّة البصريّة التي نُشرت على مواقع التواصل الاجتماعي وشبكات الأخبار، عن القصف الجوي الذي استهدف محطة وقود بالقرب من مستشفى كتاف الريفي للأطفال في الساعة التاسعة والنصف صباحًا بتاريخ 26 آذار/مارس 2019 ، والذي [يقع](https://www.google.com/maps/place/17%C2%B002'04.3%22N+44%C2%B006'30.2%22E/@17.0346306,44.1082556,52m/data=!3m1!1e3!4m5!3m4!1s0x0:0x0!8m2!3d17.034533!4d44.1084) في منطقة كتاف الواقعة على بعد حوالي 100 KM من محافظة صعدة شمال اليمن، والتي تمّ [السيطرة](http://web.archive.org/web/20161219064610/http://www.economist.com/news/middle-east-and-africa/21620284-are-they-ansar-houthis-take-over) عليها من قبل قوات الحوثيين عام 2014. وأدى هذا [الهجوم الصاروخي](https://www.alarab.qa/story/1353063/%D8%B4%D8%A7%D9%87%D8%AF-%D9%82%D8%B5%D9%81-%D8%B3%D8%B9%D9%88%D8%AF%D9%8A-%D9%84%D9%85%D8%B3%D8%AA%D8%B4%D9%81%D9%89-%D8%A8%D8%A7%D9%84%D9%8A%D9%85%D9%86-%D9%88%D9%85%D9%82%D8%AA%D9%84-7-%D8%A8%D9%8A%D9%86%D9%87%D9%85-4-%D8%A3%D8%B7%D9%81%D8%A7%D9%84) إلى تدمير المستشفى بشكل جزئي [وسقوط](https://twitter.com/MohammedalKibsi/status/1110635151623704578) سبعة قتلى مدنيين، أربعة منهم أطفال، و[إصابة](https://thenewkhalij.news/index.php/article/145007/%D8%B3%D9%8A%D8%A7%D8%B3%D8%A9-%D8%AA%D9%83%D9%87%D9%86%D8%A7%D8%AA-%D8%A8%D8%AA%D9%88%D8%B1%D8%B7-%D8%A8%D8%B1%D9%8A%D8%B7%D8%A7%D9%86%D9%8A%D9%8A%D9%86-%D9%81%D9%8A-%D9%82%D8%B5%D9%81-%D9%85%D8%B3%D8%AA%D8%B4%D9%81%D9%89-%D9%84%D9%84%D8%A3%D8%B7%D9%81%D8%A7%D9%84-%D8%A8%D8%A7%D9%84%D9%8A%D9%85%D9%86) ثمانية مدنيين آخرين.
@@ -80,21 +80,6 @@
 ![](https://lh3.googleusercontent.com/DqY36LOo-xmNZlggOlvbJNf1MRHkbbNv716rkDEHEYfASMzT85nhIxgVCx2XhHUZQs1qKZM7w63-MdgJmgDVCSMwWW1eAosyQQTn3dZli1qoBvTOiuSGqPN4fPTstzDBhXSBMNHR)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 لتحديد الموقع المُستهدف بدقة، قام فريق التحقيقات في الأرشيف اليمني بجمع المحتوى البصري المرتبط بالحادثة والتحقق منه وتحديد المعالم البارزة فيه، كما تم تحديد الموقع الجغرافي ومقارنته مع صور الأقمار الصناعيّة المأخوذة لمستشفى كتاف الريفي.
 
 
@@ -127,45 +112,9 @@
 صورة من الأقمار الصناعية مأخوذة عن طريق برنامج تيرا لمستشفى كتاف الريفي وتمت مقارنتها مع صورة مأخوذة من فيديو [نشرتة](http://mubasher.aljazeera.net/news/%D8%B4%D8%A7%D9%87%D8%AF-%D9%82%D8%B5%D9%81-%D8%B3%D8%B9%D9%88%D8%AF%D9%8A-%D9%84%D9%85%D8%B3%D8%AA%D8%B4%D9%81%D9%89-%D8%A8%D8%A7%D9%84%D9%8A%D9%85%D9%86-%D9%88%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7-%D8%AA%D8%AF%D8%B9%D9%88-%D9%84%D9%84%D8%AA%D8%AD%D9%82%D9%8A%D9%82) قناة الجزيرة .
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![](https://lh6.googleusercontent.com/Y-RsgEwgJataqWfBG0z0hvuy3fT4QNJR5KhLua6TQ6MkhgmYN-mEXAx46-S-eTfg91FS2QzTDSL4NQJfbyNN0AfnwCVp7ElXTcUSjDGGLMRQkTXLAPRb6EPwWjAtrbT0KvcmvZyE)
 
 صورة من الأقمار الصناعية مأخوذة عن طريق برنامج تيرا لمستشفى كتاف الريفي وتمت مقارنتها مع صورة مأخوذة من فيديو [نشرتة](https://www.youtube.com/watch?v=sggZrozzmOE) قناة ار تي.
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -191,36 +140,13 @@
 ## أثر الهجوم
 
 
-
-
-
-
-
-
-
 نشر منير شري، وهو مدير المستشفى، في نفس يوم الهجوم [أسماء القتلى والجرحى](https://www.facebook.com/mohmed.shri.7/posts/120196045798345) بحسب عمليات مكتب الصحة في كتاف.
 
 
 
 
 
-
 ![](https://lh4.googleusercontent.com/H_3BLX1GyX_QF0mBS5x5NIYabVYRpER89xHHhB7Rp78Xhwx_00T6HRfxmGD6H8u7YeOcXGwUvAmslwgmYuEqh400m9PLWHoYApmDQ14K2-PrKXEI0SzAFTIXkRpKyjqtsoUf9na3)  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -232,19 +158,6 @@
 
 
 [![](https://lh5.googleusercontent.com/8Er_Xel14Ez98RawwraWa1eR8mif-_UqnupxOEZpFfyZ8Nw0z8pmf7zaoJVFQxvYuNb4CdkWhwEXX_80zULmpEM48_b8akJ0f_gJ5WRnHhnXGsX4EOlJYfa0Ihlo6KXsClzfdefB)![](https://lh6.googleusercontent.com/FTk6OR5Rjp75SEiDHPEGRZ3BXk1bZxveU0l_NkUJMBFzsIapjlOf3rNLsf5cvcq4nWaMvq1ETXvhc_yUyB7iEgMY8K7KaCdFRZVPfjyDzrHsrYPp8YYdX-cV45oK3LJx3JtyToLR)](http://mubasher.aljazeera.net/news/%D8%B4%D8%A7%D9%87%D8%AF-%D9%82%D8%B5%D9%81-%D8%B3%D8%B9%D9%88%D8%AF%D9%8A-%D9%84%D9%85%D8%B3%D8%AA%D8%B4%D9%81%D9%89-%D8%A8%D8%A7%D9%84%D9%8A%D9%85%D9%86-%D9%88%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7-%D8%AA%D8%AF%D8%B9%D9%88-%D9%84%D9%84%D8%AA%D8%AD%D9%82%D9%8A%D9%82)
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

@@ -1,10 +1,12 @@
-# Alleged Saudi-led coalition airstrike killed and wounded patients at the Kitaf Rural Hospital
-
-
+---
+layout: investigation.html
+title: "Alleged Saudi-led coalition airstrike killed and wounded patients at the Kitaf Rural Hospital"
+date: 2019-12-09
+desc: "Alleged Saudi-led coalition airstrike killed and wounded patients at the Kitaf Rural Hospital"
+image: /assets/daralshifaheader.png
+---
 
 ## Incident information
-
-
 
 Location: Kitaf, Sa’adah
 
@@ -39,52 +41,7 @@ That same day, the Ministry of Human Rights in Yemen published a [statement](htt
 ![](https://lh4.googleusercontent.com/QniEeytzaOkhv7iByY7PtrM13TBqddXg5T2qm7GiVtLCeHdmLVsLMO3DvMiqlymF7jJ49XlVgkB93FFR-mAp0V6Fmldo3DzEn56zTbxT5OifYk-cIMuTZqB46czBdnjEBjZj5bwY)![](https://lh3.googleusercontent.com/DOav_0IOZEo-KwYD0fHH6SYeKMTPJY3k0lDFRzUGToW9hHVYaTdGVw7ROm1SzPdEog0LOw-pE8CUPQwfZ5wJcCfSuOLSRT7jyFyxQLH3gnZe7q--k4XJMXqwpHhrkwjj52HzvACr)  
 
 
-
-
-
-
-
-
-
-
-
 ![](https://lh3.googleusercontent.com/sXxGiDLnFJdixTlXfDkPM83ZHk3di7MHHCibvOx16c8XlV42zcb7JLBNChO4M4V1H5YBg4sIOiXp2iawmu18mJXStijq9G9jZYgJuocKj3eIr2VrewZA11p0ugXBm8SY2T2kCdfo)![](https://lh4.googleusercontent.com/yjeRctAQ_dZmwvOzDs3pOb4UzjlzD1k3ZO3u_SNVBjSqz-x1XKanw9ltuR51Q_yNdouE97yslcva_GPPquSseVw7TXMUTKSxR6Mnhu5LYTJUCQXxu0MfiLKnrj26GNXXFutaZyId)  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 The following day, Al Mashhad Al Yemeni YouTube channel posted a [video](https://www.youtube.com/watch?v=eHSEThNPGdE) of the hospital. In the video, an eyewitness is heard saying: "A Saudi-American enemy warplane, on Tuesday morning on the 26th of March, attacked a station, a hospital and a pharmacy.... There was a market full of civilians ... and their bodies are still under the rubble, so far, we have found seven dead, three injured… and the others are still under the rubble.”
 
@@ -108,40 +65,15 @@ Reuters [reported](https://ara.reuters.com/article/ME_TOPNEWS_MORE/idARAKCN1R92M
 
 Save the Children, which supports the Kitaf Rural Hospital, [reported](https://twitter.com/SaveUKNews/status/1110672410192293890) on their Twitter account that the attack took place on March 26, 2019 at 9:30 am local time. Mohamed Ahmed Al-Hatmi also posted a [statement](https://www.facebook.com/LegalCenterforRightsanddevelopment/posts/2272508726404208) on his personal Facebook page from the Legal Center for Rights and Development (CDRL) stating that the date and the time of the attack was 26 March 2019 at 9:30 am local time.![](https://lh5.googleusercontent.com/ie8ClyXo8jIVw8qXhvODDV5EN2e4rRrNDqsNXdwVxZlm9lbz5qR4pP3HvHdsQnLy3XJsb8RLbVY64FNB64kbRmsY9sR_qxBJAAnHX4rKbn5XinQrwT7XqKeqsyhYdEVUjpT5EJHI)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Helle Thorning-Schmidth, who was the CEO of Save the Children at the time, [reported](https://twitter.com/HelleThorning_S) news of the attack on her Twitter account about the attack on the same day at 10:46 pm.
 
 
 
 ![](https://lh3.googleusercontent.com/QrIZd5s_5_6_jgPkxkjvYZ7YnSRXElc-qwhhrCkDSXwk2aJ7Ut6_VelDvoGRoAAy3aVcpU29bmHoiGENLvTTcvqUlurJvRfmXHn0XXWwlqZosKMAV74bwe232i0mrhK-lKtnvIVI)
 
-
-
-
-
-
-
 To determine the exact location of the attack, Yemeni Archive collected and verified visual content associated with the incident. This involved identifying landmarks as well as locating Kitaf Rural Hospital using satellite imagery.
 
 ![](https://lh5.googleusercontent.com/jfRwM4XKjJvlHYbUPTKzIdWvMLRQ1x23S1C9ZHx3c2_FANn6SpLc1btUrW8LInDxZg6CX7aZihNHco_wglLat7qC3JsefL6-XDHid5UBzRAZ46nd45C-gWwJ5SlbB8AYwgyGgQtK)Satellite imagery was taken from TerraServer of the Kitaf Rural Hospital in the district of Kitaf in Sa’dah governorate.  
-
-
-
-
 
 ![](https://lh5.googleusercontent.com/wlc39GT4gXBbVp4SnEkKKhjrnhqzSRt_2iNA1WnfxiMT1dm6TZRJKNI3rtZbkplDPZCHRk5LdQvWgpbUFbfJEDr-Lmq7cdh1x0hXe8_R99P1V7fqqtdyVaM2rL7-WyoSpp4Tvx_c)
 
@@ -153,21 +85,9 @@ Satellite imagery was taken from Google Earth of the Kitaf Rural Hospital and co
 Satellite imagery was also taken from TerraServer of the Kitaf Rural Hospital and compared with a snapshot that appeared in a video by [Aljazeera](http://mubasher.aljazeera.net/news/%D8%B4%D8%A7%D9%87%D8%AF-%D9%82%D8%B5%D9%81-%D8%B3%D8%B9%D9%88%D8%AF%D9%8A-%D9%84%D9%85%D8%B3%D8%AA%D8%B4%D9%81%D9%89-%D8%A8%D8%A7%D9%84%D9%8A%D9%85%D9%86-%D9%88%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7-%D8%AA%D8%AF%D8%B9%D9%88-%D9%84%D9%84%D8%AA%D8%AD%D9%82%D9%8A%D9%82). The images also showed a match.
 
 
-
-
-
-
-
-
-
-
-
 ![](https://lh6.googleusercontent.com/1am-kAvm_NuKCMTQiSx6DfgtLWiPsW9E9t1J7Rlu_5mlO27ULiUuyHjDRDEdiDAo8UtLVAmyg3gE9xscgr5dbn1pHurCRlfiNFUS5_mnPHLE4-iGMpn9f77FnWPZGogHylB2Fywq)  
 
 Satellite image was taken from TerraServer of the Kitaf Rural Hospital and compared with a snapshot that appeared in a video by [RT Channel](https://www.youtube.com/watch?v=sggZrozzmOE). The images also showed a match.
-
-
-
 
 
 ![](https://lh5.googleusercontent.com/YuROk0OYb1t1_4aBhPxF8Unwtu-PEOhAuruR0sVakThRWRR2dh_KmDapGWbnFXpDpTjttLodP5IT6m0KWlrzlpNzB5cYwoCji5IUqzDZhbJNZzSym-0pmnLy23WHcGhLfaX2BneC)
@@ -176,38 +96,7 @@ Satellite imagery was taken from TerraServer of the Kitaf Rural Hospital compare
 
 
 
-
-
-
-
-
-
-
-
 ![](https://lh6.googleusercontent.com/Xjrf9Lt1LRwWq5eULQQ235Bkiv_6WpfCS72J6qO2hwFzUVxmI3giNsAcZVcFGV5EtbbWdp0DafQ4X2KfCyvy2ZtNT6hSb9_0DkJpl5zTJpTT7DERPZu-C3vRCHTkqSiLxxAn1mM4)  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 Satellite imagery was taken from TerraServer of the Kitaf Rural Hospital and compared with snapshot of a different angle from the [video](https://www.youtube.com/watch?v=i8W3MXN-mjE) by Euronews and also showed a match.
@@ -227,12 +116,6 @@ Munir Shri, the director of the hospital, published on the same day of the attac
 ![](https://lh4.googleusercontent.com/H_gRQFfSCi29rEmzC1vZGQMNw473aEU9CC-1ZQMr0YzvzYgwMUBYju3B2xH9kt4b1LnohVu6QT7a0XBi1x1ldE3qkUkWDADd9F0pbvBtZ-swVQmxLKTPg9EMawLaHgfvFwOknps3)
 
 
-
-
-
-
-
-
 ![](https://lh5.googleusercontent.com/rZQuEmc_g0M6HLVYLi04l2MgVcncFomG81qI5eKpF3pf-blBHcZd2US_thXQ_En06CFHDIzc2Yfp8j4llueCp3tYrFPNiJfTN3xf0HuPDmfasAbqm3lzgOGjJ1OIj-LuDu7e35sI)
 
 This shot of the remnants of the weapon used in the raid appeared in a video by [Aljazeera](http://mubasher.aljazeera.net/news/%D8%B4%D8%A7%D9%87%D8%AF-%D9%82%D8%B5%D9%81-%D8%B3%D8%B9%D9%88%D8%AF%D9%8A-%D9%84%D9%85%D8%B3%D8%AA%D8%B4%D9%81%D9%89-%D8%A8%D8%A7%D9%84%D9%8A%D9%85%D9%86-%D9%88%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7-%D8%AA%D8%AF%D8%B9%D9%88-%D9%84%D9%84%D8%AA%D8%AD%D9%82%D9%8A%D9%82).
@@ -246,9 +129,6 @@ This shot of the remnants of the weapon used in the raid appeared in a video by 
 Talaat al-Sharbaji also posted on his personal Twitter account [photos](https://twitter.com/talaatsaeed/status/1110591853634744322) from inside the hospital after the attack.
 
 ![](https://lh6.googleusercontent.com/d9aMXzN_kbFRU1O49WbCaEfRxiH1hNdc2qXul3SZNVg_DFdZ9cTv0vflV07DXiMFON4diIMjtDkCHQvHa6JnwR-wyYHO1QjSAg8Lj82u51meGsTkg_deZqk9XbbNJViKIrOidSiR)
-
-
-
 
 
 
