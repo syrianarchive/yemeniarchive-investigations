@@ -1,7 +1,7 @@
 ---
 layout: investigation.html
 title: "Multiple attacks on 22 May Hospital in Al Hudaydah"
-date: 2019-12-09
+date: 2019-12-10
 desc: "Multiple attacks on 22 May Hospital in Al Hudaydah"
 image: /assets/22_may_hospital.png
 ---

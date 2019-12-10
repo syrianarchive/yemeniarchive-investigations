@@ -1,7 +1,7 @@
 ---
 layout: investigation.html
 title: "استهداف مستشفى كتاف الريفي"
-date: 2019-12-09
+date: 2019-12-10
 desc: "استهداف مستشفى كتاف الريفي"
 image: /assets/Kitaf_hospital.png
 ---

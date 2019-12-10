@@ -1,7 +1,7 @@
 ---
 layout: investigation.html
 title: "Alleged Saudi-led coalition airstrike killed and wounded patients at the Kitaf Rural Hospital"
-date: 2019-12-09
+date: 2019-12-10
 desc: "Alleged Saudi-led coalition airstrike killed and wounded patients at the Kitaf Rural Hospital"
 image: /assets/Kitaf_hospital.png
 ---
