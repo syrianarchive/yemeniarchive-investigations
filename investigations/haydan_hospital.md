@@ -3,11 +3,10 @@ layout: investigation.html
 title: "Airstrikes on Hydan Hospital in Sa'dah"
 date: 2019-12-30
 desc: "Airstrikes on Hydan Hospital in Sa'dah"
-image: /assets/althawra-image35.png
+image: /assets/hydan-cover.png
 ---
 
-After gathering, verifying and analysing photos and visual content published on social media and news networks Yemeni Archive has concluded and verified that Hydan Hospital in [Sa'dah](https://www.google.com/maps/place/%D8%AD%D9%8A%D8%AF%D8%A7%D9%86%D8%8C+%D8%A7%D9%84%D9%8A%D9%8E%D9%85%D9%8E%D9%86%E2%80%AD/@16.7761196,43.439963,15z/data=!3m1!4b1!4m5!3m4!1s0x16076117cc61d4b5:0x2c02afe0452f89af!8m2!3d16.7762818!4d43.4331702?hl=ar) Governorate was targeted with several airstrikes on October 26, 2015. According to the evidence verified and analysed using open source tools, the attack on Hydan Hospital in Sa'dah led to its almost complete destruction. Hydan Hospital is the only hospital in the area and it is supported by Doctors Without Borders (MSF). The attack resulted in the death of a hospital staff member. According to MSF, the rest were able to escape along with their patients.
-
+After gathering, verifying and analysing photos and visual content published on social media and news networks Yemeni Archive has concluded and verified that Hydan Hospital in [Sa'dah](https://www.google.com/maps/place/%D8%AD%D9%8A%D8%AF%D8%A7%D9%86%D8%8C+%D8%A7%D9%84%D9%8A%D9%8E%D9%85%D9%8E%D9%86%E2%80%AD/@16.7761196,43.439963,15z/data=!3m1!4b1!4m5!3m4!1s0x16076117cc61d4b5:0x2c02afe0452f89af!8m2!3d16.7762818!4d43.4331702?hl=ar) Governorate was targeted with several airstrikes on October 26, 2015. According to the evidence verified and analysed using open source tools, the attack on Hydan Hospital in Sa'dah led to its almost complete destruction. Hydan Hospital is the only hospital in the area and it is supported by Doctors Without Borders (MSF).
   
 
 The [attack](https://twitter.com/yqeenagency/status/658737568834416641) began around 11:00 pm on October 26, 2015 with two airstrikes targeting the hospital. The attack continued with several airstrikes for over a [two hour](https://www.facebook.com/msf.arabic/posts/1049746981723157) period, which led to almost complete destruction of the hospital. The attack prevented about 200,000 people from receiving health care provided by Hydan Hospital, the only health center located in the four districts of the Sa'dah Governorate.

@@ -3,10 +3,10 @@ layout: investigation.html
 title: "Targeting Al Sabeen Maternal Hospital in Sana'a"
 date: 2019-12-30
 desc: "Targeting Al Sabeen Maternal Hospital in Sana'a"
-image: /assets/althawra-image35.png
+image: /assets/sabeen-cover.png
 ---
 
-After gathering, verifying and analysing visual content published on social media and news networks,Yemeni Archive has concluded that [Al Sabeen Maternal Hospital](https://www.google.com/maps/place/%D9%85%D8%B3%D8%AA%D8%B4%D9%81%D9%89+%D8%A7%D9%84%D8%B3%D8%A8%D8%B9%D9%8A%D9%86+%D8%A7%D9%84%D9%86%D9%85%D9%88%D8%B0%D8%AC%D9%8A%E2%80%AD/@15.3298462,44.2073025,19z/data=!4m12!1m6!3m5!1s0x1603db1f71e23bf9:0x6c8947410379d532!2z2YXYs9iq2LTZgdmJINin2YTYs9io2LnZitmGINin2YTZhtmF2YjYsNis2Yo!8m2!3d15.3299673!4d44.2067203!3m4!1s0x1603db1f71e23bf9:0x6c8947410379d532!8m2!3d15.3299673!4d44.2067203?hl=ar), located to the south of the Yemeni capital Sana'a, was directly impacted by [intensive airstrikes](https://www.youtube.com/watch?v=Uo1kIz1OQYs&app=desktop)  carried out by the Saudi-led coalition on the area neighboring the hospital and in particular the headquarters of the Special Security Forces (formerly known as the Central Security). The bombing killed two children and injured medical personnel.
+After gathering, verifying and analysing visual content published on social media and news networks,Yemeni Archive has concluded that [Al Sabeen Maternal Hospital](https://www.google.com/maps/place/%D9%85%D8%B3%D8%AA%D8%B4%D9%81%D9%89+%D8%A7%D9%84%D8%B3%D8%A8%D8%B9%D9%8A%D9%86+%D8%A7%D9%84%D9%86%D9%85%D9%88%D8%B0%D8%AC%D9%8A%E2%80%AD/@15.3298462,44.2073025,19z/data=!4m12!1m6!3m5!1s0x1603db1f71e23bf9:0x6c8947410379d532!2z2YXYs9iq2LTZgdmJINin2YTYs9io2LnZitmGINin2YTZhtmF2YjYsNis2Yo!8m2!3d15.3299673!4d44.2067203!3m4!1s0x1603db1f71e23bf9:0x6c8947410379d532!8m2!3d15.3299673!4d44.2067203?hl=ar), located to the south of the Yemeni capital Sana'a, was directly impacted by [intensive airstrikes](https://www.youtube.com/watch?v=Uo1kIz1OQYs&app=desktop) carried out by the Saudi-led coalition on the area neighboring the hospital and in particular the headquarters of the Special Security Forces (formerly known as the Central Security). The bombing killed two children and injured medical personnel.
 
  
 ![](https://lh5.googleusercontent.com/9FfMei-1smqpzuilvbyHFr_aYhvwUrFizlRkIDciR7JP0qtLjvzOlEu9LrUFJjHjBd8CsQ1NjihrmbYiUwLbq1pSkO7xrJbbf3xJ2RpxuY6a3QyV1KI-BKKJPr-o5riwMhbZcd_h)
