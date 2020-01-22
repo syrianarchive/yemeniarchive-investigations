@@ -3,7 +3,7 @@ layout: investigation.html
 title: "النفايات الطبية في تعز: المستشفيات تصنع الكارثة"
 date: 2020-01-22
 desc: "النفايات الطبية في تعز: المستشفيات تصنع الكارثة"
-image:https://lh5.googleusercontent.com/eXG9otoCQfaVgB39QseDoBeuwMGJMVl3CSgXQ0FNatux3Rly_QyZyTalmp7MlZm5_5-5REVikbkUROD8mJJegtmB6bngwOvgZUdlUz86ZIib5bhGPvcHmy-oOhRsdSEO5hBOcHCn/assets/Kitaf_hospital.png
+image: /assets/medical-waste-cover.jpg
 ---
 
 # النفايات الطبية في تعز: المستشفيات تصنع الكارثة
