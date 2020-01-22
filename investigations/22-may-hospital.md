@@ -5,11 +5,6 @@ date: 2020-01-22
 desc: "Multiple attacks on 22 May Hospital in Al Hudaydah"
 image: /assets/22_may_hospital.png
 ---
-
-# Targeting 22 may hospital in Al-Hudaydah
-
-  
-
 ## Incident information
 
   
