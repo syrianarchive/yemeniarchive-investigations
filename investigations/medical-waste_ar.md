@@ -247,3 +247,10 @@ image: /assets/medical-waste-cover.jpg
   
 
 ![](https://lh4.googleusercontent.com/4r4QI0ucxjHcRAUiNATJGhfyWltRuTFAv3WFBcZy4bfQAfjvDIy6WGpWyt5SFGeI3JvN5gaYe_vlSqtGNAsv-4HfniMl9BUf-XG2Xe6gbDpRRyLNBNtnCKmvxppvrLW-9m-e2fLY)
+
+تحقيق | عبدالله المعمري
+
+تصوير | حمزة الجبيحي
+
+
+ينشر بالتعاون مركز Free Media  
