@@ -4,6 +4,8 @@ title: "استهداف مستشفى كتاف الريفي"
 date: 2020-01-22
 desc: "استهداف مستشفى كتاف الريفي"
 image: /assets/Kitaf_hospital.png
+drafts: true
+
 ---
 ## معلومات عن الحادثة
 
