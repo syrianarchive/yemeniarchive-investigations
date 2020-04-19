@@ -44,19 +44,7 @@ Taiz Central Prison is [located](https://www.google.com/maps/@13.5773909,43.9554
 
 At the end of June 2015, around 1,200 prisoners [escaped](https://www.youtube.com/watch?v=rtVvGpgO5qE) from Taiz [Central](https://www.bbc.com/arabic/middleeast/2015/06/150630_prison_break_yemen) Prison after the “Popular Resistance Forces” approached the vicinity of the prison, which was controlled by Ansar Allah Houthi group. Among those who escaped were al-Qaeda inmates, and criminals, The prison fence was also impacted as a result of the military confrontations, before the prison was [repaired](https://mail.almasdaronline.info/articles/150582), and the new inmates were transferred to it in October 2017.
 
-[https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=99a02588-7fd9-11ea-a879-0edaf8f81e27](https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=99a02588-7fd9-11ea-a879-0edaf8f81e27)
-
-
-
-
-<iframe frameborder="0" class="juxtapose" width="100%" height="938.9999999999999" src="[https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=99a02588-7fd9-11ea-a879-0edaf8f81e27](https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=99a02588-7fd9-11ea-a879-0edaf8f81e27)"></iframe>
-
-
-
-
-
-
-
+<iframe frameborder="0" class="juxtapose" width="100%" height="500px" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=99a02588-7fd9-11ea-a879-0edaf8f81e27">"(https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=99a02588-7fd9-11ea-a879-0edaf8f81e27)"></iframe>
 
 ## What happened and when?
 

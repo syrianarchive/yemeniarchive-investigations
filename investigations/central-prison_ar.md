@@ -44,7 +44,7 @@ image: /assets/centel-prison-cover.png
 [يقع](https://www.google.com/maps/@13.5773909,43.9554163,437m/data=!3m1!1e3?hl=ar) سجن تعز المركزي في منطقة عقاقة بمديرية المظفر غربي مدينة تعز، على الطريق الوحيد المتبقي للمدينة والمؤدي إلى وادي الضباب المحاذي لمناطق الاشتباك بين أطراف النزاع، ويبعد السجن 2 كيلومتر تقريباً عن أقرب موقع عسكري يسيطر عليه الحوثيون.
 
 
-<iframe frameborder="0" class="juxtapose" width="100%" height="938.9999999999999" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=99a02588-7fd9-11ea-a879-0edaf8f81e27">"(https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=99a02588-7fd9-11ea-a879-0edaf8f81e27)"></iframe>
+<iframe frameborder="0" class="juxtapose" width="100%" height="500px" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=99a02588-7fd9-11ea-a879-0edaf8f81e27">"(https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=99a02588-7fd9-11ea-a879-0edaf8f81e27)"></iframe>
 
 ## ماذا حدث ومتى؟
 
